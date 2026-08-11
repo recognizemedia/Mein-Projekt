@@ -1,6 +1,6 @@
 # Leadquellen – Recognize You
 
-Referenziert: [brand-basis.md](./brand-basis.md), [vertriebssystem.md](./vertriebssystem.md)
+Referenziert: [brand-basis.md](./brand-basis.md), [vertriebssystem.md](./vertriebssystem.md), [lead-scoring.md](./lead-scoring.md)
 
 ## Bereits festgelegt
 
