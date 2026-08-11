@@ -6,15 +6,54 @@ Referenziert: [brand-basis.md](./brand-basis.md)
 
 | Call | Ziel | Dauer |
 |---|---|---|
-| Call 1 | Reine Terminierung, keine Qualifizierung | offen, Skript steht aus |
+| Call 1 | Reine Terminierung, keine Qualifizierung | kurz, wenige Minuten |
 | Call 2 | Qualifizierung über Fragerunde, Kunde merkt den Unterschied zu anderen Anbietern | ca. 15 Minuten |
-| Call 3 | Abschluss, Vertragsunterschrift, Start der Zusammenarbeit | offen, Skript steht aus |
+| Call 3 | Ansatz präsentieren, Abschluss, Vertragsunterschrift, Start der Zusammenarbeit | offen, je nach Gesprächsverlauf |
 
 Preissegment: 2.500 bis 3.500 EUR.
 
 ## Call 1 – Terminierung
 
-Skript steht noch aus.
+Ziel ausschließlich: Termin für Call 2 fixieren. Keine Qualifizierung, kein Pitch. Passend zur Brand Identity: nicht überzeugen wollen, sondern eine Beobachtung oder Frage platzieren, die Neugier auslöst.
+
+### Eröffnung
+
+„Hallo Herr NACHNAME, hier ist Kevin Kowsky von Recognize You. Haben Sie kurz zwei Minuten?"
+
+### Bezug herstellen
+
+„Ich melde mich, weil BEZUG AUFGREIFEN."
+
+BEZUG AUFGREIFEN: konkreter Anlass, zum Beispiel Empfehlung durch NAME, Beitrag auf LinkedIn/Instagram gesehen, Anfrage über die Website.
+
+### Neugier wecken, ohne zu pitchen
+
+„Mir ist aufgefallen, HOOK BEOBACHTUNG. Das ist mir deswegen aufgefallen, weil ich das öfter bei Unternehmen sehe, die eigentlich richtig gute Arbeit leisten, aber online nicht so rüberkommen, wie sie es eigentlich verdient hätten."
+
+„Ich will Ihnen jetzt nicht am Telefon etwas verkaufen, das mag ohnehin keiner. Mir geht es darum, mir fünfzehn Minuten Zeit zu nehmen und ein paar gezielte Fragen zu stellen, damit ich sehe, ob und wie wir Ihnen da überhaupt weiterhelfen können."
+
+### Terminvorschlag
+
+„Passt es Ihnen eher TAG1 oder TAG2 besser?"
+
+„Gut, dann halte ich uns TAG UHRZEIT fest. Sie brauchen sich auf nichts vorzubereiten, das wird ein ganz normales Gespräch."
+
+### Einwände
+
+„Worum geht es denn genau?"
+„Ehrlich gesagt geht es erstmal nur darum herauszufinden, ob es überhaupt Sinn ergibt, dass wir uns näher unterhalten. Deswegen die Fragen im nächsten Gespräch, nicht schon jetzt am Telefon."
+
+„Ich habe gerade keine Zeit."
+„Verstehe ich, genau deswegen rede ich jetzt auch nicht weiter, sondern wir machen einen festen Termin, für den Sie sich die Zeit bewusst freihalten können."
+
+„Schicken Sie mir das lieber per Mail."
+„Mache ich gerne zusätzlich, aber eine allgemeine Mail bringt Ihnen ehrlich gesagt wenig, weil jedes Unternehmen andere Herausforderungen hat. Deswegen lieber kurz am Telefon, das dauert nur fünfzehn Minuten."
+
+### Verabschiedung
+
+„Dann sprechen wir uns TAG um UHRZEIT. Einen schönen Tag noch, Herr NACHNAME."
+
+**Expertenanmerkung:** Der Hook muss konkret und individuell sein, keine Standardfloskel. Eine generische Beobachtung entlarvt den Call sofort als Massenansprache und widerspricht der ganzen Positionierung.
 
 ## Call 2 – Qualifizierung (Fragerunde)
 
@@ -23,6 +62,8 @@ Arbeitsstand: erste Version, eingereicht von Kevin. Annahme, die noch zu bestät
 ### Einstieg Gespräch
 
 „Hallo Herr NACHNAME, wir haben BEZUG AUFGREIFEN. Wie ist da denn der Stand bei Ihnen?"
+
+Hier bezieht sich BEZUG AUFGREIFEN auf das, was in Call 1 vereinbart oder angesprochen wurde.
 
 ### Bewusstsein Lösung
 
@@ -76,24 +117,81 @@ Arbeitsstand: erste Version, eingereicht von Kevin. Annahme, die noch zu bestät
 
 „Punkt UHRZEIT rufe ich an, da können Sie die Uhr danach stellen. Wenn es klingelt, bin ich dran."
 
-### Platzhalter-Legende
+**Expertenanmerkungen:**
+
+- Vor dem Übergang zu Finanzen und Zukunft fehlt noch ein Punkt, an dem der Kunde die aktuelle Schwäche selbst ausspricht. Das verstärkt den Aha-Effekt, den Call 2 auslösen soll.
+- Die Fragen zu Firmengründung und Nachfolge sind stark, aber sehr persönlich. Erst platzieren, wenn im Gespräch schon spürbares Vertrauen da ist, nicht als festen Ablaufpunkt.
+- Der Übergang von „Abfrage Zukunft" zu „Vereinbarung Abschlussgespräch" sollte kurz auf die Antworten des Kunden Bezug nehmen, damit die Terminvereinbarung nicht wie ein reiner Skriptwechsel wirkt.
+
+## Call 3 – Ansatz präsentieren und Abschluss
+
+Baut direkt auf der Zusage aus Call 2 auf: Kevin präsentiert seinen Ansatz, danach folgt der Abschluss.
+
+### Wiedereinstieg
+
+„Hallo Herr NACHNAME, schön, dass es klappt. Ich habe mir zu allem, was Sie mir beim letzten Mal erzählt haben, Gedanken gemacht und möchte Ihnen jetzt kurz zeigen, wie ich das für Sie angehen würde."
+
+### Zusammenfassung spiegeln
+
+„Wenn ich das nochmal zusammenfasse: Sie haben mir erzählt, dass NOTIZEN AUS CALL 2, und dass es Ihnen vor allem darum geht, ERGEBNIS X und ERGEBNIS Y zu erreichen. Habe ich das richtig verstanden?"
+
+Auf die Bestätigung warten, bevor es weitergeht. Das ist der Punkt, an dem der Kunde dem eigenen Bedarf noch einmal aktiv zustimmt.
+
+### Ansatz präsentieren
+
+„Genau darauf habe ich meinen Vorschlag aufgebaut. ANSATZ IN 2 BIS 3 SÄTZEN: konkrete erste Schritte, verknüpft mit ERGEBNIS X und ERGEBNIS Y."
+
+„Statt dass wir uns nur eine einzelne Baustelle rausgreifen, bauen wir das komplett zusammen auf: MASSNAHME 1, MASSNAHME 2, MASSNAHME 3. Das Ziel dabei ist nicht, dass irgendwas hübscher aussieht, sondern dass ERGEBNIS X und ERGEBNIS Y tatsächlich passieren."
+
+### Unterschied benennen
+
+„Der Unterschied zu dem, was Sie bisher kennen: Ich verkaufe Ihnen nicht eine Leistung und bin dann wieder weg. Wir bleiben während der ganzen Zusammenarbeit so eng dran, wie wir das jetzt in unseren Gesprächen auch schon waren."
+
+### Investment nennen
+
+„Für die Zusammenarbeit in der Form liegt die monatliche Investition bei INVESTMENT EUR. Damit ist PAKETINHALT abgedeckt."
+
+„Die eigentliche Frage ist nicht, ob Ihnen der Preis das wert ist, sondern ob Ihnen ERGEBNIS X und ERGEBNIS Y das wert sind."
+
+### Einwände
+
+„Das ist mir zu teuer."
+„Verstehe ich. Darf ich fragen, im Vergleich wozu genau zu teuer? Was kostet es Sie denn aktuell, wenn sich an AKTUELLE SITUATION AUS CALL 2 nichts ändert?"
+
+„Ich muss das noch mit meiner Frau/meinem Partner besprechen."
+„Vollkommen verständlich. Was genau würde für die Entscheidung noch fehlen, damit wir das gemeinsam klären können?"
+
+„Ich hole mir noch andere Angebote ein."
+„Macht Sinn. Wonach genau vergleichen Sie die Angebote?"
+
+### Abschluss
+
+„Wenn das für Sie soweit passt, schicke ich Ihnen den Vertrag direkt über DocuSign, den können Sie bequem online unterschreiben. Danach vereinbaren wir gleich den Kickoff-Termin. Passt das für Sie?"
+
+### Verabschiedung
+
+„Ich freue mich auf die Zusammenarbeit, Herr NACHNAME. Bis bald."
+
+**Expertenanmerkungen:**
+
+- Die Zusammenfassung am Anfang ist der wichtigste Teil des ganzen Calls. Der Kunde muss aktiv "ja, richtig" sagen, bevor der Ansatz überhaupt gezeigt wird. Das schafft die Zustimmung, auf die sich der Rest des Gesprächs stützt.
+- Der Preis wird bewusst erst nach dem Ansatz genannt, nie davor. Vorher hat der Kunde keinen Bezugsrahmen, wofür er zahlt.
+- Bei den Einwänden nie sofort rechtfertigen oder Rabatt anbieten, sondern zuerst durch eine Rückfrage den eigentlichen Grund hinter dem Einwand freilegen.
+
+## Platzhalter-Legende
 
 | Platzhalter | Bedeutung |
 |---|---|
 | NACHNAME | Nachname des Ansprechpartners |
-| BEZUG AUFGREIFEN | Konkreter Anlass des Kontakts (z. B. Empfehlung, LinkedIn-Nachricht, Anfrage) |
-| EIGENSCHAFT | Markeneigenschaften, die der Kunde vorab genannt hat oder die aus seiner Außendarstellung erkennbar sind |
-| ERGEBNIS X / ERGEBNIS Y | Konkrete Ergebnisse, die aus den vorherigen Antworten des Kunden abgeleitet werden |
-| NOTIZEN NOCHMAL VORGEBEN | Stichpunkt aus den vorherigen Antworten des Kunden, der hier gespiegelt wird |
-| MORGEN/TAG | Konkretes Datum für Call 3 |
-| UHRZEIT | Konkrete Uhrzeit für den Rückruf |
-
-### Expertenanmerkungen (offen zu besprechen)
-
-- Die Fragestruktur deckt bereits die klassischen Situations- und Bedarfsfragen ab (Zielgruppe, Traffic, Wachstum, Ziel). Was noch fehlt, ist ein expliziter Punkt, an dem der Kunde die aktuelle Schwäche selbst ausspricht, bevor es zu Finanzen und Zukunft übergeht. Das verstärkt den Aha-Effekt, den Call 2 laut Zieldefinition auslösen soll.
-- Die Fragen zu Firmengründung und Nachfolge sind stark und passen zur persönlichen Note von Recognize You, sollten aber erst nach spürbarem Vertrauen im Gespräch kommen, nicht als Pflichtprogramm.
-- Der Übergang von „Abfrage Zukunft" zu „Vereinbarung Abschlussgespräch" könnte kurz auf die Antworten des Kunden Bezug nehmen, damit die Terminvereinbarung nicht wie ein reiner Skriptwechsel wirkt.
-
-## Call 3 – Abschluss
-
-Skript steht noch aus.
+| BEZUG AUFGREIFEN | Konkreter Anlass des Kontakts, in Call 1 der ursprüngliche Anlass, in Call 2 der Bezug zu Call 1 |
+| HOOK BEOBACHTUNG | Konkrete, individuelle Beobachtung zur Außendarstellung des Unternehmens |
+| TAG1 / TAG2 / TAG | Konkrete Termintage |
+| UHRZEIT | Konkrete Uhrzeit |
+| EIGENSCHAFT | Markeneigenschaften, die der Kunde vorab genannt hat oder aus seiner Außendarstellung erkennbar sind |
+| ERGEBNIS X / ERGEBNIS Y | Konkrete Ergebnisse, abgeleitet aus den Antworten des Kunden in Call 2 |
+| NOTIZEN NOCHMAL VORGEBEN / NOTIZEN AUS CALL 2 | Stichpunkte aus den vorherigen Antworten des Kunden, die gespiegelt werden |
+| ANSATZ IN 2 BIS 3 SÄTZEN | Individueller Umsetzungsvorschlag, abgeleitet aus Call 2 |
+| MASSNAHME 1 / 2 / 3 | Konkrete Maßnahmen aus dem Leistungsportfolio, passend zum Bedarf |
+| INVESTMENT | Konkreter monatlicher Preis innerhalb 2.500 bis 3.500 EUR |
+| PAKETINHALT | Konkreter Leistungsumfang zum genannten Preis |
+| AKTUELLE SITUATION AUS CALL 2 | Schwachpunkt, den der Kunde in Call 2 selbst genannt hat |
