@@ -2,6 +2,8 @@
 
 Referenziert: [brand-basis.md](./brand-basis.md), [leadquellen.md](./leadquellen.md)
 
+Fertig ausformulierte Skripte zum direkten Gebrauch am Telefon stehen in [skripte.md](./skripte.md). Dieses Dokument bleibt die Referenz für Struktur, Rationale und Preistabellen.
+
 ## Übersicht
 
 | Call | Ziel | Dauer |
