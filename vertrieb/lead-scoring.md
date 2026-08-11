@@ -33,4 +33,4 @@ Gesamtscore: 0 bis 10 Punkte.
 
 ## Wichtiger Hinweis
 
-Website-Schwäche allein reicht nicht als Kriterium. Ohne die Unternehmensgröße als zweites Kriterium landen sonst Leads auf der Liste, die sich die Pakete von 499 bis 8.899 EUR gar nicht leisten können, egal wie schlecht die Website ist.
+Website-Schwäche allein reicht nicht als Kriterium. Ohne die Unternehmensgröße als zweites Kriterium landen sonst Leads auf der Liste, die sich die Pakete von 399 bis 8.899 EUR gar nicht leisten können, egal wie schlecht die Website ist.

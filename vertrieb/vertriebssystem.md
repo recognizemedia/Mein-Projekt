@@ -143,7 +143,7 @@ Auf die Bestätigung warten, bevor es weitergeht. Das ist der Punkt, an dem der 
 
 | Paket | Preis | Enthalten |
 |---|---|---|
-| Social Media | 499 EUR monatlich | Logoerstellung bei Bedarf, Social-Media-Aufbau (Postings, Storys, Community), persönliche wöchentliche Betreuung |
+| Social Media | 399 EUR monatlich | Logoerstellung bei Bedarf, Social-Media-Aufbau (Postings, Storys, Community), persönliche wöchentliche Betreuung |
 | Website | 3.499 EUR einmalig, zuzüglich Social Media | wie Social Media, plus Website (Branding, neue Kunden, neue Mitarbeiter) |
 | Marketing | 8.899 EUR einmalig, zuzüglich laufendem Online Marketing | wie Website, plus Foto- und Videoshooting, Facebook- und Google-Anzeigen, E-Mail-Marketing, Online-Shop |
 
@@ -167,9 +167,9 @@ Auf die Bestätigung warten, bevor es weitergeht. Das ist der Punkt, an dem der 
 
 Je nach gewähltem Paket eine der drei Varianten:
 
-„Für das Social-Media-Paket liegt die Investition bei 499 Euro im Monat."
+„Für das Social-Media-Paket liegt die Investition bei 399 Euro im Monat."
 
-„Für das Website-Paket liegt die Investition bei 3.499 Euro einmalig, dazu laufend 499 Euro im Monat für den Social-Media-Aufbau, der da mit drinsteckt."
+„Für das Website-Paket liegt die Investition bei 3.499 Euro einmalig, dazu laufend 399 Euro im Monat für den Social-Media-Aufbau, der da mit drinsteckt."
 
 „Für das Marketing-Paket liegt die Investition bei 8.899 Euro einmalig, dazu laufend das Online-Marketing-Budget, das wir je nach gewünschtem Tempo bei Google und Facebook individuell festlegen."
 

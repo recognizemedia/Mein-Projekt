@@ -65,7 +65,7 @@ Premium-Segment. Konkrete Pakete:
 
 | Paket | Preis | Enthalten |
 |---|---|---|
-| Social Media | 499 EUR monatlich | Logoerstellung bei Bedarf, Social-Media-Aufbau (Postings, Storys, Community), persönliche wöchentliche Betreuung |
+| Social Media | 399 EUR monatlich | Logoerstellung bei Bedarf, Social-Media-Aufbau (Postings, Storys, Community), persönliche wöchentliche Betreuung |
 | Website | 3.499 EUR einmalig, zuzüglich Social Media | wie Social Media, plus Website (Branding, neue Kunden, neue Mitarbeiter) |
 | Marketing | 8.899 EUR einmalig, zuzüglich laufendem Online Marketing | wie Website, plus Foto- und Videoshooting, Facebook- und Google-Anzeigen, E-Mail-Marketing, Online-Shop |
 

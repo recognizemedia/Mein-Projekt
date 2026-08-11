@@ -154,9 +154,9 @@ Auf die Bestätigung warten, bevor es weitergeht. Der Kunde muss aktiv zustimmen
 
 Auswahl anhand Call 2: Website fehlt oder ist in schlechtem Zustand, sonst überschaubarer Bedarf, dann Website-Paket. Website ist in Ordnung, Hauptthema ist fehlende Sichtbarkeit, dann Social-Media-Paket. Kunde will umfassend wachsen, neue Kunden über Anzeigen, Kundenbindung, eventuell Online-Shop, dann Marketing-Paket.
 
-„Für das Social-Media-Paket liegt die Investition bei 499 Euro im Monat."
+„Für das Social-Media-Paket liegt die Investition bei 399 Euro im Monat."
 
-„Für das Website-Paket liegt die Investition bei 3.499 Euro einmalig, dazu laufend 499 Euro im Monat für den Social-Media-Aufbau, der da mit drinsteckt."
+„Für das Website-Paket liegt die Investition bei 3.499 Euro einmalig, dazu laufend 399 Euro im Monat für den Social-Media-Aufbau, der da mit drinsteckt."
 
 „Für das Marketing-Paket liegt die Investition bei 8.899 Euro einmalig, dazu laufend das Online-Marketing-Budget, das wir je nach gewünschtem Tempo bei Google und Facebook individuell festlegen."
 
