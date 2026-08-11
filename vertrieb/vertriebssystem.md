@@ -1,6 +1,6 @@
 # Vertriebssystem Recognize You – 3-Call-Struktur
 
-Referenziert: [brand-basis.md](./brand-basis.md)
+Referenziert: [brand-basis.md](./brand-basis.md), [leadquellen.md](./leadquellen.md)
 
 ## Übersicht
 
