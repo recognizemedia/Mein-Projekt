@@ -61,7 +61,15 @@ Mittelständische Unternehmen mit schwacher digitaler Außendarstellung beziehun
 
 ## Preissegment
 
-Premium-Retainer: 2.500 bis 3.500 EUR.
+Premium-Segment. Konkrete Pakete:
+
+| Paket | Preis | Enthalten |
+|---|---|---|
+| Social Media | 499 EUR monatlich | Logoerstellung bei Bedarf, Social-Media-Aufbau (Postings, Storys, Community), persönliche wöchentliche Betreuung |
+| Website | 3.499 EUR einmalig, zuzüglich Social Media | wie Social Media, plus Website (Branding, neue Kunden, neue Mitarbeiter) |
+| Marketing | 8.899 EUR einmalig, zuzüglich laufendem Online Marketing | wie Website, plus Foto- und Videoshooting, Facebook- und Google-Anzeigen, E-Mail-Marketing, Online-Shop |
+
+Offene Frage: Die frühere Einordnung als 2.500 bis 3.500 EUR Segment bezog sich vermutlich auf einen typischen Gesamtdeal (zum Beispiel Website-Paket plus einige Monate Social Media), nicht auf ein einzelnes Paket. Für das laufende Online-Marketing-Budget im Marketing-Paket fehlt noch eine feste Größenordnung.
 
 ## Leadquellen (Arbeitsstand, offen für Ergänzung)
 

@@ -137,11 +137,25 @@ Baut direkt auf der Zusage aus Call 2 auf: Kevin präsentiert seinen Ansatz, dan
 
 Auf die Bestätigung warten, bevor es weitergeht. Das ist der Punkt, an dem der Kunde dem eigenen Bedarf noch einmal aktiv zustimmt.
 
+### Pakete
+
+| Paket | Preis | Enthalten |
+|---|---|---|
+| Social Media | 499 EUR monatlich | Logoerstellung bei Bedarf, Social-Media-Aufbau (Postings, Storys, Community), persönliche wöchentliche Betreuung |
+| Website | 3.499 EUR einmalig, zuzüglich Social Media | wie Social Media, plus Website (Branding, neue Kunden, neue Mitarbeiter) |
+| Marketing | 8.899 EUR einmalig, zuzüglich laufendem Online Marketing | wie Website, plus Foto- und Videoshooting, Facebook- und Google-Anzeigen, E-Mail-Marketing, Online-Shop |
+
+**Auswahl anhand Call 2:**
+
+- Website fehlt oder ist in schlechtem Zustand, sonst überschaubarer Bedarf → Website-Paket.
+- Website ist in Ordnung, Hauptthema ist fehlende Sichtbarkeit und Content → Social-Media-Paket.
+- Kunde will umfassend wachsen, neue Kunden über Anzeigen, Kundenbindung, eventuell Online-Shop → Marketing-Paket.
+
 ### Ansatz präsentieren
 
 „Genau darauf habe ich meinen Vorschlag aufgebaut. ANSATZ IN 2 BIS 3 SÄTZEN: konkrete erste Schritte, verknüpft mit ERGEBNIS X und ERGEBNIS Y."
 
-„Statt dass wir uns nur eine einzelne Baustelle rausgreifen, bauen wir das komplett zusammen auf: MASSNAHME 1, MASSNAHME 2, MASSNAHME 3. Das Ziel dabei ist nicht, dass irgendwas hübscher aussieht, sondern dass ERGEBNIS X und ERGEBNIS Y tatsächlich passieren."
+„Statt dass wir uns nur eine einzelne Baustelle rausgreifen, bauen wir das komplett zusammen auf: LEISTUNGEN AUS DEM GEWÄHLTEN PAKET. Das Ziel dabei ist nicht, dass irgendwas hübscher aussieht, sondern dass ERGEBNIS X und ERGEBNIS Y tatsächlich passieren."
 
 ### Unterschied benennen
 
@@ -149,7 +163,13 @@ Auf die Bestätigung warten, bevor es weitergeht. Das ist der Punkt, an dem der 
 
 ### Investment nennen
 
-„Für die Zusammenarbeit in der Form liegt die monatliche Investition bei INVESTMENT EUR. Damit ist PAKETINHALT abgedeckt."
+Je nach gewähltem Paket eine der drei Varianten:
+
+„Für das Social-Media-Paket liegt die Investition bei 499 Euro im Monat."
+
+„Für das Website-Paket liegt die Investition bei 3.499 Euro einmalig, dazu laufend 499 Euro im Monat für den Social-Media-Aufbau, der da mit drinsteckt."
+
+„Für das Marketing-Paket liegt die Investition bei 8.899 Euro einmalig, dazu laufend das Online-Marketing-Budget, das wir je nach gewünschtem Tempo bei Google und Facebook individuell festlegen."
 
 „Die eigentliche Frage ist nicht, ob Ihnen der Preis das wert ist, sondern ob Ihnen ERGEBNIS X und ERGEBNIS Y das wert sind."
 
@@ -191,7 +211,5 @@ Auf die Bestätigung warten, bevor es weitergeht. Das ist der Punkt, an dem der 
 | ERGEBNIS X / ERGEBNIS Y | Konkrete Ergebnisse, abgeleitet aus den Antworten des Kunden in Call 2 |
 | NOTIZEN NOCHMAL VORGEBEN / NOTIZEN AUS CALL 2 | Stichpunkte aus den vorherigen Antworten des Kunden, die gespiegelt werden |
 | ANSATZ IN 2 BIS 3 SÄTZEN | Individueller Umsetzungsvorschlag, abgeleitet aus Call 2 |
-| MASSNAHME 1 / 2 / 3 | Konkrete Maßnahmen aus dem Leistungsportfolio, passend zum Bedarf |
-| INVESTMENT | Konkreter monatlicher Preis innerhalb 2.500 bis 3.500 EUR |
-| PAKETINHALT | Konkreter Leistungsumfang zum genannten Preis |
+| LEISTUNGEN AUS DEM GEWÄHLTEN PAKET | Konkrete Leistungen aus der Pakettabelle in Call 3, passend zum gewählten Paket |
 | AKTUELLE SITUATION AUS CALL 2 | Schwachpunkt, den der Kunde in Call 2 selbst genannt hat |
