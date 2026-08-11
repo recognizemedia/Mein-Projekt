@@ -2,8 +2,12 @@
   --color-bg: #ffffff;
   --color-text: #111111;
   --color-border: #e5e5e5;
+  --color-border-dark: rgba(255, 255, 255, 0.16);
+  --card-bg-dark: #1a1a1a;
   --font-base: "Roboto", Arial, sans-serif;
   --container-width: 1120px;
+  --radius: 20px;
+  --radius-sm: 10px;
 }
 
 * {
@@ -99,7 +103,7 @@ a {
 /* Sections */
 
 section {
-  padding: 96px 0;
+  padding: 110px 0;
 }
 
 section h1,
@@ -108,14 +112,17 @@ section h2 {
 }
 
 h1 {
-  font-size: clamp(2.2rem, 4.5vw, 3.5rem);
+  font-size: clamp(2.4rem, 5vw, 4rem);
   font-weight: 700;
-  line-height: 1.15;
+  line-height: 1.05;
+  letter-spacing: -0.01em;
 }
 
 h2 {
-  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  font-size: clamp(1.9rem, 3.4vw, 2.75rem);
   font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
 }
 
 .section-label {
@@ -123,8 +130,26 @@ h2 {
   letter-spacing: 0.08em;
   font-size: 14px;
   font-weight: 500;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
   display: block;
+  opacity: 0.7;
+}
+
+.section-intro {
+  max-width: 640px;
+  margin-top: 20px;
+  font-size: 1.1rem;
+}
+
+/* Dark sections */
+
+.section-dark {
+  background: var(--color-text);
+  color: var(--color-bg);
+}
+
+.section-dark .section-label {
+  opacity: 0.6;
 }
 
 /* Hero */
@@ -134,21 +159,23 @@ h2 {
 }
 
 .hero-lead {
-  font-size: 1.25rem;
-  margin-bottom: 32px;
+  font-size: 1.3rem;
+  margin-bottom: 36px;
+  max-width: 600px;
 }
 
 /* Buttons */
 
 .btn {
   display: inline-block;
-  padding: 16px 32px;
+  padding: 17px 34px;
   background: var(--color-text);
   color: var(--color-bg);
   text-decoration: none;
   font-weight: 700;
   border: 2px solid var(--color-text);
-  border-radius: 2px;
+  border-radius: 999px;
+  transition: background 0.15s ease, color 0.15s ease;
 }
 
 .btn:hover {
@@ -156,23 +183,86 @@ h2 {
   color: var(--color-text);
 }
 
+.section-dark .btn {
+  background: var(--color-bg);
+  color: var(--color-text);
+  border-color: var(--color-bg);
+}
+
+.section-dark .btn:hover {
+  background: transparent;
+  color: var(--color-bg);
+}
+
+/* Fakten */
+
+.fakten-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 32px;
+  margin-top: 16px;
+}
+
+.fakten-item {
+  text-align: left;
+}
+
+.fakten-number {
+  font-size: clamp(2.6rem, 6vw, 4rem);
+  font-weight: 700;
+  line-height: 1;
+  display: block;
+}
+
+.fakten-label {
+  display: block;
+  margin-top: 12px;
+  font-size: 1rem;
+  opacity: 0.75;
+}
+
+/* Problem */
+
+.problem-list {
+  list-style: none;
+  padding: 0;
+  margin: 48px 0 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 24px;
+}
+
+.problem-list li {
+  padding: 28px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  font-weight: 500;
+}
+
 /* Leistungen */
 
 .leistungen-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 32px;
+  gap: 28px;
   margin-top: 48px;
 }
 
 .leistung {
-  border: 1px solid var(--color-border);
+  border: 1px solid var(--color-border-dark);
+  border-radius: var(--radius);
   padding: 32px;
+  background: var(--card-bg-dark);
 }
 
 .leistung h3 {
   margin-top: 0;
-  font-size: 1.1rem;
+  font-size: 1.15rem;
+}
+
+.leistung p {
+  opacity: 0.8;
+  margin-bottom: 0;
 }
 
 /* Ergebnisse */
@@ -180,18 +270,78 @@ h2 {
 .ergebnisse-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 32px;
+  gap: 28px;
   margin-top: 48px;
 }
 
 .ergebnis-card {
   border: 1px solid var(--color-border);
-  padding: 32px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 20px 40px -28px rgba(17, 17, 17, 0.35);
 }
 
-.ergebnis-card.placeholder {
-  border-style: dashed;
+.ergebnis-preview {
+  background: var(--color-text);
+  color: var(--color-bg);
+  aspect-ratio: 16 / 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  opacity: 0.6;
+  text-align: center;
+  padding: 24px;
+}
+
+.ergebnis-body {
+  padding: 24px 28px 28px;
+}
+
+.ergebnis-body h3 {
+  margin: 0 0 8px;
+  font-size: 1.1rem;
+}
+
+.ergebnis-body p {
+  margin: 0;
+}
+
+.ergebnis-card.placeholder .ergebnis-preview {
+  background: #f5f5f5;
+  color: #999999;
+  border: 1px dashed var(--color-border);
+}
+
+.ergebnis-card.placeholder .ergebnis-body {
   color: #666666;
+}
+
+/* Prozess */
+
+.prozess-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 32px;
+  margin-top: 56px;
+}
+
+.prozess-step-number {
+  font-size: clamp(2rem, 4vw, 2.75rem);
+  font-weight: 700;
+  opacity: 0.5;
+  display: block;
+  margin-bottom: 16px;
+}
+
+.prozess-step h3 {
+  margin: 0 0 10px;
+  font-size: 1.1rem;
+}
+
+.prozess-step p {
+  margin: 0;
+  opacity: 0.8;
 }
 
 /* Kontakt */
@@ -223,8 +373,9 @@ h2 {
 .form-field input,
 .form-field textarea {
   width: 100%;
-  padding: 12px 14px;
+  padding: 12px 16px;
   border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
   font-family: var(--font-base);
   font-size: 1rem;
   background: var(--color-bg);
@@ -297,4 +448,10 @@ h2 {
 .legal-page h2 {
   font-size: 1.3rem;
   margin-top: 40px;
+}
+
+@media (max-width: 640px) {
+  section {
+    padding: 72px 0;
+  }
 }
