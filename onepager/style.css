@@ -1,0 +1,300 @@
+:root {
+  --color-bg: #ffffff;
+  --color-text: #111111;
+  --color-border: #e5e5e5;
+  --font-base: "Roboto", Arial, sans-serif;
+  --container-width: 1120px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-base);
+  color: var(--color-text);
+  background: var(--color-bg);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: inherit;
+}
+
+.container {
+  width: 100%;
+  max-width: var(--container-width);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* Header */
+
+.site-header {
+  border-bottom: 1px solid var(--color-border);
+  position: sticky;
+  top: 0;
+  background: var(--color-bg);
+  z-index: 10;
+}
+
+.site-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.logo {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 32px;
+  margin: 0;
+  padding: 0;
+}
+
+.main-nav a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.main-nav a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 640px) {
+  .site-header .container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
+  .main-nav ul {
+    gap: 20px;
+  }
+}
+
+/* Sections */
+
+section {
+  padding: 96px 0;
+}
+
+section h1,
+section h2 {
+  margin-top: 0;
+}
+
+h1 {
+  font-size: clamp(2.2rem, 4.5vw, 3.5rem);
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+h2 {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  font-weight: 700;
+}
+
+.section-label {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 12px;
+  display: block;
+}
+
+/* Hero */
+
+#hero .container {
+  max-width: 800px;
+}
+
+.hero-lead {
+  font-size: 1.25rem;
+  margin-bottom: 32px;
+}
+
+/* Buttons */
+
+.btn {
+  display: inline-block;
+  padding: 16px 32px;
+  background: var(--color-text);
+  color: var(--color-bg);
+  text-decoration: none;
+  font-weight: 700;
+  border: 2px solid var(--color-text);
+  border-radius: 2px;
+}
+
+.btn:hover {
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+/* Leistungen */
+
+.leistungen-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 32px;
+  margin-top: 48px;
+}
+
+.leistung {
+  border: 1px solid var(--color-border);
+  padding: 32px;
+}
+
+.leistung h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+
+/* Ergebnisse */
+
+.ergebnisse-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 32px;
+  margin-top: 48px;
+}
+
+.ergebnis-card {
+  border: 1px solid var(--color-border);
+  padding: 32px;
+}
+
+.ergebnis-card.placeholder {
+  border-style: dashed;
+  color: #666666;
+}
+
+/* Kontakt */
+
+.kontakt-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  margin-top: 48px;
+}
+
+@media (max-width: 720px) {
+  .kontakt-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+}
+
+.form-field {
+  margin-bottom: 20px;
+}
+
+.form-field label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 500;
+}
+
+.form-field input,
+.form-field textarea {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid var(--color-border);
+  font-family: var(--font-base);
+  font-size: 1rem;
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+.form-field textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.kontakt-info dt {
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.kontakt-info dt:first-child {
+  margin-top: 0;
+}
+
+.kontakt-info dd {
+  margin: 4px 0 0;
+}
+
+/* Footer */
+
+.site-footer {
+  border-top: 1px solid var(--color-border);
+  padding: 32px 0;
+  font-size: 14px;
+}
+
+.site-footer .container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 32px;
+  justify-content: space-between;
+}
+
+.footer-links {
+  display: flex;
+  gap: 24px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links a {
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+/* Legal pages */
+
+.legal-page section {
+  padding: 64px 0;
+}
+
+.legal-page .container {
+  max-width: 760px;
+}
+
+.legal-page h1 {
+  font-size: 2rem;
+}
+
+.legal-page h2 {
+  font-size: 1.3rem;
+  margin-top: 40px;
+}
