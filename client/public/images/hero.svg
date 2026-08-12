@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b18"/>
+      <stop offset="100%" stop-color="#0a0b09"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#g)"/>
+  <circle cx="1180" cy="430" r="230" fill="none" stroke="#e3ff3a" stroke-opacity="0.35" stroke-width="1"/>
+  <circle cx="1180" cy="430" r="150" fill="none" stroke="#e3ff3a" stroke-opacity="0.35" stroke-width="1"/>
+  <circle cx="1180" cy="430" r="6" fill="#e3ff3a"/>
+  <text x="80" y="920" font-family="monospace" font-size="22" fill="#e3ff3a" letter-spacing="2">PLATZHALTER — HERO-BILD FOLGT</text>
+</svg>

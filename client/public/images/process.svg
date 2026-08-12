@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200">
+  <rect width="900" height="1200" fill="#10110f"/>
+  <rect x="150" y="180" width="420" height="620" fill="none" stroke="#e3ff3a" stroke-opacity="0.55" stroke-width="1"/>
+  <rect x="230" y="300" width="420" height="620" fill="none" stroke="#e3ff3a" stroke-opacity="0.35" stroke-width="1"/>
+  <rect x="310" y="420" width="420" height="620" fill="none" stroke="#e3ff3a" stroke-opacity="0.2" stroke-width="1"/>
+  <text x="60" y="1140" font-family="monospace" font-size="18" fill="#e3ff3a" letter-spacing="2">PLATZHALTER — PROZESS-BILD FOLGT</text>
+</svg>
