@@ -27,7 +27,7 @@ class ErrorBoundary extends Component<Props, State> {
           <AlertTriangle size={44} strokeWidth={1.6} />
           <h2>Etwas ist schiefgelaufen.</h2>
           <p>Bitte lade die Seite neu.</p>
-          <button onClick={() => window.location.reload()} className="button button--citron">
+          <button onClick={() => window.location.reload()} className="button button--primary">
             <RotateCcw size={16} /> Seite neu laden
           </button>
         </div>

@@ -1,7 +1,3 @@
-/**
- * THE SIGNAL MONOLITH — The page uses an asymmetric editorial rhythm, porcelain and graphite contrast,
- * plus carefully rationed Signal Citron to make strategic visibility feel precise, substantial, and active.
- */
 import { useEffect, useState } from "react";
 import {
   ArrowDownRight,
@@ -15,7 +11,8 @@ import {
 const heroImage = "/images/hero.svg";
 const caseImage = "/images/case-study.svg";
 const processImage = "/images/process.svg";
-const logoImage = "/images/logo.svg";
+const logoBlack = "/images/logo-black.svg";
+const logoWhite = "/images/logo-white.svg";
 
 const services = [
   {
@@ -46,10 +43,10 @@ const processSteps = [
   ["03", "Umsetzung", "Deine neue Website und Dein Social Media Auftritt gehen live, und Du wirst sichtbar."],
 ];
 
-function BrandMark({ dark = false }: { dark?: boolean }) {
+function BrandMark({ onDark = false }: { onDark?: boolean }) {
   return (
-    <span className={`brand-mark ${dark ? "brand-mark--dark" : ""}`} aria-hidden="true">
-      <img src={logoImage} alt="" />
+    <span className="brand-mark" aria-hidden="true">
+      <img src={onDark ? logoWhite : logoBlack} alt="" />
     </span>
   );
 }
@@ -71,7 +68,7 @@ export default function Home() {
     <main className="site-shell">
       <header className={`site-nav ${isScrolled ? "site-nav--scrolled" : ""}`}>
         <a href="#oben" className="brand-lockup" aria-label="Recognize You — zur Startseite" onClick={closeMenu}>
-          <BrandMark />
+          <BrandMark onDark={!isScrolled} />
           <span>recognize<br />you</span>
         </a>
 
@@ -111,7 +108,7 @@ export default function Home() {
             <h1 id="hero-heading">Deine Marke,<br />die wächst,<br /><em>wird erkannt.</em></h1>
             <p className="hero-intro">Deine Website ist oft der erste Kontakt, den ein Kunde mit Deinem Unternehmen hat. Wirkt sie veraltet oder unklar, verlierst Du Vertrauen, bevor Du es gewinnen konntest.</p>
             <div className="hero-actions">
-              <a href="#kontakt" className="button button--citron">Qualifizieren <ArrowUpRight size={18} /></a>
+              <a href="#kontakt" className="button button--inverse">Qualifizieren <ArrowUpRight size={18} /></a>
               <a href="#ansatz" className="text-link text-link--light">Deine Ausgangslage ansehen <ArrowDownRight size={18} /></a>
             </div>
           </div>
@@ -279,12 +276,12 @@ export default function Home() {
           <p className="eyebrow eyebrow--light"><span /> Ready to be recognized?</p>
           <h2 id="contact-heading">Dein Wachstum<br />verdient <em>Aufmerksamkeit.</em></h2>
           <p>Beginne mit einem Gespräch darüber, was Dein Unternehmen unverwechselbar und unwiderstehlich relevant machen kann.</p>
-          <a href="mailto:business@recognize-media.com" className="button button--citron">Qualifizieren <ArrowUpRight size={19} /></a>
+          <a href="mailto:business@recognize-media.com" className="button button--inverse">Qualifizieren <ArrowUpRight size={19} /></a>
         </div>
       </section>
 
       <footer className="site-footer">
-        <div className="footer-brand"><BrandMark dark /><span>recognize<br />you</span></div>
+        <div className="footer-brand"><BrandMark onDark /><span>recognize<br />you</span></div>
         <p>Strategic visibility for ambitious business.</p>
         <div className="footer-links">
           <a href="mailto:business@recognize-media.com">business@recognize-media.com</a>
