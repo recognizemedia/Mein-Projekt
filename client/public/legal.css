@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url("/fonts/manrope-variable.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "DM Mono";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/dmmono-500.woff2") format("woff2");
+}
+
+:root {
+  --graphite: #10110f;
+  --porcelain: #f1f0ea;
+  --paper: #faf9f5;
+  --ink: #171815;
+  --muted-ink: #6e7068;
+  --line: rgba(23, 24, 21, 0.16);
+  --citron: #e3ff3a;
+  --mono: "DM Mono", monospace;
+  --sans: "Manrope", sans-serif;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--sans); -webkit-font-smoothing: antialiased; }
+a { color: inherit; }
+.container { max-width: 760px; margin: 0 auto; padding: 0 24px; }
+
+.legal-header { display: flex; align-items: center; justify-content: space-between; padding: 26px 0; border-bottom: 1px solid var(--line); }
+.legal-header .container { display: flex; align-items: center; justify-content: space-between; }
+.legal-logo { font-weight: 800; font-size: 13px; letter-spacing: -.03em; }
+.legal-nav a { margin-left: 20px; font-size: 12px; font-weight: 700; opacity: .75; }
+.legal-nav a:hover { opacity: 1; }
+
+main .container { padding-top: 64px; padding-bottom: 90px; }
+h1 { font-size: clamp(2.2rem, 5vw, 3rem); letter-spacing: -.04em; margin: 0 0 40px; }
+h2 { font-size: 1.05rem; letter-spacing: -.01em; margin: 40px 0 10px; }
+h3 { font-size: .95rem; margin: 22px 0 8px; }
+p, li { font-size: 14px; line-height: 1.6; color: var(--ink); }
+p { margin: 0 0 14px; }
+ul { margin: 0 0 14px; padding-left: 20px; }
+a[href^="mailto"], a[href^="tel"] { border-bottom: 1px solid var(--citron); }
+
+.legal-footer { border-top: 1px solid var(--line); padding: 26px 0 40px; font: 11px var(--mono); color: var(--muted-ink); }
+.legal-footer .container { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+.legal-footer a { margin-left: 14px; }

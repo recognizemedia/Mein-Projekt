@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000" width="1200" height="1000">
+  <rect width="1200" height="1000" fill="#242521"/>
+  <rect x="220" y="260" width="480" height="480" fill="none" stroke="#e3ff3a" stroke-opacity="0.5" stroke-width="1"/>
+  <rect x="320" y="360" width="480" height="480" fill="none" stroke="#e3ff3a" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="60" y="940" font-family="monospace" font-size="20" fill="#e3ff3a" letter-spacing="2">PLATZHALTER — CASE-STUDY-BILD FOLGT</text>
+</svg>
