@@ -20,35 +20,30 @@ const logoImage = "/images/logo.svg";
 const services = [
   {
     number: "01",
-    title: "Sichtbarkeitsstrategie",
-    description:
-      "Wir schärfen Kategorie, Zielgruppe und Position – damit Ihr Unternehmen nicht nur auftaucht, sondern einordnet wird.",
+    title: "Webseiten",
+    description: "Eine Website, die in Sekunden zeigt, wer Du bist und was Du kannst.",
   },
   {
     number: "02",
-    title: "Markenidentität",
-    description:
-      "Wir übersetzen Ihren Wert in ein System, das nach Ihnen aussieht, klingt und im Kopf bleibt.",
+    title: "Google Performance",
+    description: "Mehr Sichtbarkeit dort, wo Deine Kunden gerade nach Dir suchen.",
   },
   {
     number: "03",
-    title: "Digitale Präsenz",
-    description:
-      "Wir gestalten digitale Kontaktpunkte, die schneller verständlich machen, warum Sie relevant sind.",
+    title: "Social Media",
+    description: "Content, der zu Deiner Marke passt und im Feed auffällt.",
   },
   {
     number: "04",
-    title: "Wachstumsaktivierung",
-    description:
-      "Wir verbinden Aufmerksamkeit mit dem nächsten sinnvollen Schritt: Nachfrage, Gespräch und Entscheidung.",
+    title: "Social Media Auftritt",
+    description: "Ein Auftritt, der Dich auf jeder Plattform sofort erkennbar macht.",
   },
 ];
 
 const processSteps = [
-  ["01", "Erkennen", "Wir legen frei, was Ihr Unternehmen unverwechselbar macht – und was es heute noch verdeckt."],
-  ["02", "Fokussieren", "Wir verdichten Position, Geschichte und Auftreten zu einem klaren Signal für die richtigen Menschen."],
-  ["03", "Aktivieren", "Wir bringen dieses Signal dorthin, wo Aufmerksamkeit zu qualifizierter Nachfrage werden kann."],
-  ["04", "Wachsen", "Wir betrachten Wirkung als System: beobachten, lernen, verstärken und wiedererkennbar weitergehen."],
+  ["01", "Qualifizieren", "Du beantwortest ein paar gezielte Fragen zu Deinem Unternehmen und Deinen Zielen."],
+  ["02", "Konzept", "Du bekommst ein klares Konzept, abgestimmt auf Deine Marke und Deine Zielgruppe."],
+  ["03", "Umsetzung", "Deine neue Website und Dein Social Media Auftritt gehen live, und Du wirst sichtbar."],
 ];
 
 function BrandMark({ dark = false }: { dark?: boolean }) {
@@ -88,7 +83,7 @@ export default function Home() {
         </nav>
 
         <a href="#kontakt" className="nav-cta" onClick={closeMenu}>
-          Gespräch beginnen <ArrowUpRight size={15} strokeWidth={1.8} />
+          Qualifizieren <ArrowUpRight size={15} strokeWidth={1.8} />
         </a>
         <button
           className="menu-toggle"
@@ -113,11 +108,11 @@ export default function Home() {
           </aside>
           <div className="hero-copy">
             <p className="eyebrow eyebrow--light"><span /> Recognize You</p>
-            <h1 id="hero-heading">Die Marken,<br />die wachsen,<br /><em>werden erkannt.</em></h1>
-            <p className="hero-intro">Wir machen Unternehmen sichtbar – und übersetzen diese Sichtbarkeit in Aufmerksamkeit, Anfragen und nachhaltiges Wachstum.</p>
+            <h1 id="hero-heading">Deine Marke,<br />die wächst,<br /><em>wird erkannt.</em></h1>
+            <p className="hero-intro">Deine Website ist oft der erste Kontakt, den ein Kunde mit Deinem Unternehmen hat. Wirkt sie veraltet oder unklar, verlierst Du Vertrauen, bevor Du es gewinnen konntest.</p>
             <div className="hero-actions">
-              <a href="#kontakt" className="button button--citron">Sichtbarkeit besprechen <ArrowUpRight size={18} /></a>
-              <a href="#ansatz" className="text-link text-link--light">Wie Sichtbarkeit wirkt <ArrowDownRight size={18} /></a>
+              <a href="#kontakt" className="button button--citron">Qualifizieren <ArrowUpRight size={18} /></a>
+              <a href="#ansatz" className="text-link text-link--light">Deine Ausgangslage ansehen <ArrowDownRight size={18} /></a>
             </div>
           </div>
           <div className="hero-meta">
@@ -136,11 +131,11 @@ export default function Home() {
           <span>Der Ansatz</span>
         </aside>
         <div className="statement-content">
-          <p className="eyebrow"><span /> Aufmerksamkeit hat Folgen</p>
-          <h2 id="approach-heading">Sichtbarkeit ist kein Ziel.<br /><em>Sie ist Ihr Hebel.</em></h2>
+          <p className="eyebrow"><span /> Die Ausgangslage</p>
+          <h2 id="approach-heading">Warum Deine Website<br /><em>Dir Kunden kostet.</em></h2>
           <div className="statement-columns">
-            <p>Erkannt zu werden verändert, was über Ihr Unternehmen gedacht, gesucht und entschieden wird. Genau deshalb ist Sichtbarkeit kein kosmetisches Marketingthema.</p>
-            <p>Sie ist die Voraussetzung dafür, dass Ihre Relevanz dort ankommt, wo Geschäft entsteht: im Markt, im Kopf und im richtigen Moment.</p>
+            <p>Die meisten Websites verschwinden im Hintergrund, noch bevor der erste Eindruck zählt. Das kostet Dich Anfragen, die nie bei Dir landen.</p>
+            <p>Wirkt Deine Website veraltet oder unklar, verlässt ein Besucher die Seite, bevor er Dein Angebot versteht. Genau dieser Moment entscheidet über Deine nächste Anfrage.</p>
           </div>
           <div className="signal-orbit" aria-hidden="true">
             <span className="orbit orbit--one" />
@@ -165,9 +160,9 @@ export default function Home() {
         </aside>
         <div className="services-content">
           <div className="services-intro">
-            <p className="eyebrow eyebrow--light"><span /> Das System dahinter</p>
-            <h2 id="services-heading">Nicht mehr Output.<br /><em>Mehr Wirkung.</em></h2>
-            <p>Jede Leistung ist ein Teil derselben Aufgabe: Ihr Unternehmen zu einem klareren, relevanteren und stärker nachgefragten Signal zu machen.</p>
+            <p className="eyebrow eyebrow--light"><span /> Leistungen</p>
+            <h2 id="services-heading">Alles, was<br /><em>Deine Marke sichtbar macht.</em></h2>
+            <p>Jede Leistung macht Deine Marke klarer, relevanter und leichter wiederzuerkennen.</p>
           </div>
           <div className="service-list">
             {services.map((service) => (
@@ -180,8 +175,8 @@ export default function Home() {
             ))}
           </div>
           <div className="evidence-strip" aria-label="Messbare Wirkung">
-            <div className="evidence-intro"><span>Evidence / not ornament</span><strong>Wirkung<br />ist lesbar.</strong></div>
-            <div className="evidence-item"><span>01</span><strong>Erkennung</strong><p>Ihre Marke wird bewusst gesucht.</p></div>
+            <div className="evidence-intro"><span>Fakten, keine Behauptungen</span><strong>6 Jahre<br />Erfahrung.</strong></div>
+            <div className="evidence-item"><span>01</span><strong>Erkennung</strong><p>Deine Marke wird bewusst gesucht.</p></div>
             <div className="evidence-item"><span>02</span><strong>Nachfrage</strong><p>Interesse wird zum Gespräch.</p></div>
             <div className="evidence-item"><span>03</span><strong>Momentum</strong><p>Gute Entscheidungen werden wahrscheinlicher.</p></div>
           </div>
@@ -194,11 +189,11 @@ export default function Home() {
           <span>Die Wirkung</span>
         </aside>
         <div className="outcome-content">
-          <p className="eyebrow"><span /> Was sich verändern kann</p>
-          <h2 id="outcome-heading">Wenn die Richtigen<br />Sie erkennen, <em>bewegt<br />sich etwas.</em></h2>
+          <p className="eyebrow"><span /> Was sich für Dich ändert</p>
+          <h2 id="outcome-heading">Wenn die Richtigen<br />Dich erkennen, <em>bewegt<br />sich etwas.</em></h2>
           <div className="outcome-grid">
             <div className="outcome-copy">
-              <p>Mehr Sichtbarkeit erzeugt nicht automatisch Wachstum. Aber eine klare Sichtbarkeit macht Ihre Relevanz lesbar – und lässt gute Entscheidungen schneller entstehen.</p>
+              <p>Mehr Sichtbarkeit erzeugt nicht automatisch Wachstum. Aber eine klare Sichtbarkeit macht Deine Relevanz lesbar und lässt gute Entscheidungen schneller entstehen.</p>
               <a href="#prozess" className="text-link">Den Weg ansehen <ArrowDownRight size={18} /></a>
             </div>
             <div className="measure-list" aria-label="Messbare Wachstumsfelder">
@@ -222,18 +217,18 @@ export default function Home() {
           </div>
         </div>
         <div className="case-card">
-          <div className="case-image-wrap"><img src={caseImage} alt="Abstrakte Papierarchitektur mit einer citronfarbenen Weglinie" /></div>
+          <div className="case-image-wrap"><img src={caseImage} alt="Platzhalterbild, wird durch ein Referenzbild von Wendlandmarkt ersetzt" /></div>
           <div className="case-content">
-            <span className="case-kicker">Case Study Framework / 01</span>
-            <h3>Aus einem Angebot wird eine erkennbare Kategorie.</h3>
-            <p>Wir bauen jedes Projekt so auf, dass Veränderung nicht nur spürbar, sondern anhand der richtigen Signale nachvollziehbar wird.</p>
-            <div className="case-proof"><span>1</span><p>Wachstumsarchitektur, die an der richtigen Stelle messbar wird.</p></div>
-            <div className="case-metrics" aria-label="Messfelder einer Case Study">
+            <span className="case-kicker">Referenz / Wendlandmarkt</span>
+            <h3>Ein neuer Auftritt, der online genauso stark wirkt wie vor Ort.</h3>
+            <p>Der neue Auftritt von Wendlandmarkt zeigt, wie aus einer bekannten Marke vor Ort auch online ein klares, wiedererkennbares Bild wird.</p>
+            <div className="case-proof"><span>1</span><p>Ein Auftritt, der online und vor Ort gleich stark wirkt.</p></div>
+            <div className="case-metrics" aria-label="Messfelder einer Referenz">
               <span>REICHWEITE</span>
               <span>RESONANZ</span>
-              <span>DEMAND</span>
+              <span>NACHFRAGE</span>
             </div>
-            <a href="#kontakt" className="text-link text-link--inverse">Ihr Projekt einordnen <ArrowUpRight size={18} /></a>
+            <a href="#kontakt" className="text-link text-link--inverse">Dein Projekt einordnen <ArrowUpRight size={18} /></a>
           </div>
         </div>
       </section>
@@ -246,13 +241,13 @@ export default function Home() {
         <div className="process-content">
           <div className="process-header">
             <div>
-              <p className="eyebrow"><span /> Vom Hintergrund in den Fokus</p>
-              <h2 id="process-heading">Ihr Weg zur<br /><em>starken Marke.</em></h2>
+              <p className="eyebrow"><span /> In drei Schritten</p>
+              <h2 id="process-heading">So wird aus Deiner Website<br /><em>ein Auftritt, der wirkt.</em></h2>
             </div>
-            <p>Wir starten nicht bei einer Kampagne. Wir starten dort, wo Ihr Geschäft heute noch zu wenig erkannt wird.</p>
+            <p>Jeder Schritt baut auf dem vorherigen auf, bis Deine neue Sichtbarkeit live ist.</p>
           </div>
           <div className="process-layout">
-            <div className="process-visual"><img src={processImage} alt="Drei sich öffnende grafische Monolithe mit citronfarbenen Ebenen" /></div>
+            <div className="process-visual"><img src={processImage} alt="Platzhalterbild, wird durch ein Prozessbild ersetzt" /></div>
             <ol className="process-list">
               {processSteps.map(([number, title, description]) => (
                 <li key={number}>
@@ -272,8 +267,8 @@ export default function Home() {
           <p className="eyebrow eyebrow--light"><span /> Anders, weil klarer</p>
           <h2 id="difference-heading">Keine Beschäftigung<br />mit <em>Beschäftigung.</em></h2>
           <div className="difference-grid">
-            <p>Wir arbeiten nicht für möglichst viel Marketing. Wir arbeiten für den Moment, in dem ein Mensch versteht: <strong>Das ist relevant für mich.</strong></p>
-            <p>Darum verbinden wir Positionierung, Ausdruck und Aktivierung. Nicht als Leistungsliste – sondern als gemeinsames System für Wiedererkennung und Wachstum.</p>
+            <p>Es geht nicht um möglichst viel Marketing, sondern um den Moment, in dem ein Mensch versteht: <strong>Das ist relevant für mich.</strong></p>
+            <p>Deshalb greifen Positionierung, Ausdruck und Aktivierung ineinander. Nicht als einzelne Leistungen, sondern als ein System für Deine Wiedererkennung und Dein Wachstum.</p>
           </div>
         </div>
       </section>
@@ -282,9 +277,9 @@ export default function Home() {
         <div className="contact-glow" aria-hidden="true" />
         <div className="contact-content">
           <p className="eyebrow eyebrow--light"><span /> Ready to be recognized?</p>
-          <h2 id="contact-heading">Ihr Wachstum<br />verdient <em>Aufmerksamkeit.</em></h2>
-          <p>Beginnen Sie mit einem Gespräch darüber, was Ihr Unternehmen unverwechselbar – und unwiderstehlich relevant – machen kann.</p>
-          <a href="mailto:business@recognize-media.com" className="button button--citron">Gespräch beginnen <ArrowUpRight size={19} /></a>
+          <h2 id="contact-heading">Dein Wachstum<br />verdient <em>Aufmerksamkeit.</em></h2>
+          <p>Beginne mit einem Gespräch darüber, was Dein Unternehmen unverwechselbar und unwiderstehlich relevant machen kann.</p>
+          <a href="mailto:business@recognize-media.com" className="button button--citron">Qualifizieren <ArrowUpRight size={19} /></a>
         </div>
       </section>
 
