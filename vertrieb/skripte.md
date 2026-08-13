@@ -64,6 +64,12 @@ Ziel: Der Kunde soll selbst merken, dass hier jemand anders arbeitet als die üb
 
 „Hallo Herr [Nachname], wir hatten ja [Bezug auf Call 1]. Wie ist da denn der Stand bei Ihnen?"
 
+### Einordnung: einmalige Arbeit, langfristige Wirkung
+
+„Bevor wir in die Fragen einsteigen, kurz vorab: Was wir hier aufbauen, ist bei mir keine einmalige Sache, die nach ein paar Wochen wieder verpufft. Die Arbeit passiert einmal, aber sie wirkt sich über Jahre auf Ihr Geschäft aus, das ist ein langfristiges Investment aus einer einmaligen Leistung heraus. Deswegen schaue ich mir das immer genau an, und bei Ihnen ist mir zum Beispiel aufgefallen, dass [was auf der Website oder bei der Präsenz aktuell konkret fehlt]."
+
+Der Platzhalter muss vor dem Call mit einer echten, konkreten Beobachtung zur Website oder Präsenz des Kunden gefüllt werden, keine allgemeine Floskel. Das setzt den Rahmen für das ganze Gespräch: Der Kunde soll sofort verstehen, dass es hier um eine langfristige Wirkung geht, nicht um eine schnelle Einzelmaßnahme.
+
 ### Bewusstsein Lösung
 
 „Welche Botschaft soll Ihre Marke beziehungsweise Seite überhaupt darstellen? Sie steht für [Eigenschaft] und [Eigenschaft], ist das richtig?"

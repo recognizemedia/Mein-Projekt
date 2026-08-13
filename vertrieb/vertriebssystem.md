@@ -67,6 +67,14 @@ Arbeitsstand: erste Version, eingereicht von Kevin. Annahme, die noch zu bestät
 
 Hier bezieht sich BEZUG AUFGREIFEN auf das, was in Call 1 vereinbart oder angesprochen wurde.
 
+### Einordnung: einmalige Arbeit, langfristige Wirkung (neu ergänzt)
+
+Kevins Kernpunkt: Die Arbeit passiert einmal, aber sie wirkt sich über Jahre auf das Geschäft des Kunden aus, ein langfristiges Investment aus einer einmaligen Leistung heraus. Das muss gleich zu Beginn von Call 2 gesetzt werden, bevor die Fragerunde losgeht, damit der Kunde den Rahmen des ganzen Gesprächs versteht.
+
+„Bevor wir in die Fragen einsteigen, kurz vorab: Was wir hier aufbauen, ist bei mir keine einmalige Sache, die nach ein paar Wochen wieder verpufft. Die Arbeit passiert einmal, aber sie wirkt sich über Jahre auf Ihr Geschäft aus, das ist ein langfristiges Investment aus einer einmaligen Leistung heraus. Deswegen schaue ich mir das immer genau an, und bei Ihnen ist mir zum Beispiel aufgefallen, dass KONKRETER MANGEL AUF DER PRÄSENZ."
+
+KONKRETER MANGEL AUF DER PRÄSENZ muss vor dem Call mit einer echten, spezifischen Beobachtung zur Website oder Präsenz dieses Kunden gefüllt werden, keine allgemeine Floskel, sonst verpufft der Effekt.
+
 ### Bewusstsein Lösung
 
 „Welche Botschaft soll Ihre Marke beziehungsweise Seite überhaupt darstellen? Sie steht für EIGENSCHAFT und EIGENSCHAFT, ist das richtig?"
@@ -215,6 +223,7 @@ Je nach gewähltem Paket eine der drei Varianten:
 | NACHNAME | Nachname des Ansprechpartners |
 | BEZUG AUFGREIFEN | Konkreter Anlass des Kontakts, in Call 1 der ursprüngliche Anlass, in Call 2 der Bezug zu Call 1 |
 | HOOK BEOBACHTUNG | Konkrete, individuelle Beobachtung zur Außendarstellung des Unternehmens |
+| KONKRETER MANGEL AUF DER PRÄSENZ | Konkrete, spezifische Beobachtung zur Website oder Präsenz dieses Kunden, für die Einordnung zu Beginn von Call 2 |
 | TAG1 / TAG2 / TAG | Konkrete Termintage |
 | UHRZEIT | Konkrete Uhrzeit |
 | EIGENSCHAFT | Markeneigenschaften, die der Kunde vorab genannt hat oder aus seiner Außendarstellung erkennbar sind |
