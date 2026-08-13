@@ -4,40 +4,48 @@ Fertig ausformulierte Version zum direkten Gebrauch am Telefon. Hintergrund, Rat
 
 Eckige Klammern [...] markieren Stellen, die pro Anruf individuell gefüllt werden. Alles andere wird wortwörtlich so gesprochen.
 
+Das Du wird ganz am Anfang von Call 1 geklärt. Ab dem Moment, in dem der Kunde zustimmt, läuft das gesamte Gespräch, auch Call 2 und Call 3, durchgehend im Du, inklusive Anrede mit Vornamen statt Herr [Nachname].
+
 ---
 
 ## Call 1 – Terminierung
 
 Ziel: ausschließlich der Termin für Call 2. Kein Pitch, keine Qualifizierung.
 
-### Eröffnung
+### Eröffnung und Du klären
 
-„Hallo Herr [Nachname], hier ist Kevin Kowsky von Recognize You. Haben Sie kurz zwei Minuten?"
+„Hallo Herr [Nachname], hier ist Kevin Kowsky von Recognize You. Ich duze eigentlich jeden, mit dem ich arbeite, ist das für dich in Ordnung?"
 
-Bei Zeitmangel: „Kein Problem, wann passt es Ihnen besser, dass ich nochmal kurz anrufe?" Danach auflegen, nicht weiterreden.
+Kurz auf Bestätigung warten. Ab hier durchgehend Du, auch beim Namen: aus Herr [Nachname] wird [Vorname].
+
+„Super, [Vorname]. Hast du kurz zwei Minuten?"
+
+Bei Zeitmangel: „Kein Problem, wann passt es dir besser, dass ich nochmal kurz anrufe?" Danach auflegen, nicht weiterreden.
+
+Falls jemand ausdrücklich beim Sie bleiben möchte: das respektieren, für diesen Kunden durchgehend beim Sie bleiben, nicht mitten im Gespräch zurückwechseln.
 
 ### Bezug herstellen
 
 Je nach Leadquelle eine der drei Varianten:
 
 **Kaltakquise (Website-Recherche):**
-„Ich melde mich, weil ich eben auf Ihre Website gestoßen bin, und mir ist aufgefallen, [konkrete Beobachtung, zum Beispiel: dass sie auf dem Handy kaum zu bedienen ist, oder dass man auf den ersten Blick gar nicht erkennt, was Sie eigentlich anbieten]. Das ist mir aufgefallen, weil ich das öfter bei Unternehmen sehe, die eigentlich richtig gute Arbeit leisten, aber online nicht so rüberkommen, wie sie es eigentlich verdient hätten."
+„Ich melde mich, weil ich eben auf deine Website gestoßen bin, und mir ist aufgefallen, [konkrete Beobachtung, zum Beispiel: dass sie auf dem Handy kaum zu bedienen ist, oder dass man auf den ersten Blick gar nicht erkennt, was du eigentlich anbietest]. Das ist mir aufgefallen, weil ich das öfter bei Unternehmen sehe, die eigentlich richtig gute Arbeit leisten, aber online nicht so rüberkommen, wie sie es eigentlich verdient hätten."
 
 **Empfehlung:**
-„[Name des Bestandskunden] hat mir von Ihnen erzählt und meinte, es könnte für Sie interessant sein, sich mal mit mir zu unterhalten."
+„[Name des Bestandskunden] hat mir von dir erzählt und meinte, es könnte für dich interessant sein, sich mal mit mir zu unterhalten."
 
 **LinkedIn-Kontakt:**
-„Ich hatte Ihnen ja vor Kurzem auf LinkedIn geschrieben, wegen [Bezug aus der Nachricht]. Deswegen jetzt der Anruf."
+„Ich hatte dir ja vor Kurzem auf LinkedIn geschrieben, wegen [Bezug aus der Nachricht]. Deswegen jetzt der Anruf."
 
 ### Rahmen setzen
 
-„Ich will Ihnen jetzt nicht am Telefon irgendwas verkaufen, das mag ohnehin keiner. Mir geht es darum, mir fünfzehn Minuten Zeit zu nehmen und ein paar gezielte Fragen zu stellen, damit ich sehe, ob und wie wir Ihnen da überhaupt weiterhelfen können."
+„Ich will dir jetzt nicht am Telefon irgendwas verkaufen, das mag ohnehin keiner. Mir geht es darum, mir fünfzehn Minuten Zeit zu nehmen und ein paar gezielte Fragen zu stellen, damit ich sehe, ob und wie wir dir da überhaupt weiterhelfen können."
 
 ### Termin fixieren
 
-„Passt es Ihnen eher [Tag 1] oder [Tag 2] besser?"
+„Passt es dir eher [Tag 1] oder [Tag 2] besser?"
 
-„Gut, dann halte ich uns [Tag] um [Uhrzeit] fest. Sie brauchen sich auf nichts vorzubereiten, das wird ein ganz normales Gespräch."
+„Gut, dann halte ich uns [Tag] um [Uhrzeit] fest. Du brauchst dich auf nichts vorzubereiten, das wird ein ganz normales Gespräch."
 
 ### Einwände
 
@@ -45,14 +53,14 @@ Je nach Leadquelle eine der drei Varianten:
 „Ehrlich gesagt geht es erstmal nur darum herauszufinden, ob es überhaupt Sinn ergibt, dass wir uns näher unterhalten. Deswegen die Fragen im nächsten Gespräch, nicht schon jetzt am Telefon."
 
 „Ich habe gerade keine Zeit."
-„Verstehe ich, genau deswegen rede ich jetzt auch nicht weiter, sondern wir machen einen festen Termin, für den Sie sich die Zeit bewusst freihalten können."
+„Verstehe ich, genau deswegen rede ich jetzt auch nicht weiter, sondern wir machen einen festen Termin, für den du dir die Zeit bewusst freihalten kannst."
 
-„Schicken Sie mir das lieber per Mail."
-„Mache ich gerne zusätzlich, aber eine allgemeine Mail bringt Ihnen ehrlich gesagt wenig, weil jedes Unternehmen andere Herausforderungen hat. Deswegen lieber kurz am Telefon, das dauert nur fünfzehn Minuten."
+„Schick mir das lieber per Mail."
+„Mache ich gerne zusätzlich, aber eine allgemeine Mail bringt dir ehrlich gesagt wenig, weil jedes Unternehmen andere Herausforderungen hat. Deswegen lieber kurz am Telefon, das dauert nur fünfzehn Minuten."
 
 ### Verabschiedung
 
-„Dann sprechen wir uns [Tag] um [Uhrzeit]. Einen schönen Tag noch, Herr [Nachname]."
+„Dann sprechen wir uns [Tag] um [Uhrzeit]. Einen schönen Tag noch, [Vorname]."
 
 ---
 
@@ -62,59 +70,59 @@ Ziel: Der Kunde soll selbst merken, dass hier jemand anders arbeitet als die üb
 
 ### Einstieg
 
-„Hallo Herr [Nachname], wir hatten ja [Bezug auf Call 1]. Wie ist da denn der Stand bei Ihnen?"
+„Hallo [Vorname], wir hatten ja [Bezug auf Call 1]. Wie ist da denn der Stand bei dir?"
 
 ### Einordnung: einmalige Arbeit, langfristige Wirkung
 
-„Bevor wir in die Fragen einsteigen, kurz vorab: Was wir hier aufbauen, ist bei mir keine einmalige Sache, die nach ein paar Wochen wieder verpufft. Die Arbeit passiert einmal, aber sie wirkt sich über Jahre auf Ihr Geschäft aus, das ist ein langfristiges Investment aus einer einmaligen Leistung heraus. Deswegen schaue ich mir das immer genau an, und bei Ihnen ist mir zum Beispiel aufgefallen, dass [was auf der Website oder bei der Präsenz aktuell konkret fehlt]."
+„Bevor wir in die Fragen einsteigen, kurz vorab: Was wir hier aufbauen, ist bei mir keine einmalige Sache, die nach ein paar Wochen wieder verpufft. Die Arbeit passiert einmal, aber sie wirkt sich über Jahre auf dein Geschäft aus, das ist ein langfristiges Investment aus einer einmaligen Leistung heraus. Deswegen schaue ich mir das immer genau an, und bei dir ist mir zum Beispiel aufgefallen, dass [was auf der Website oder bei der Präsenz aktuell konkret fehlt]."
 
 Der Platzhalter muss vor dem Call mit einer echten, konkreten Beobachtung zur Website oder Präsenz des Kunden gefüllt werden, keine allgemeine Floskel. Das setzt den Rahmen für das ganze Gespräch: Der Kunde soll sofort verstehen, dass es hier um eine langfristige Wirkung geht, nicht um eine schnelle Einzelmaßnahme.
 
 ### Bewusstsein Lösung
 
-„Welche Botschaft soll Ihre Marke beziehungsweise Seite überhaupt darstellen? Sie steht für [Eigenschaft] und [Eigenschaft], ist das richtig?"
+„Welche Botschaft soll deine Marke beziehungsweise Seite überhaupt darstellen? Sie steht für [Eigenschaft] und [Eigenschaft], ist das richtig?"
 
-„Ist es Ihnen wichtig, dass Ihre Seite Ihre [Eigenschaft] und [Eigenschaft] ausdrückt?"
+„Ist es dir wichtig, dass deine Seite deine [Eigenschaft] und [Eigenschaft] ausdrückt?"
 
 ### Abfrage Unternehmen
 
-„Jetzt mal die Frage: Was ist Ihre Zielgruppe? Was sind das für Leute, die Sie erreichen wollen?"
+„Jetzt mal die Frage: Was ist deine Zielgruppe? Was sind das für Leute, die du erreichen willst?"
 
-„Der Traffic auf der Seite: Haben Sie da jemanden, der für Sie auf Google ist, oder wie läuft das bei Ihnen? Die Frage ist, haben Sie da schon jemanden, der das für Sie übernimmt, oder ist das noch in der Entwicklung?"
+„Der Traffic auf der Seite: Hast du da jemanden, der für dich auf Google ist, oder wie läuft das bei dir? Die Frage ist, hast du da schon jemanden, der das für dich übernimmt, oder ist das noch in der Entwicklung?"
 
-„Wie viele Aufträge generieren Sie bis jetzt über Ihre Seite beziehungsweise über Ihre Präsenz aktuell?"
+„Wie viele Aufträge generierst du bis jetzt über deine Seite beziehungsweise über deine Präsenz aktuell?"
 
 ### Abfrage Kundenwunsch
 
-„Das heißt, wenn ich das richtig verstehe, ist Ihnen wichtig, dass man nachvollziehen kann, woher die Besucher kommen?"
+„Das heißt, wenn ich das richtig verstehe, ist dir wichtig, dass man nachvollziehen kann, woher die Besucher kommen?"
 
-„Wie ist das denn aktuell, klicken Kunden dort auf einen Button, um Sie zu erreichen, oder wie läuft das aktuell bei Ihnen?"
+„Wie ist das denn aktuell, klicken Kunden dort auf einen Button, um dich zu erreichen, oder wie läuft das aktuell bei dir?"
 
 ### Abfrage Wachstum
 
-„Wie viele Kunden haben Sie aktuell?"
+„Wie viele Kunden hast du aktuell?"
 
-„Wissen Sie, woher die unterschiedlichen Kundenströme kommen?"
+„Weißt du, woher die unterschiedlichen Kundenströme kommen?"
 
-„Was ist das Ziel Ihres weiteren unternehmerischen Vorhabens?"
+„Was ist das Ziel deines weiteren unternehmerischen Vorhabens?"
 
-„Das heißt, Sie brauchen etwas, das [Ergebnis Y] und [Ergebnis X] bringt, verstehe ich das richtig, Herr [Nachname]?"
+„Das heißt, du brauchst etwas, das [Ergebnis Y] und [Ergebnis X] bringt, verstehe ich das richtig, [Vorname]?"
 
-### Bewusstsein schärfen (neu ergänzt)
+### Bewusstsein schärfen
 
-„Wenn Sie sich das jetzt so anhören: Ist da bei der Aufmerksamkeit, die Sie aktuell bekommen, im Vergleich zu dem, was Sie sich eigentlich wünschen, noch deutlich Luft nach oben, oder passt das schon größtenteils?"
+„Wenn du dir das jetzt so anhörst: Ist da bei der Aufmerksamkeit, die du aktuell bekommst, im Vergleich zu dem, was du dir eigentlich wünschst, noch deutlich Luft nach oben, oder passt das schon größtenteils?"
 
 Diese Frage fehlte in der ersten Version. Sie sorgt dafür, dass der Kunde die Lücke zwischen Ist- und Wunschzustand selbst ausspricht, bevor es zu den persönlichen Fragen übergeht. Das verstärkt den Effekt, den Call 2 auslösen soll.
 
 ### Abfrage Finanzen (mit persönlicher Ebene kombiniert)
 
-„Jetzt mal, damit ich das genau weiß: Was ist das grundlegende Ziel, das Sie in der Zukunft anstreben und erreichen wollen?"
+„Jetzt mal, damit ich das genau weiß: Was ist das grundlegende Ziel, das du in der Zukunft anstrebst und erreichen willst?"
 
-„Jetzt mal zwischen uns, Sie machen das bestimmt aus unterschiedlichen Gründen, da muss doch irgendwas dahinterstecken. Was streben Sie an?"
+„Jetzt mal zwischen uns, du machst das bestimmt aus unterschiedlichen Gründen, da muss doch irgendwas dahinterstecken. Was strebst du an?"
 
 „Wer hat die Firma gegründet, wenn ich fragen darf?"
 
-„Haben Sie vor, die Firma später an Ihre Kinder weiterzugeben?"
+„Hast du vor, die Firma später an deine Kinder weiterzugeben?"
 
 Diese vier Fragen erst stellen, wenn im Gespräch bereits spürbares Vertrauen da ist, nicht als starres Pflichtprogramm direkt nach der vorigen Frage.
 
@@ -122,21 +130,21 @@ Diese vier Fragen erst stellen, wenn im Gespräch bereits spürbares Vertrauen d
 
 Taucht das Thema Geld auf und der Kunde blockt von sich aus ab, zum Beispiel mit „Ich muss jetzt erstmal woanders Geld reinstecken, ich hab gerade Umsatzprobleme":
 
-„Das verstehe ich gut, und ehrlich gesagt ist das genau der Grund, warum sich das Gespräch trotzdem lohnt. Wir reden heute noch über gar kein Geld, sondern nur darüber, was bei Ihnen gerade wirklich los ist. Und wenn die Umsatzprobleme daher kommen, dass Sie online zu wenig gesehen werden, dann verschwindet das Problem ja nicht von selbst, nur weil man gerade nicht investiert."
+„Das verstehe ich gut, und ehrlich gesagt ist das genau der Grund, warum sich das Gespräch trotzdem lohnt. Wir reden heute noch über gar kein Geld, sondern nur darüber, was bei dir gerade wirklich los ist. Und wenn die Umsatzprobleme daher kommen, dass du online zu wenig gesehen wirst, dann verschwindet das Problem ja nicht von selbst, nur weil man gerade nicht investiert."
 
 Diese Antwort erst einsetzen, wenn der Kunde das Thema von sich aus anspricht, nicht aktiv vorwegnehmen. Ziel ist, die Blockade zu lösen und zurück in die Fragerunde zu kommen, nicht Call 2 zum Preisgespräch zu machen, das bleibt Call 3 vorbehalten.
 
 ### Abfrage Zukunft
 
-„Es ist Ihnen wichtig, dass [zuvor genannter Punkt des Kunden]. Jetzt ist die Frage: Wann soll das Ding stehen?"
+„Es ist dir wichtig, dass [zuvor genannter Punkt des Kunden]. Jetzt ist die Frage: Wann soll das Ding stehen?"
 
-„Um da auch zu einem Punkt zu kommen: Wann möchten Sie den Auftrag vergeben?"
+„Um da auch zu einem Punkt zu kommen: Wann möchtest du den Auftrag vergeben?"
 
 ### Termin für Call 3 vereinbaren
 
-„Folgender Vorschlag: Wir sagen jetzt nicht ja oder nein oder Ähnliches, sondern wir vereinbaren für [Tag] ein persönliches Gespräch, und bis dahin mache ich mir nochmal Gedanken, wie wir das Ganze am besten für Sie umsetzen. Dann präsentiere ich Ihnen [Tag] kurz, wie ich da rangehen würde, und dann können wir darüber reden, ob das passt. Passt das?"
+„Folgender Vorschlag: Wir sagen jetzt nicht ja oder nein oder Ähnliches, sondern wir vereinbaren für [Tag] ein persönliches Gespräch, und bis dahin mache ich mir nochmal Gedanken, wie wir das Ganze am besten für dich umsetzen. Dann präsentiere ich dir [Tag] kurz, wie ich da rangehen würde, und dann können wir darüber reden, ob das passt. Passt das?"
 
-„Punkt [Uhrzeit] rufe ich an, da können Sie die Uhr danach stellen. Wenn es klingelt, bin ich dran."
+„Punkt [Uhrzeit] rufe ich an, da kannst du die Uhr danach stellen. Wenn es klingelt, bin ich dran."
 
 ---
 
@@ -146,11 +154,11 @@ Baut direkt auf der Zusage aus Call 2 auf.
 
 ### Wiedereinstieg
 
-„Hallo Herr [Nachname], schön, dass es klappt. Ich habe mir zu allem, was Sie mir beim letzten Mal erzählt haben, Gedanken gemacht und möchte Ihnen jetzt kurz zeigen, wie ich das für Sie angehen würde."
+„Hallo [Vorname], schön, dass es klappt. Ich habe mir zu allem, was du mir beim letzten Mal erzählt hast, Gedanken gemacht und möchte dir jetzt kurz zeigen, wie ich das für dich angehen würde."
 
 ### Zusammenfassung spiegeln
 
-„Wenn ich das nochmal zusammenfasse: Sie haben mir erzählt, dass [Notizen aus Call 2], und dass es Ihnen vor allem darum geht, [Ergebnis X] und [Ergebnis Y] zu erreichen. Habe ich das richtig verstanden?"
+„Wenn ich das nochmal zusammenfasse: Du hast mir erzählt, dass [Notizen aus Call 2], und dass es dir vor allem darum geht, [Ergebnis X] und [Ergebnis Y] zu erreichen. Habe ich das richtig verstanden?"
 
 Auf die Bestätigung warten, bevor es weitergeht. Der Kunde muss aktiv zustimmen, bevor der Ansatz gezeigt wird.
 
@@ -162,7 +170,7 @@ Auf die Bestätigung warten, bevor es weitergeht. Der Kunde muss aktiv zustimmen
 
 ### Unterschied benennen
 
-„Der Unterschied zu dem, was Sie bisher kennen: Ich verkaufe Ihnen nicht eine Leistung und bin dann wieder weg. Wir bleiben während der ganzen Zusammenarbeit so eng dran, wie wir das jetzt in unseren Gesprächen auch schon waren."
+„Der Unterschied zu dem, was du bisher kennst: Ich verkaufe dir nicht eine Leistung und bin dann wieder weg. Wir bleiben während der ganzen Zusammenarbeit so eng dran, wie wir das jetzt in unseren Gesprächen auch schon waren."
 
 ### Passendes Paket wählen und Investment nennen
 
@@ -174,23 +182,23 @@ Auswahl anhand Call 2: Website fehlt oder ist in schlechtem Zustand, sonst über
 
 „Für das Marketing-Paket liegt die Investition bei 8.899 Euro einmalig, dazu laufend das Online-Marketing-Budget, das wir je nach gewünschtem Tempo bei Google und Facebook individuell festlegen."
 
-„Die eigentliche Frage ist nicht, ob Ihnen der Preis das wert ist, sondern ob Ihnen [Ergebnis X] und [Ergebnis Y] das wert sind."
+„Die eigentliche Frage ist nicht, ob dir der Preis das wert ist, sondern ob dir [Ergebnis X] und [Ergebnis Y] das wert sind."
 
 ### Einwände
 
 „Das ist mir zu teuer."
-„Verstehe ich. Darf ich fragen, im Vergleich wozu genau zu teuer? Was kostet es Sie denn aktuell, wenn sich an [aktuelle Situation aus Call 2] nichts ändert?"
+„Verstehe ich. Darf ich fragen, im Vergleich wozu genau zu teuer? Was kostet es dich denn aktuell, wenn sich an [aktuelle Situation aus Call 2] nichts ändert?"
 
 „Ich muss das noch mit meiner Frau/meinem Partner besprechen."
 „Vollkommen verständlich. Was genau würde für die Entscheidung noch fehlen, damit wir das gemeinsam klären können?"
 
 „Ich hole mir noch andere Angebote ein."
-„Macht Sinn. Wonach genau vergleichen Sie die Angebote?"
+„Macht Sinn. Wonach genau vergleichst du die Angebote?"
 
 ### Abschluss
 
-„Wenn das für Sie soweit passt, schicke ich Ihnen den Vertrag direkt über DocuSign, den können Sie bequem online unterschreiben. Danach vereinbaren wir gleich den Kickoff-Termin. Passt das für Sie?"
+„Wenn das für dich soweit passt, schicke ich dir den Vertrag direkt über DocuSign, den kannst du bequem online unterschreiben. Danach vereinbaren wir gleich den Kickoff-Termin. Passt das für dich?"
 
 ### Verabschiedung
 
-„Ich freue mich auf die Zusammenarbeit, Herr [Nachname]. Bis bald."
+„Ich freue mich auf die Zusammenarbeit, [Vorname]. Bis bald."
