@@ -112,6 +112,14 @@ Diese Frage fehlte in der ersten Version. Sie sorgt dafür, dass der Kunde die L
 
 Diese vier Fragen erst stellen, wenn im Gespräch bereits spürbares Vertrauen da ist, nicht als starres Pflichtprogramm direkt nach der vorigen Frage.
 
+### Einwand: kein Budget wegen Umsatzproblemen
+
+Taucht das Thema Geld auf und der Kunde blockt von sich aus ab, zum Beispiel mit „Ich muss jetzt erstmal woanders Geld reinstecken, ich hab gerade Umsatzprobleme":
+
+„Das verstehe ich gut, und ehrlich gesagt ist das genau der Grund, warum sich das Gespräch trotzdem lohnt. Wir reden heute noch über gar kein Geld, sondern nur darüber, was bei Ihnen gerade wirklich los ist. Und wenn die Umsatzprobleme daher kommen, dass Sie online zu wenig gesehen werden, dann verschwindet das Problem ja nicht von selbst, nur weil man gerade nicht investiert."
+
+Diese Antwort erst einsetzen, wenn der Kunde das Thema von sich aus anspricht, nicht aktiv vorwegnehmen. Ziel ist, die Blockade zu lösen und zurück in die Fragerunde zu kommen, nicht Call 2 zum Preisgespräch zu machen, das bleibt Call 3 vorbehalten.
+
 ### Abfrage Zukunft
 
 „Es ist Ihnen wichtig, dass [zuvor genannter Punkt des Kunden]. Jetzt ist die Frage: Wann soll das Ding stehen?"

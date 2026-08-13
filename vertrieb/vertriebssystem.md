@@ -107,6 +107,14 @@ Hier bezieht sich BEZUG AUFGREIFEN auf das, was in Call 1 vereinbart oder angesp
 
 „Haben Sie vor, die Firma später an Ihre Kinder weiterzugeben?"
 
+### Einwand: kein Budget wegen Umsatzproblemen (neu ergänzt)
+
+Aus einem echten Call: Sobald das Thema Geld anklingt, blockt ein Teil der Kunden von sich aus ab, zum Beispiel mit „Ich muss jetzt erstmal woanders Geld reinstecken, ich hab gerade Umsatzprobleme". Das wird vermutlich der häufigste Einwand überhaupt, deshalb eine feste Antwort dafür:
+
+„Das verstehe ich gut, und ehrlich gesagt ist das genau der Grund, warum sich das Gespräch trotzdem lohnt. Wir reden heute noch über gar kein Geld, sondern nur darüber, was bei Ihnen gerade wirklich los ist. Und wenn die Umsatzprobleme daher kommen, dass Sie online zu wenig gesehen werden, dann verschwindet das Problem ja nicht von selbst, nur weil man gerade nicht investiert."
+
+Erst einsetzen, wenn der Kunde das Thema von sich aus anspricht, nicht aktiv vorwegnehmen. Ziel ist, die Blockade zu lösen und zurück in die Fragerunde zu kommen, nicht Call 2 zum Preisgespräch zu machen, das bleibt Call 3 vorbehalten.
+
 ### Abfrage Zukunft
 
 „Es ist Ihnen wichtig, dass NOTIZEN NOCHMAL VORGEBEN. Jetzt ist die Frage: Wann soll das Ding stehen?"
