@@ -117,7 +117,7 @@ export default function Home() {
             <span>for ambitious business</span>
           </div>
         </div>
-        <a href="#ansatz" className="scroll-cue" aria-label="Zum nächsten Abschnitt scrollen">
+        <a href="#ansatz" className="scroll-cue" aria-label="Scroll to focus – zum nächsten Abschnitt scrollen">
           <span>Scroll to focus</span><ChevronDown size={16} />
         </a>
       </section>
@@ -214,7 +214,7 @@ export default function Home() {
           </div>
         </div>
         <div className="case-card">
-          <div className="case-image-wrap"><img src={caseImage} alt="Platzhalterbild, wird durch ein Referenzbild von Wendlandmarkt ersetzt" /></div>
+          <div className="case-image-wrap"><img src={caseImage} alt="Platzhalterbild, wird durch ein Referenzbild von Wendlandmarkt ersetzt" loading="lazy" decoding="async" /></div>
           <div className="case-content">
             <span className="case-kicker">Referenz / Wendlandmarkt</span>
             <h3>Ein neuer Auftritt, der online genauso stark wirkt wie vor Ort.</h3>
@@ -244,7 +244,7 @@ export default function Home() {
             <p>Jeder Schritt baut auf dem vorherigen auf, bis Deine neue Sichtbarkeit live ist.</p>
           </div>
           <div className="process-layout">
-            <div className="process-visual"><img src={processImage} alt="Platzhalterbild, wird durch ein Prozessbild ersetzt" /></div>
+            <div className="process-visual"><img src={processImage} alt="Platzhalterbild, wird durch ein Prozessbild ersetzt" loading="lazy" decoding="async" /></div>
             <ol className="process-list">
               {processSteps.map(([number, title, description]) => (
                 <li key={number}>
