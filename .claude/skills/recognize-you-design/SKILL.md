@@ -17,7 +17,7 @@ Nur diese fünf Töne verwenden, keine neuen Hex-Werte erfinden:
 | `--papier` | `#ffffff` | Gegenfläche, helle Karten |
 | `--nebel` | `#f2f2f2` | Ruhige Seiten-Hintergründe |
 | `--rauch` | `#e0e0e0` | Linien, Trenner, Ränder |
-| `--grau` | `#7a7a7a` | Sekundärer/gedämpfter Text |
+| `--grau` | `#6b6b6b` | Sekundärer/gedämpfter Text (gegenüber Brand-Kit-Vorgabe `#7a7a7a` leicht abgedunkelt für WCAG-AA-Kontrast) |
 
 Es gibt aktuell **keine Akzentfarbe** ("Akzent offen" laut Brand Kit). Wirkung entsteht ausschließlich über Kontrast (Ink auf Papier/Nebel oder umgekehrt), nicht über Farbe. Erst wenn der Nutzer explizit eine Akzentfarbe freigibt, darf eine hinzukommen, und dann nur für Handlungselemente (Buttons, Fokuspunkte).
 

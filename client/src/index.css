@@ -25,7 +25,7 @@
   --papier: #ffffff;
   --nebel: #f2f2f2;
   --rauch: #e0e0e0;
-  --grau: #7a7a7a;
+  --grau: #6b6b6b;
   --mono: "Roboto", sans-serif;
   --sans: "Roboto", sans-serif;
   --background: var(--nebel);
@@ -185,7 +185,7 @@ h1 em, h2 em { font-style: normal; }
 .site-footer > p { margin: 0; max-width: 220px; color: rgba(255,255,255,.52); font-size: 12px; line-height: 1.4; }
 .footer-links { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; font-size: 11px; font-weight: 700; }
 .footer-links a { display: inline-flex; align-items: center; gap: 5px; }
-.footer-legal { grid-column: 1 / -1; display: flex; gap: 18px; margin-top: 52px; color: rgba(255,255,255,.38); font: 700 9px var(--mono); letter-spacing: .02em; }
+.footer-legal { grid-column: 1 / -1; display: flex; gap: 18px; margin-top: 52px; color: rgba(255,255,255,.5); font: 700 9px var(--mono); letter-spacing: .02em; }
 
 .notfound { min-height: 100svh; display: flex; flex-direction: column; align-items: flex-start; justify-content: center; gap: 20px; padding: 0 4.2vw; background: var(--nebel); color: var(--ink); }
 .notfound h1 { font-size: clamp(2.6rem, 6vw, 4.5rem); }
