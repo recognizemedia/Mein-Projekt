@@ -9,6 +9,10 @@ Dieses Repository ist der Arbeitsbereich für Kundenprojekte, die sich hauptsäc
 1. **Dynamische Websites**, die beim ersten Besuch sofort einen positiven Eindruck und Energie vermitteln. Basis ist WordPress mit Elementor, das Werkzeug-Spektrum wird aber laufend um die effizientesten am Markt verfügbaren Tools erweitert, um das Branding optimal beim Besucher zu verankern.
 2. **Social Media Marketing Management.**
 
+## Kundenprojekte
+
+- [Bürogemeinschaft](kunden/buerogemeinschaft/README.md) – Michael Hermanns, Büroanbieter in Monheim am Rhein und Leverkusen. Enthält Steckbrief, Mission, Wunschklient, Marken-Assets und kundenspezifische Tonalitätsregeln für Anzeigen.
+
 ## Textregeln für Website- und Social-Media-Content
 
 Diese Regeln gelten für jegliche Texterstellung in beiden Arbeitsbereichen:
