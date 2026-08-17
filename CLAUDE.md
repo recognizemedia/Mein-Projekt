@@ -18,6 +18,7 @@ Diese Regeln gelten für jegliche Texterstellung in beiden Arbeitsbereichen:
 3. Keine Ausrufezeichen verwenden. Fragezeichen sind erlaubt und in Textabschnitten mit Fragen auch wichtig.
 4. Bei Instagram-Beiträgen für Absätze immer diesen Code verwenden: `⠀⠀⠀⠀⠀⠀⠀⠀`
 5. Bei Instagram-Beiträgen nach jedem Absatz genau einen Emoji setzen, der farblich zur Grundstimmung des Beitrags passt.
+6. Keine abgenutzten Marketing-Floskeln (z. B. "Hier werden Sie fündig"). Stattdessen eigenständige, unverbrauchte Formulierungen finden, die sich vom Branchenüblichen abheben.
 
 ## Wie du arbeiten sollst
 
