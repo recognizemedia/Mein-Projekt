@@ -20,6 +20,7 @@ Diese Regeln gelten für jegliche Texterstellung in beiden Arbeitsbereichen:
 5. Bei Instagram-Beiträgen nach jedem Absatz genau einen Emoji setzen, der farblich zur Grundstimmung des Beitrags passt.
 6. Keine Floskeln oder generischen Marketing-Phrasen, auch keine beschönigenden Ersatzformulierungen (z. B. "Hier werden Sie fündig"). Direkt und persönlich schreiben, wie im echten Austausch mit einer Person, dabei stets zielgerichtet und führend: die Leser aktiv anleiten statt nur beschreiben.
 7. Nach Doppelpunkten wird der folgende Satzanfang großgeschrieben.
+8. Kurze Sätze: im Schnitt sechs bis neun Wörter pro Satz (Faustregel, keine starre Vorgabe). Häufig Punkte setzen, Nebensätze nur einbauen, wenn sie wirklich nötig sind. Menschen haben eine kurze Aufnahmefähigkeit, kurze Sätze lassen sich leichter konsumieren.
 
 ## Wie du arbeiten sollst
 
