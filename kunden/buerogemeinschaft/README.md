@@ -89,6 +89,16 @@ Zusätzlich gelten für alle Anzeigen der Bürogemeinschaft die allgemeinen Text
 
 ## Bisher erstellte Anzeigen
 
-### Büromöbel-Verkauf Mönchengladbach
+Verkauf in Mönchengladbach (41238), Lieferung jeweils innerhalb 40 km für 80 € möglich, Kontakt 0160 91891354 (Mo bis Fr 11 bis 18 Uhr, Sa 11 bis 14 Uhr, auch WhatsApp). Wird als separate Einzelanzeigen je Möbelstück veröffentlicht:
 
-Kleinanzeige für den Verkauf von zwei Assmann-Schreibtischen und zwei Büro-/Aktenschränken, Abgabe in 41238 Mönchengladbach, Lieferung innerhalb 40 km für 80 € möglich. Kontakt für diese Anzeige: 0160 91891354 (Mo bis Fr 11 bis 18 Uhr, Sa 11 bis 14 Uhr, auch WhatsApp).
+### Schreibtische
+
+Zwei höhenverstellbare Schreibtische von Assmann mit Chromfüßen, sehr guter Zustand, je 149 € VB, mit Rechnung inklusive 19 % Mehrwertsteuer. Anzeigentext fertig.
+
+### Büro- und Aktenschränke
+
+Zwei sehr stabile Büro-/Aktenschränke, je 199 € VB, mit Rechnung inklusive 19 % Mehrwertsteuer. Bisher nur als Teil des ursprünglichen Sammeltexts verfasst, noch nicht als eigene Einzelanzeige.
+
+### Sitzecke mit 2 Hockern
+
+Ursprünglich aus einer Werbung für Leverkusen übernommen. Zustand gut, Maße nicht bekannt, Preis trägt der Kunde selbst nach. Anzeigentext steht, Preis fehlt noch.
