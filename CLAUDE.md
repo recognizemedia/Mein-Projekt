@@ -21,6 +21,7 @@ Diese Regeln gelten für jegliche Texterstellung in beiden Arbeitsbereichen:
 6. Keine Floskeln oder generischen Marketing-Phrasen, auch keine beschönigenden Ersatzformulierungen (z. B. "Hier werden Sie fündig"). Direkt und persönlich schreiben, wie im echten Austausch mit einer Person, dabei stets zielgerichtet und führend: die Leser aktiv anleiten statt nur beschreiben.
 7. Nach Doppelpunkten wird der folgende Satzanfang großgeschrieben.
 8. Kurze Sätze von im Schnitt sechs bis neun Wörtern sind eine Faustregel, keine feste Vorgabe. Auch längere Sätze sind erlaubt, dann aber mit regelmäßigen Satzzeichen (Punkt oder Komma) gliedern, damit der Text leserlich bleibt und persönlich klingt. Kommas nur dort setzen, wo sie dem Lesefluss wirklich helfen, nicht kurz vor Satzende ohne Sinn (z. B. nicht "zwei Aktenschränke, für je 199 € VB").
+9. Bei Anzeigen: Der erste Satz im ersten Absatz ist kurz und endet schnell mit einem Punkt, als knackiger Einstieg. Details folgen erst in den nächsten Sätzen (Beispiel: "Statten Sie Ihr Büro mit zwei höhenverstellbaren Schreibtischen von Assmann aus.").
 
 ## Wie du arbeiten sollst
 
