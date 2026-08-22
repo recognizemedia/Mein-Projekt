@@ -16,7 +16,7 @@ Kurz noch etwas für dich, [Vorname]
 
 Hallo [Vorname],
 
-danke, dass du dir Zeit für unser Gespräch genommen hast. Dass du gerade nicht in weitere hohe Ausgaben investieren willst, verstehe ich vollkommen. Ich melde mich hier auch nicht, um dich nochmal umzustimmen, sondern weil ich dir ein paar Dinge dalassen möchte, die dir vielleicht trotzdem weiterhelfen, unabhängig davon, ob wir irgendwann zusammenarbeiten.
+danke, dass du dir Zeit für unser Gespräch genommen hast. Dass du gerade nicht in weitere hohe Ausgaben investieren willst, verstehe ich vollkommen. Trotzdem möchte ich dir mitgeben, was es für die Zukunft von [Firma] bedeutet, wirklich gesehen zu werden: dich in der heutigen Zeit am Markt optimal zu behaupten, und mit deinem Online-Marketing sowie deinem laufenden Geschäft so aufgestellt zu sein, dass beides ineinandergreift statt nebeneinanderher zu laufen.
 
 Was mir bei deiner Seite konkret aufgefallen ist:
 
@@ -31,6 +31,8 @@ Das sind keine Kleinigkeiten, auch wenn sie oft so behandelt werden. Ein paar Za
 - Im Schnitt hat ein Kunde schon etwa die Hälfte seiner Entscheidung getroffen, bevor er das erste Mal mit einem Vertrieb spricht. Deine Seite entscheidet also oft mit, noch bevor überhaupt ein Gespräch stattfindet.
 
 Genau das meinte ich am Telefon: Deine aktuellen Umsatzprobleme und eine schwache Außendarstellung hängen möglicherweise direkter zusammen, als es auf den ersten Blick aussieht. Das ändert sich nicht von selbst, nur weil man gerade nicht investiert.
+
+Wer heute am Markt wirklich gesehen wird, sichert sich morgen die Kunden, die sonst beim Wettbewerb landen. Genau darum geht es mir bei [Firma]: dass dein Unternehmen so dasteht, wie die Arbeit dahinter es eigentlich verdient.
 
 Ich lass das jetzt einfach mal so stehen. Wenn sich bei dir was ändert oder du nochmal reden willst, meld dich einfach, die Tür bleibt offen. Und falls nicht: alles Gute für [Firma].
 
