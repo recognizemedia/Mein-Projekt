@@ -24,6 +24,7 @@ Quelle: Dokument von Kevin (Input Nikolaos Chronz). Gilt ab sofort für alle Tex
 - Der Schmerz des Lesers zählt am meisten. Wichtig ist, klar auf den Schmerz einzugehen, den man beim Publikum lösen will.
 - Bei guten Salestexten werden immer hindernde Glaubenssätze aufgelöst.
 - Menschen wollen immer die Wunderpille.
+- Keine Standardfloskeln verwenden, zum Beispiel „das sage ich nicht einfach so", „ehrlich gesagt" oder „um es klar zu sagen". Die Aussage direkt und konkret machen, ohne einleitende Floskel davor.
 
 ## Der perfekte Aufbau einer Copy für Werbeanzeigen
 
