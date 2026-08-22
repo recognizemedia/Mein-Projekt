@@ -4,6 +4,12 @@ Referenziert: [brand-basis.md](./brand-basis.md)
 
 Quelle: Dokument von Kevin (Input Nikolaos Chronz). Gilt ab sofort für alle Texterstellung im Vertrieb, zusätzlich zu den Regeln aus der CLAUDE.md für Website- und Social-Media-Content.
 
+## Wichtigstes Grundprinzip: Tonlage wie bei einem bestehenden Kunden
+
+Vertriebstexte an Leads, mit denen bereits Kontakt bestand, zum Beispiel nach Call 1 oder Call 2, werden in der Tonlage geschrieben, als wäre der Leser bereits Kunde. Keine Beweisführung der eigenen Kompetenz oder Erfahrung, zum Beispiel keine Nennung von Berufsjahren oder Sätze wie „das sage ich nicht einfach so". Das wirkt, als müsse man sich rechtfertigen, und genau das soll nicht passieren. Jede Zeile soll sich stimmig anfühlen, so wie man mit jemandem spricht, mit dem die Beziehung schon besteht.
+
+Das gilt nicht für die „Kredibilität aufbauen"-Stufe im Aufbau für Werbeanzeigen weiter unten. Diese Stufe ist für kalte Anzeigen an Fremde gedacht, die Kevin noch nicht kennen. Bei warmen Texten mit bestehendem Kontakt entfällt dieser Schritt.
+
 ## Generelle Prinzipien für jede Copy
 
 - Nur über ein Thema schreiben, das der Leser bereits kennt, damit er das neu Gelernte damit verknüpfen kann.
