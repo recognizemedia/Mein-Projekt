@@ -1,6 +1,6 @@
 # Recognize You – Marken- und Zielgruppenbasis
 
-Referenzdokument für alle Vertriebs- und Content-Generierung. Quelle: Onboarding-Tabelle (Recognize You) und Brand-Identity-PDF.
+Referenzdokument für alle Vertriebs- und Content-Generierung. Quelle: Onboarding-Tabelle (Recognize You) und Brand-Identity-PDF. Für die Textgestaltung selbst gilt zusätzlich [copywriting-strategie.md](./copywriting-strategie.md).
 
 ## Unternehmen
 
