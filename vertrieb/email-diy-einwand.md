@@ -22,7 +22,7 @@ Hallo [Vorname],
 
 danke für die Rückmeldung, das ist eine ehrliche Antwort, und viele Unternehmer würden es genauso angehen.
 
-Als Geschäftsführer ist Deine Zeit das Wertvollste, was [Firma] hat, und die sollte in die Aufgaben gehen, für die sonst niemand sonst zuständig ist. Jede Stunde im Umbau von [Website/Shop] fehlt an anderer Stelle im Unternehmen, und selbst mit vollem Einsatz erreicht ein Eigenbau selten das Niveau, das der Qualität von [Firma] eigentlich entspricht.
+Als Geschäftsführer ist Deine Zeit das Wertvollste, was [Firma] hat, und die sollte in die Aufgaben gehen, für die sonst niemand zuständig ist. Jede Stunde im Umbau von [Website/Shop] fehlt an anderer Stelle im Unternehmen, und selbst mit vollem Einsatz erreicht ein Eigenbau selten das Niveau, das der Qualität von [Firma] eigentlich entspricht.
 
 Falls Du unterwegs merkst, dass Dir die Zeit oder das Ergebnis fehlt, meld Dich einfach, die Tür bleibt offen.
 
