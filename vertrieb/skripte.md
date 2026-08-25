@@ -195,6 +195,9 @@ Auswahl anhand Call 2: Website fehlt oder ist in schlechtem Zustand, sonst über
 „Ich hole mir noch andere Angebote ein."
 „Macht Sinn. Wonach genau vergleichst du die Angebote?"
 
+„Ich versuche das erstmal selbst."
+„Verstehe ich gut, das würden viele so machen. Nur eine Sache dazu: Deine Zeit als Geschäftsführer ist das Wertvollste, was du hast, die fehlt dann an anderer Stelle im Unternehmen. Und selbst mit vollem Einsatz kommt ein Eigenbau selten auf das Niveau, das eurer Qualität eigentlich entspricht."
+
 ### Abschluss
 
 „Wenn das für dich soweit passt, schicke ich dir den Vertrag direkt über DocuSign, den kannst du bequem online unterschreiben. Danach vereinbaren wir gleich den Kickoff-Termin. Passt das für dich?"

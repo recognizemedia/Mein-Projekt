@@ -215,6 +215,11 @@ Je nach gewähltem Paket eine der drei Varianten:
 „Ich hole mir noch andere Angebote ein."
 „Macht Sinn. Wonach genau vergleichst du die Angebote?"
 
+„Ich versuche das erstmal selbst." (neu ergänzt)
+„Verstehe ich gut, das würden viele so machen. Nur eine Sache dazu: Deine Zeit als Geschäftsführer ist das Wertvollste, was du hast, die fehlt dann an anderer Stelle im Unternehmen. Und selbst mit vollem Einsatz kommt ein Eigenbau selten auf das Niveau, das eurer Qualität eigentlich entspricht."
+
+Aus einer echten Kundenreaktion: Kunde antwortet nach dem Gespräch schriftlich, dass er die Website oder den Shop lieber selbst umbauen und sich erst melden will, falls er doch Hilfe braucht. Dahinter steckt oft ein Verständnisproblem, nicht Desinteresse: dem Kunden ist nicht klar, dass er sich als Geschäftsführer auf seinen eigentlichen Aufgabenbereich fokussieren sollte, und dass die Eigenumsetzung Zeit kostet und selten das Niveau erreicht, das der Qualität des Unternehmens entspricht. Fällt der Einwand erst nach dem Call schriftlich, siehe die E-Mail-Vorlage in [email-diy-einwand.md](./email-diy-einwand.md).
+
 ### Abschluss
 
 „Wenn das für dich soweit passt, schicke ich dir den Vertrag direkt über DocuSign, den kannst du bequem online unterschreiben. Danach vereinbaren wir gleich den Kickoff-Termin. Passt das für dich?"
