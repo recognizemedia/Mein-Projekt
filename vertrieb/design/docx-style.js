@@ -40,10 +40,13 @@ function runs(text, opts = {}) {
   });
 }
 
-function title(text) {
+// opts.spacingAfter erlaubt eine dokumentspezifische Abweichung, Standardwert
+// (0) gilt unverändert für alle anderen Dokumente.
+function title(text, opts = {}) {
+  const { spacingAfter = 0 } = opts;
   return new Paragraph({
     children: [new TextRun({ text, font: FONT_TITLE, size: 40, bold: true })], // 20pt
-    spacing: { before: 0, after: 0 },
+    spacing: { before: 0, after: spacingAfter },
   });
 }
 
