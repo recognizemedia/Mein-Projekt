@@ -1,6 +1,11 @@
 // Wiederverwendbares Styling für alle Word-Dokumente von Recognize You.
 // Design aus design-vorlage.md / design-referenz.pdf extrahiert (PyMuPDF-Analyse).
 // Nutzung: const { title, subtitle, heading, sectionHeading, subHeading, bullet, note, para, spoken, buildDoc } = require("./docx-style.js");
+//
+// Regel (auf Kevins Wunsch): zwischen jedem Absatz und jeder Überschrift steht
+// immer eine echte Leerzeile. buildDoc() fügt sie automatisch zwischen allen
+// Elementen ein, die einzelnen Hilfsfunktionen tragen selbst keinen zusätzlichen
+// Abstand mehr (spacing before/after auf 0), damit sich die Abstände nicht addieren.
 
 const { Document, Paragraph, TextRun } = require("docx");
 
@@ -35,21 +40,21 @@ function runs(text, opts = {}) {
 function title(text) {
   return new Paragraph({
     children: [new TextRun({ text, font: FONT_TITLE, size: 40, bold: true })], // 20pt
-    spacing: { after: 100 }, // ~5pt
+    spacing: { before: 0, after: 0 },
   });
 }
 
 function subtitle(text) {
   return new Paragraph({
     children: [new TextRun({ text, font: FONT_BODY, size: 21 })], // 10.5pt
-    spacing: { after: 330 }, // ~16-17pt vor der ersten Abschnittsüberschrift
+    spacing: { before: 0, after: 0 },
   });
 }
 
 function sectionHeading(number, text) {
   return new Paragraph({
     children: [new TextRun({ text: `${number}. ${text}`, font: FONT_BODY, size: 25, bold: true })], // 12.5pt
-    spacing: { before: 280, after: 110 }, // ~14pt davor, ~5pt danach
+    spacing: { before: 0, after: 0 },
   });
 }
 
@@ -58,17 +63,17 @@ function sectionHeading(number, text) {
 function heading(text) {
   return new Paragraph({
     children: [new TextRun({ text, font: FONT_BODY, size: 25, bold: true })], // 12.5pt
-    spacing: { before: 280, after: 110 },
+    spacing: { before: 0, after: 0 },
   });
 }
 
 // Zweite, kleinere Überschriftenebene für verschachtelte Dokumente (z. B. benannte
 // Abschnitte innerhalb eines Calls). Gleiche Schriftfamilie und Schnitt wie heading(),
-// nur kleiner und mit weniger Abstand davor.
+// nur kleiner.
 function subHeading(text) {
   return new Paragraph({
     children: [new TextRun({ text, font: FONT_BODY, size: 23, bold: true })], // 11.5pt
-    spacing: { before: 200, after: 90 },
+    spacing: { before: 0, after: 0 },
   });
 }
 
@@ -76,7 +81,7 @@ function bullet(text) {
   return new Paragraph({
     children: [new TextRun({ text: "• ", font: FONT_BODY, size: 22 }), ...runs(text, { size: 22 })], // 11pt
     indent: { left: 106 }, // ~5pt Einzug ab der Überschrift
-    spacing: { after: 40 },
+    spacing: { before: 0, after: 0 },
   });
 }
 
@@ -84,14 +89,14 @@ function note(text) {
   return new Paragraph({
     children: runs(text, { font: FONT_BODY, size: 19, italics: true }), // 9.5pt
     indent: { left: 300 }, // ~15pt Einzug ab der Überschrift
-    spacing: { after: 110 },
+    spacing: { before: 0, after: 0 },
   });
 }
 
 function para(text, opts = {}) {
   return new Paragraph({
     children: runs(text, { size: 22, ...opts }), // 11pt Standard-Fließtext
-    spacing: { after: 200 },
+    spacing: { before: 0, after: 0 },
   });
 }
 
@@ -100,11 +105,27 @@ function spoken(text) {
   return new Paragraph({
     children: runs(text, { size: 22 }), // 11pt
     indent: { left: 106 },
-    spacing: { after: 160 },
+    spacing: { before: 0, after: 0 },
+  });
+}
+
+// Echte leere Zeile, wird von buildDoc() automatisch zwischen alle Elemente gesetzt.
+function blankLine() {
+  return new Paragraph({
+    children: [new TextRun({ text: "", font: FONT_BODY, size: 22 })],
+    spacing: { before: 0, after: 0 },
   });
 }
 
 function buildDoc(children) {
+  const withBlankLines = [];
+  children.forEach((child, i) => {
+    withBlankLines.push(child);
+    if (i < children.length - 1) {
+      withBlankLines.push(blankLine());
+    }
+  });
+
   return new Document({
     sections: [
       {
@@ -113,7 +134,7 @@ function buildDoc(children) {
             margin: { top: MARGIN_TWIPS, bottom: MARGIN_TWIPS, left: MARGIN_TWIPS, right: MARGIN_TWIPS },
           },
         },
-        children,
+        children: withBlankLines,
       },
     ],
   });
