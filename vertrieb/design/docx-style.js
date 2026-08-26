@@ -84,11 +84,15 @@ function subHeading(text, opts = {}) {
   });
 }
 
-function bullet(text) {
+// opts.spacingAfter erlaubt eine dokumentspezifische Abweichung (z. B. ein
+// kleiner Abstand statt der vollen Leerzeile zwischen Stichpunkten),
+// Standardwert (0) gilt unverändert für alle anderen Dokumente.
+function bullet(text, opts = {}) {
+  const { spacingAfter = 0 } = opts;
   return new Paragraph({
     children: [new TextRun({ text: "• ", font: FONT_BODY, size: 22 }), ...runs(text, { size: 22 })], // 11pt
     indent: { left: 106 }, // ~5pt Einzug ab der Überschrift
-    spacing: { before: 0, after: 0 },
+    spacing: { before: 0, after: spacingAfter },
   });
 }
 
