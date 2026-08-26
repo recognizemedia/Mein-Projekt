@@ -8,9 +8,9 @@ Ausgangspunkt: Menschen kaufen zuerst von einem Menschen, dem sie vertrauen, nic
 
 Diese Recherche überträgt dieselbe Frage auf die zehn Branchen aus grosskunden-zielgruppe.md: Was sind die wahrhaftig größten Ängste der Geschäftsführer und Inhaber in diesen Branchen, geschäftlich und im Leben. Alle Aussagen unten sind mit echten Studien und Statistiken belegt, keine erfundenen Zahlen.
 
-## Die übergreifende Angst, unabhängig von der Branche
+## Grundprinzip: die drei universellen Ängste (gleichrangig, dauerhaft gültig)
 
-Drei Ängste tauchen branchenübergreifend bei fast allen zehn Zielgruppen auf, das sind vermutlich die eigentlich relevanten Hebel, nicht die jeweilige Branchen-Fachfrage:
+Drei Ängste tauchen branchenübergreifend bei fast allen zehn Zielgruppen auf, das sind die eigentlich relevanten Hebel, nicht die jeweilige Branchen-Fachfrage. Von Kevin bestätigt, unter anderem durch den Verlust seines langfristigsten Kunden wegen der dritten Angst. Alle drei sind gleich entscheidend, keine Rangfolge, und gelten als feste Grundlage für alle künftige Zielgruppenarbeit, unabhängig vom jeweiligen Angebot.
 
 **1. Zeitarmut und das Wegbrechen der Familie.** 44,5 Prozent der Selbstständigen mit Beschäftigten in Deutschland arbeiten 49 Stunden pro Woche oder mehr, bei Vollzeit-Arbeitnehmern sind es nur 4,1 Prozent (Destatis, zitiert im Tagesspiegel). Das ist die exakte deutsche Entsprechung des Anwalts-Beispiels: nicht das Produkt macht Angst, sondern der Lebensstil, den das eigene Unternehmen erzwingt.
 

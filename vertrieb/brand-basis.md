@@ -1,6 +1,6 @@
 # Recognize You – Marken- und Zielgruppenbasis
 
-Referenzdokument für alle Vertriebs- und Content-Generierung. Quelle: Onboarding-Tabelle (Recognize You) und Brand-Identity-PDF. Für die Textgestaltung selbst gilt zusätzlich [copywriting-strategie.md](./copywriting-strategie.md).
+Referenzdokument für alle Vertriebs- und Content-Generierung. Quelle: Onboarding-Tabelle (Recognize You) und Brand-Identity-PDF. Für die Textgestaltung selbst gilt zusätzlich [copywriting-strategie.md](./copywriting-strategie.md). Für die drei universellen, gleichrangigen Ängste der Zielgruppe (Zeitarmut/Familie, Einsamkeit an der Spitze, gescheiterte Nachfolge), die dauerhaft für jede Zielgruppenarbeit gelten, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md).
 
 ## Unternehmen
 
