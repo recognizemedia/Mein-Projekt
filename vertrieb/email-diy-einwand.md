@@ -26,13 +26,19 @@ Als Geschäftsführer ist Deine Zeit das Wertvollste, was [Firma] hat, und die s
 
 Falls Du unterwegs merkst, dass Dir die Zeit oder das Ergebnis fehlt, meld Dich einfach, die Tür bleibt offen.
 
-Viele Grüße
-Kevin
+Lieben Dank und beste Grüße
 
 Kevin Kowsky
+Geschäftsführer
+
 Recognize You
+Everything You Need
+
++49 176 34653744
 business@recognize-media.com
-0176 34653744
+
+Rittersbacher Straße 10
+91166 Georgensgmünd
 
 ## Platzhalter-Legende
 

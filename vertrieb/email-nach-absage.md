@@ -42,13 +42,19 @@ Drei Tatsachen zeigen, was passiert, sobald Dein Geschäft ordentlich dargestell
 
 Wenn Du magst, schreib mir einfach kurz zurück oder ruf durch, dann schauen wir uns gemeinsam an, wo bei [Firma] der größte Hebel liegt.
 
-Viele Grüße
-Kevin
+Lieben Dank und beste Grüße
 
 Kevin Kowsky
+Geschäftsführer
+
 Recognize You
+Everything You Need
+
++49 176 34653744
 business@recognize-media.com
-0176 34653744
+
+Rittersbacher Straße 10
+91166 Georgensgmünd
 
 ## Fakten-Quellen (für dich zur Absicherung, nicht Teil der Mail)
 

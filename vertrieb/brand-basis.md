@@ -5,8 +5,10 @@ Referenzdokument für alle Vertriebs- und Content-Generierung. Quelle: Onboardin
 ## Unternehmen
 
 - Name: Recognize You
+- Slogan: Everything You Need
 - Geschäftsführer: Kevin Kowsky
-- Kontakt: business@recognize-media.com, 0176 34653744
+- Kontakt: business@recognize-media.com, +49 176 34653744
+- Adresse: Rittersbacher Straße 10, 91166 Georgensgmünd
 - Branche: Marketing/Werbung
 - Leistungen: Websites (Aufbau & Optimierung), Google Performance (SEO/Blog), Facebook Ads, Social-Media-Aufbau (Instagram, LinkedIn, Facebook)
 

@@ -117,10 +117,15 @@ function blankLine() {
   });
 }
 
+// buildDoc(children): children ist normalerweise eine flache Liste von Absätzen,
+// zwischen die automatisch eine Leerzeile gesetzt wird. Ein Element darf aber auch
+// selbst ein Array sein ("enge Gruppe"), z. B. [note("A"), note("B"), note("C")].
+// Innerhalb dieser Gruppe wird keine Leerzeile eingefügt, davor und danach schon.
 function buildDoc(children) {
   const withBlankLines = [];
   children.forEach((child, i) => {
-    withBlankLines.push(child);
+    const items = Array.isArray(child) ? child : [child];
+    items.forEach((item) => withBlankLines.push(item));
     if (i < children.length - 1) {
       withBlankLines.push(blankLine());
     }
