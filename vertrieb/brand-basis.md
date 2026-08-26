@@ -26,7 +26,12 @@ Referenzdokument für alle Vertriebs- und Content-Generierung. Quelle: Onboardin
 
 Mittelständische Unternehmen mit schwacher digitaler Außendarstellung beziehungsweise schlechten Websites.
 
-**Wunschklient „Thomas" (Geschäftsinhaber):**
+**Hauptzielgruppe (aktueller, festgelegter Stand):** Zwei eigene Dokumente, gelten als die maßgebliche Zielgruppen-Definition für die Kaltakquise:
+
+- [leadquellen.md](./leadquellen.md), Abschnitt „Branchenpriorität": trendunabhängige, stabile Mittelstandsbranchen für das reguläre Preissegment.
+- [grosskunden-zielgruppe.md](./grosskunden-zielgruppe.md): engere Zielgruppe für das 20.000-EUR-Großkundenangebot, umsatzstärkere Unternehmen mit klarer Entscheidungsstruktur.
+
+**Wunschklient „Thomas" (Geschäftsinhaber):** psychologisches Profil, das branchenübergreifend für beide Zielgruppen oben gilt.
 
 - Zielgruppensatz: Geschäftsinhaber, die die Herausforderung haben, gesehen zu werden, und die auf der Suche nach jemandem sind, der ihnen dabei hilft, richtig wahrgenommen zu werden.
 - Gewünschtes Gefühl: Aufmerksamkeit
