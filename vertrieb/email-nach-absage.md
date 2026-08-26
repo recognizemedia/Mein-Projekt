@@ -12,25 +12,29 @@ Eckige Klammern [...] markieren Stellen, die pro Kunde individuell gefüllt werd
 
 ## Betreff
 
-Was sich für dich ändert
+Was sich für Dich ändert
 
 ## Text
 
 Hallo [Vorname],
 
-**Danke für unser effizientes Gespräch**
+**Danke für unser Gespräch**
 
 Schön, dass wir uns über Dein Geschäft austauschen konnten.
 
-Was mir aus unserem Gespräch am meisten im Kopf geblieben ist: Wie viel Substanz in [Firma] steckt, die online aktuell noch gar nicht so zur Geltung kommt, wie sie es verdient hätte. Mir ist zum Beispiel aufgefallen, dass [Konkreter Punkt 1, zum Beispiel: keine mobile Version, die Seite lässt sich auf dem Handy kaum bedienen]. Dazu kommt [Konkreter Punkt 2, zum Beispiel: kein klarer erster Satz, der zeigt, was Du eigentlich anbietest], und [Konkreter Punkt 3, zum Beispiel: keine unkomplizierte Möglichkeit, Dich direkt zu kontaktieren]. Das sagt nichts über die Qualität Deiner Arbeit aus, die ist längst da, sie wird online nur noch nicht in vollem Maß gezeigt.
+Was mir aus unserem Gespräch am meisten im Kopf geblieben ist: Wie viel Substanz in [Firma] steckt, die online aktuell noch gar nicht so zur Geltung kommt, wie sie es verdient hätte.
+
+Mir ist aufgefallen, dass [Konkreter Punkt 1, zum Beispiel: keine mobile Version, die Seite lässt sich auf dem Handy kaum bedienen]. Dazu kommt [Konkreter Punkt 2, zum Beispiel: kein klarer erster Satz, der zeigt, was Du eigentlich anbietest], und [Konkreter Punkt 3, zum Beispiel: keine unkomplizierte Möglichkeit, Dich direkt zu kontaktieren].
+
+Das sagt nichts über die Qualität der Arbeit aus, sie wird online nur noch nicht in vollem Maß gezeigt.
 
 Bei den meisten Unternehmen entstehen Website, Social Media und Anzeigen getrennt voneinander, mal selbst gemacht, mal von unterschiedlichen Dienstleistern, ohne dass am Ende ein stimmiges Bild entsteht. Bei einer Marke, die wirklich funktioniert, ist das anders: Dort ist jeder Klick, jede Seite und jede Anzeige exakt auf das abgestimmt, was Deine eigene Stammkundschaft wirklich braucht. Genau dieser ganzheitliche Blick fehlt den meisten, die sich mit einzelnen Maßnahmen begnügen, und das ist der eigentliche Grund, warum dieser Bereich so oft liegen bleibt.
 
-Das Ziel ist einfach zu benennen: Du sollst mit [Firma] am Markt so gesehen werden, dass die Menschen, die Du erreichen willst, auf den ersten Blick erkennen, wie gut Deine Arbeit tatsächlich ist.
+Das Ziel ist einfach zu benennen: Du sollst mit [Firma] am Markt so gesehen werden, dass die Menschen, die Du erreichen willst, auf den ersten Blick erkennen, dass [Firma] die richtige für sie ist.
 
-Drei Tatsachen zeigen, was passiert, sobald [Firma] ordentlich dargestellt und gefunden wird:
+Drei Tatsachen zeigen, was passiert, sobald Dein Geschäft ordentlich dargestellt und gefunden wird:
 
-- Der erste Eindruck einer Website entsteht in etwa 50 Millisekunden, und rund 94 Prozent davon hängen allein am Design. Wer hier überzeugt, gewinnt den Vorsprung, bevor der erste Satz überhaupt gelesen wird.
+- Der erste Eindruck einer Website entsteht in etwa 52 Millisekunden, und rund 94 Prozent davon hängen allein am Design. Wer hier überzeugt, gewinnt den Vorsprung, bevor der erste Satz überhaupt gelesen wird.
 - Rund 80 Prozent der Geschäftskunden informieren sich heute online über ein Unternehmen, bevor sie überhaupt zum Telefon greifen. Wer online überzeugt, wird angerufen, wer nicht überzeugt, erfährt es nie, und genau deshalb lohnt es sich, das jetzt in die Hand zu nehmen.
 - Im Schnitt hat ein Kunde schon etwa die Hälfte seiner Entscheidung getroffen, bevor er das erste Mal mit einem Vertrieb spricht. Ein starker Auftritt entscheidet also längst mit, bevor überhaupt ein Gespräch stattfindet.
 
