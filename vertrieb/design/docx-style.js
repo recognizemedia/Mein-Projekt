@@ -16,6 +16,9 @@ const MARGIN_TWIPS = 1296; // 0.9 Zoll
 function runs(text, opts = {}) {
   // Unterstützt zwei Auszeichnungen im Text: **fett** (Markdown-Stil, Sternchen werden entfernt)
   // und [Platzhalter] (bleibt inklusive Klammern sichtbar, immer fett).
+  // opts.boldFont: optionale abweichende Schriftart nur für die fett gesetzten
+  // Wörter, z. B. "Calibri Light", die mit bold:true optisch weniger dick wirkt
+  // als die reguläre Schriftart in Fett.
   const pattern = /(\*\*[^*]+\*\*|\[[^\]]+\])/g;
   const parts = text.split(pattern).filter((p) => p.length > 0);
   return parts.map((part) => {
@@ -29,7 +32,7 @@ function runs(text, opts = {}) {
     }
     return new TextRun({
       text: content,
-      font: opts.font || FONT_BODY,
+      font: (bold && opts.boldFont) || opts.font || FONT_BODY,
       size: opts.size,
       bold,
       italics: !!opts.italics,
@@ -89,12 +92,12 @@ function bullet(text) {
   });
 }
 
-// opts erlaubt eine dokumentspezifische Abweichung (size), Standardwert
+// opts erlaubt eine dokumentspezifische Abweichung (size, boldFont), Standardwert
 // gilt unverändert für alle anderen Dokumente.
 function note(text, opts = {}) {
-  const { size = 19 } = opts; // Standard: 9.5pt
+  const { size = 19, boldFont } = opts; // Standard: 9.5pt
   return new Paragraph({
-    children: runs(text, { font: FONT_BODY, size, italics: true }),
+    children: runs(text, { font: FONT_BODY, size, italics: true, boldFont }),
     indent: { left: 300 }, // ~15pt Einzug ab der Überschrift
     spacing: { before: 0, after: 0 },
   });
@@ -108,12 +111,12 @@ function para(text, opts = {}) {
 }
 
 // Gesprochene Zeilen (Telefonskripte): eingerückt wie bullet(), aber ohne Aufzählungspunkt.
-// opts erlaubt eine dokumentspezifische Abweichung (size), Standardwert
+// opts erlaubt eine dokumentspezifische Abweichung (size, boldFont), Standardwert
 // gilt unverändert für alle anderen Dokumente.
 function spoken(text, opts = {}) {
-  const { size = 22 } = opts; // Standard: 11pt
+  const { size = 22, boldFont } = opts; // Standard: 11pt
   return new Paragraph({
-    children: runs(text, { size }),
+    children: runs(text, { size, boldFont }),
     indent: { left: 106 },
     spacing: { before: 0, after: 0 },
   });
