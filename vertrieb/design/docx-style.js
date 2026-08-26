@@ -60,19 +60,23 @@ function sectionHeading(number, text) {
 
 // Wie sectionHeading, aber ohne Nummerierung. Für Dokumente, deren Abschnitte
 // keine Schrittfolge sind (z. B. Themenblöcke statt Checkliste).
-function heading(text) {
+// opts erlaubt eine dokumentspezifische Abweichung (size/bold), Standardwerte
+// gelten unverändert für alle anderen Dokumente.
+function heading(text, opts = {}) {
+  const { size = 25, bold = true } = opts; // Standard: 12.5pt fett
   return new Paragraph({
-    children: [new TextRun({ text, font: FONT_BODY, size: 25, bold: true })], // 12.5pt
+    children: [new TextRun({ text, font: FONT_BODY, size, bold })],
     spacing: { before: 0, after: 0 },
   });
 }
 
 // Zweite, kleinere Überschriftenebene für verschachtelte Dokumente (z. B. benannte
 // Abschnitte innerhalb eines Calls). Gleiche Schriftfamilie und Schnitt wie heading(),
-// nur kleiner.
-function subHeading(text) {
+// nur kleiner. opts wie bei heading().
+function subHeading(text, opts = {}) {
+  const { size = 23, bold = true } = opts; // Standard: 11.5pt fett
   return new Paragraph({
-    children: [new TextRun({ text, font: FONT_BODY, size: 23, bold: true })], // 11.5pt
+    children: [new TextRun({ text, font: FONT_BODY, size, bold })],
     spacing: { before: 0, after: 0 },
   });
 }
@@ -85,9 +89,12 @@ function bullet(text) {
   });
 }
 
-function note(text) {
+// opts erlaubt eine dokumentspezifische Abweichung (size), Standardwert
+// gilt unverändert für alle anderen Dokumente.
+function note(text, opts = {}) {
+  const { size = 19 } = opts; // Standard: 9.5pt
   return new Paragraph({
-    children: runs(text, { font: FONT_BODY, size: 19, italics: true }), // 9.5pt
+    children: runs(text, { font: FONT_BODY, size, italics: true }),
     indent: { left: 300 }, // ~15pt Einzug ab der Überschrift
     spacing: { before: 0, after: 0 },
   });
@@ -101,9 +108,12 @@ function para(text, opts = {}) {
 }
 
 // Gesprochene Zeilen (Telefonskripte): eingerückt wie bullet(), aber ohne Aufzählungspunkt.
-function spoken(text) {
+// opts erlaubt eine dokumentspezifische Abweichung (size), Standardwert
+// gilt unverändert für alle anderen Dokumente.
+function spoken(text, opts = {}) {
+  const { size = 22 } = opts; // Standard: 11pt
   return new Paragraph({
-    children: runs(text, { size: 22 }), // 11pt
+    children: runs(text, { size }),
     indent: { left: 106 },
     spacing: { before: 0, after: 0 },
   });
