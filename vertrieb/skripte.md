@@ -6,6 +6,8 @@ Eckige Klammern [...] markieren Stellen, die pro Anruf individuell gefüllt werd
 
 Das Du wird ganz am Anfang von Call 1 geklärt. Ab dem Moment, in dem der Kunde zustimmt, läuft das gesamte Gespräch, auch Call 2 und Call 3, durchgehend im Du, inklusive Anrede mit Vornamen statt Herr [Nachname].
 
+**Psychologische Grundlage für alle drei Calls**, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md) und [copywriting-strategie.md](./copywriting-strategie.md): Menschen kaufen instinktiv dort, wo sie dieselben Leidenschaften oder Ängste erkennen wie bei sich selbst. Diese Zielgruppe kauft überwiegend aus Angst beziehungsweise aus dem Wunsch nach dem geringsten Risiko, Leidenschaft wirkt als Bonus obendrauf, nicht als Hauptmotor. Deshalb muss schon in Call 1 erkennbar werden, ob der Kunde auf derselben Wellenlänge ist, und jeder Pitch in Call 3 muss ein konkretes Szenario aus Leidenschaft und der damit verbundenen Angst im Kopf des Kunden erzeugen.
+
 ---
 
 ## Call 1 – Terminierung
@@ -26,10 +28,12 @@ Falls jemand ausdrücklich beim Sie bleiben möchte: das respektieren, für dies
 
 ### Bezug herstellen
 
-Je nach Leadquelle eine der drei Varianten:
+Je nach Leadquelle eine der drei Varianten. Wichtig ab hier: Schon diese erste Reaktion des Kunden zeigt, ob er auf derselben Wellenlänge ist, also dieselbe Angst oder Leidenschaft teilt. Das ist der erste Moment im ganzen Call, an dem sich das erkennen lässt, siehe die Notiz unten.
 
 **Kaltakquise (Website-Recherche):**
-„Ich melde mich, weil ich eben auf deine Website gestoßen bin, und mir ist aufgefallen, [konkrete Beobachtung, zum Beispiel: dass sie auf dem Handy kaum zu bedienen ist, oder dass man auf den ersten Blick gar nicht erkennt, was du eigentlich anbietest]. Das ist mir aufgefallen, weil ich das öfter bei Unternehmen sehe, die eigentlich richtig gute Arbeit leisten, aber online nicht so rüberkommen, wie sie es eigentlich verdient hätten."
+„Ich melde mich, weil ich eben auf deine Website gestoßen bin, und mir ist aufgefallen, [konkrete Beobachtung, zum Beispiel: dass sie auf dem Handy kaum zu bedienen ist, oder dass man auf den ersten Blick gar nicht erkennt, was du eigentlich anbietest]. Ehrlich gesagt sehe ich das andauernd bei Leuten, die richtig gute Arbeit machen, aber online nicht annähernd so gesehen werden, wie sie es verdient hätten."
+
+Direkt danach kommt die Reaktion des Kunden, genau darauf achten: Antwortet er sofort emotional zustimmend, zum Beispiel „ja, das nervt mich schon länger" oder Ähnliches, ist das ein starkes Signal für dieselbe Angst (nicht gesehen werden) oder Leidenschaft (endlich richtig gesehen werden), siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md). Bleibt die Reaktion beiläufig oder abwehrend, sitzt der eigentliche Hebel bei diesem Kunden vermutlich woanders, das dann gezielt in Call 2 herausfinden, hier nicht nachbohren.
 
 **Empfehlung:**
 „[Name des Bestandskunden] hat mir von dir erzählt und meinte, es könnte für dich interessant sein, sich mal mit mir zu unterhalten."
@@ -92,6 +96,14 @@ Der Platzhalter muss vor dem Call mit einer echten, konkreten Beobachtung zur We
 
 „Wie viele Aufträge generierst du bis jetzt über deine Seite beziehungsweise über deine Präsenz aktuell?"
 
+### Abfrage Zeit und Verantwortung
+
+„Wer kümmert sich bei euch aktuell eigentlich ums Marketing, machst du das noch mit nebenbei, oder ist da schon fest jemand dafür da?"
+
+„Und ganz ehrlich, wie viel von deiner eigenen Zeit geht dafür drauf, Dinge selbst zu lösen, für die eigentlich schon jemand da sein müsste?"
+
+Diese beiden Fragen legen zwei der recherchierten Ängste offen: Fachkräftemangel im eigenen Marketing und Zeitarmut auf Kosten von Familie und Freizeit, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md). Die Antwort zeigt außerdem, ob der Kunde selbst betroffen ist, also dieselbe Angst teilt wie die recherchierte Zielgruppe.
+
 ### Abfrage Kundenwunsch
 
 „Das heißt, wenn ich das richtig verstehe, ist dir wichtig, dass man nachvollziehen kann, woher die Besucher kommen?"
@@ -124,7 +136,7 @@ Diese Frage fehlte in der ersten Version. Sie sorgt dafür, dass der Kunde die L
 
 „Hast du vor, die Firma später an deine Kinder weiterzugeben?"
 
-Diese vier Fragen erst stellen, wenn im Gespräch bereits spürbares Vertrauen da ist, nicht als starres Pflichtprogramm direkt nach der vorigen Frage.
+Diese vier Fragen erst stellen, wenn im Gespräch bereits spürbares Vertrauen da ist, nicht als starres Pflichtprogramm direkt nach der vorigen Frage. Die letzte Frage zur Nachfolge legt gezielt eine der drei universellen Ängste offen, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md): die Angst, die eigene Lebensarbeit nicht übergeben zu können. Die Reaktion darauf zeigt viel darüber, wie stark diese Angst bei diesem konkreten Kunden wirkt.
 
 ### Einwand: kein Budget wegen Umsatzproblemen
 
@@ -158,9 +170,9 @@ Baut direkt auf der Zusage aus Call 2 auf.
 
 ### Zusammenfassung spiegeln
 
-„Wenn ich das nochmal zusammenfasse: Du hast mir erzählt, dass [Notizen aus Call 2], und dass es dir vor allem darum geht, [Ergebnis X] und [Ergebnis Y] zu erreichen. Habe ich das richtig verstanden?"
+„Wenn ich das nochmal zusammenfasse: Dir geht es im Kern darum, [Leidenschaft aus Call 2, zum Beispiel: mit [Firma] endlich so gesehen zu werden, wie es die Arbeit verdient], und die Sorge dahinter ist, [verbundene Angst aus Call 2, zum Beispiel: dass sich daran nichts ändert, solange du das nebenbei allein stemmst]. Habe ich das richtig verstanden?"
 
-Auf die Bestätigung warten, bevor es weitergeht. Der Kunde muss aktiv zustimmen, bevor der Ansatz gezeigt wird.
+Auf die Bestätigung warten, bevor es weitergeht. Der Kunde muss aktiv zustimmen, bevor der Ansatz gezeigt wird. Diese Zusammenfassung erzeugt bewusst ein konkretes Szenario aus Leidenschaft und der damit verbundenen Angst im Kopf des Kunden, das trägt den Rest des Calls, siehe copywriting-strategie.md.
 
 ### Ansatz präsentieren
 
@@ -171,6 +183,12 @@ Auf die Bestätigung warten, bevor es weitergeht. Der Kunde muss aktiv zustimmen
 ### Unterschied benennen
 
 „Der Unterschied zu dem, was du bisher kennst: Ich verkaufe dir nicht eine Leistung und bin dann wieder weg. Wir bleiben während der ganzen Zusammenarbeit so eng dran, wie wir das jetzt in unseren Gesprächen auch schon waren."
+
+### Geringstes Risiko zeigen
+
+„Und noch was Wichtiges dazu: Das hier ist bei mir kein Blindflug. Ich habe genau solche Situationen schon in ganz unterschiedlichen Branchen durchgespielt, [Branche 1] und [Branche 2] zum Beispiel, das Vorgehen ist erprobt, kein Experiment auf deine Kosten. Und ich baue das nie nach Schema, sondern arbeite jedes Mal genau heraus, was [Firma] wirklich besonders macht, damit am Ende keine austauschbare Agentur-Vorlage rauskommt, sondern etwas, das wirklich zu [Firma] passt."
+
+Diese Zielgruppe entscheidet sich für die Option mit dem geringsten Risiko, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md). Diese beiden Sätze zeigen genau das: bewährte, branchenübergreifende Erfahrung und individuelle Markenarbeit statt Schema. Nie auslassen, auch wenn der Call gut läuft.
 
 ### Passendes Paket wählen und Investment nennen
 
