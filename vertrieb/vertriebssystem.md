@@ -22,6 +22,11 @@ Das Du wird ganz am Anfang von Call 1 geklärt (neu ergänzt). Ab dem Moment, in
 
 Ziel ausschließlich: Termin für Call 2 fixieren. Keine Qualifizierung, kein Pitch. Passend zur Brand Identity: nicht überzeugen wollen, sondern eine Beobachtung oder Frage platzieren, die Neugier auslöst.
 
+**Vorgemerkt für den nächsten Umbau, noch nicht umgesetzt:** Der komplette Call-Aufbau wird demnächst um Kevins Pitch herum neu gebaut, siehe Ankündigung von Kevin. Zwei Punkte davon speziell für Call 1, die dann einzuarbeiten sind:
+
+1. In Call 1 geht es inhaltlich nicht um Websites, sondern um eine Bestandsaufnahme dessen, was den Kunden gerade wirklich belastet.
+2. Am Ende von Call 1 soll der Kunde das Gefühl haben, dass die richtige Lösung nur bei Recognize You liegen kann. Dadurch entsteht der Wunsch nach der Verbindung zu uns, und genau dadurch kauft er später alles, was ihm einmal vernünftig vorgeschlagen wird.
+
 ### Eröffnung und Du klären
 
 „Hallo Herr NACHNAME, hier ist Kevin Kowsky von Recognize You. Ich duze eigentlich jeden, mit dem ich arbeite, ist das für dich in Ordnung?"
