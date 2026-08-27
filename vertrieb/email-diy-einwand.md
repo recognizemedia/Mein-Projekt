@@ -1,12 +1,12 @@
 # Recognize You – E-Mail-Vorlage beim Einwand „Ich versuche das erstmal selbst"
 
-Referenziert: [skripte.md](./skripte.md), [vertriebssystem.md](./vertriebssystem.md), [copywriting-strategie.md](./copywriting-strategie.md)
+Referenziert: [skripte.md](./skripte.md), [vertriebssystem.md](./vertriebssystem.md), [einwaende.md](./einwaende.md), [copywriting-strategie.md](./copywriting-strategie.md)
 
 ## Verwendung
 
 Für den Fall, dass ein Kunde nach dem Gespräch schriftlich antwortet, er wolle die Website oder den Shop erst einmal selbst umbauen und sich melden, falls er doch Hilfe braucht oder das Projekt abgeben will. Ausgelöst durch eine echte Kundenreaktion (SUP Shop Pleinfeld). Dahinter steckt meist kein Desinteresse, sondern ein Verständnisproblem: dem Kunden ist nicht klar, dass er sich als Geschäftsführer auf seinen eigentlichen Aufgabenbereich fokussieren sollte, und dass Eigenumsetzung Zeit kostet und selten das Niveau erreicht, das der Qualität seines Unternehmens entspricht.
 
-Gilt genauso als Live-Antwort in Call 3, siehe Einwand „Ich versuche das erstmal selbst" dort.
+Gilt genauso als Live-Antwort in Call 3, siehe Einwand „Ich versuche das erstmal selbst" in [einwaende.md](./einwaende.md).
 
 Ton wie bei einem bestehenden Kunden, siehe copywriting-strategie.md: keine Beweisführung, keine Standardfloskeln, die Sache direkt ansprechen.
 

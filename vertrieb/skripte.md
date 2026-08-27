@@ -1,6 +1,6 @@
 # Recognize You – Telefonskripte (finale Fassung)
 
-Fertig ausformulierte Version zum direkten Gebrauch am Telefon. Hintergrund, Rationale und Preistabellen stehen in [vertriebssystem.md](./vertriebssystem.md), Zielgruppen- und Markenwissen in [brand-basis.md](./brand-basis.md).
+Fertig ausformulierte Version zum direkten Gebrauch am Telefon, ausschließlich der normale Gesprächsablauf, ohne Einwände. Hintergrund, Rationale und Preistabellen stehen in [vertriebssystem.md](./vertriebssystem.md), Zielgruppen- und Markenwissen in [brand-basis.md](./brand-basis.md), Antworten auf mögliche Einwände in [einwaende.md](./einwaende.md).
 
 Eckige Klammern [...] markieren Stellen, die pro Anruf individuell gefüllt werden. Alles andere wird wortwörtlich so gesprochen.
 
@@ -31,7 +31,7 @@ Falls jemand ausdrücklich beim Sie bleiben möchte: das respektieren, für dies
 Je nach Leadquelle eine der drei Varianten. Wichtig ab hier: Schon diese erste Reaktion des Kunden zeigt, ob er auf derselben Wellenlänge ist, also dieselbe Angst oder Leidenschaft teilt. Das ist der erste Moment im ganzen Call, an dem sich das erkennen lässt, siehe die Notiz unten.
 
 **Kaltakquise (Website-Recherche):**
-„Ich melde mich, weil ich eben auf deine Website gestoßen bin, und mir ist aufgefallen, [konkrete Beobachtung, zum Beispiel: dass sie auf dem Handy kaum zu bedienen ist, oder dass man auf den ersten Blick gar nicht erkennt, was du eigentlich anbietest]. Ehrlich gesagt sehe ich das andauernd bei Leuten, die richtig gute Arbeit machen, aber online nicht annähernd so gesehen werden, wie sie es verdient hätten."
+„Ich melde mich, weil ich eben auf deine Website gestoßen bin, und mir ist aufgefallen, [konkrete Beobachtung, zum Beispiel: dass sie auf dem Handy kaum zu bedienen ist, oder dass man auf den ersten Blick gar nicht erkennt, was du eigentlich anbietest]. Das sehe ich andauernd bei Leuten, die richtig gute Arbeit machen, aber online nicht annähernd so gesehen werden, wie sie es verdient hätten."
 
 Direkt danach kommt die Reaktion des Kunden, genau darauf achten: Antwortet er sofort emotional zustimmend, zum Beispiel „ja, das nervt mich schon länger" oder Ähnliches, ist das ein starkes Signal für dieselbe Angst (nicht gesehen werden) oder Leidenschaft (endlich richtig gesehen werden), siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md). Bleibt die Reaktion beiläufig oder abwehrend, sitzt der eigentliche Hebel bei diesem Kunden vermutlich woanders, das dann gezielt in Call 2 herausfinden, hier nicht nachbohren.
 
@@ -50,17 +50,6 @@ Direkt danach kommt die Reaktion des Kunden, genau darauf achten: Antwortet er s
 „Passt es dir eher [Tag 1] oder [Tag 2] besser?"
 
 „Gut, dann halte ich uns [Tag] um [Uhrzeit] fest. Du brauchst dich auf nichts vorzubereiten, das wird ein ganz normales Gespräch."
-
-### Einwände
-
-„Worum geht es denn genau?"
-„Ehrlich gesagt geht es erstmal nur darum herauszufinden, ob es überhaupt Sinn ergibt, dass wir uns näher unterhalten. Deswegen die Fragen im nächsten Gespräch, nicht schon jetzt am Telefon."
-
-„Ich habe gerade keine Zeit."
-„Verstehe ich, genau deswegen rede ich jetzt auch nicht weiter, sondern wir machen einen festen Termin, für den du dir die Zeit bewusst freihalten kannst."
-
-„Schick mir das lieber per Mail."
-„Mache ich gerne zusätzlich, aber eine allgemeine Mail bringt dir ehrlich gesagt wenig, weil jedes Unternehmen andere Herausforderungen hat. Deswegen lieber kurz am Telefon, das dauert nur fünfzehn Minuten."
 
 ### Verabschiedung
 
@@ -100,7 +89,7 @@ Der Platzhalter muss vor dem Call mit einer echten, konkreten Beobachtung zur We
 
 „Wer kümmert sich bei euch aktuell eigentlich ums Marketing, machst du das noch mit nebenbei, oder ist da schon fest jemand dafür da?"
 
-„Und ganz ehrlich, wie viel von deiner eigenen Zeit geht dafür drauf, Dinge selbst zu lösen, für die eigentlich schon jemand da sein müsste?"
+„Und wie viel von deiner eigenen Zeit geht dafür drauf, Dinge selbst zu lösen, für die eigentlich schon jemand da sein müsste?"
 
 Diese beiden Fragen legen zwei der recherchierten Ängste offen: Fachkräftemangel im eigenen Marketing und Zeitarmut auf Kosten von Familie und Freizeit, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md). Die Antwort zeigt außerdem, ob der Kunde selbst betroffen ist, also dieselbe Angst teilt wie die recherchierte Zielgruppe.
 
@@ -137,14 +126,6 @@ Diese Frage fehlte in der ersten Version. Sie sorgt dafür, dass der Kunde die L
 „Hast du vor, die Firma später an deine Kinder weiterzugeben?"
 
 Diese vier Fragen erst stellen, wenn im Gespräch bereits spürbares Vertrauen da ist, nicht als starres Pflichtprogramm direkt nach der vorigen Frage. Die letzte Frage zur Nachfolge legt gezielt eine der drei universellen Ängste offen, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md): die Angst, die eigene Lebensarbeit nicht übergeben zu können. Die Reaktion darauf zeigt viel darüber, wie stark diese Angst bei diesem konkreten Kunden wirkt.
-
-### Einwand: kein Budget wegen Umsatzproblemen
-
-Taucht das Thema Geld auf und der Kunde blockt von sich aus ab, zum Beispiel mit „Ich muss jetzt erstmal woanders Geld reinstecken, ich hab gerade Umsatzprobleme":
-
-„Das verstehe ich gut, und ehrlich gesagt ist das genau der Grund, warum sich das Gespräch trotzdem lohnt. Wir reden heute noch über gar kein Geld, sondern nur darüber, was bei dir gerade wirklich los ist. Und wenn die Umsatzprobleme daher kommen, dass du online zu wenig gesehen wirst, dann verschwindet das Problem ja nicht von selbst, nur weil man gerade nicht investiert."
-
-Diese Antwort erst einsetzen, wenn der Kunde das Thema von sich aus anspricht, nicht aktiv vorwegnehmen. Ziel ist, die Blockade zu lösen und zurück in die Fragerunde zu kommen, nicht Call 2 zum Preisgespräch zu machen, das bleibt Call 3 vorbehalten.
 
 ### Abfrage Zukunft
 
@@ -201,20 +182,6 @@ Auswahl anhand Call 2: Website fehlt oder ist in schlechtem Zustand, sonst über
 „Für das Marketing-Paket liegt die Investition bei 8.899 Euro einmalig, dazu laufend das Online-Marketing-Budget, das wir je nach gewünschtem Tempo bei Google und Facebook individuell festlegen."
 
 „Die eigentliche Frage ist nicht, ob dir der Preis das wert ist, sondern ob dir [Ergebnis X] und [Ergebnis Y] das wert sind."
-
-### Einwände
-
-„Das ist mir zu teuer."
-„Verstehe ich. Darf ich fragen, im Vergleich wozu genau zu teuer? Was kostet es dich denn aktuell, wenn sich an [aktuelle Situation aus Call 2] nichts ändert?"
-
-„Ich muss das noch mit meiner Frau/meinem Partner besprechen."
-„Vollkommen verständlich. Was genau würde für die Entscheidung noch fehlen, damit wir das gemeinsam klären können?"
-
-„Ich hole mir noch andere Angebote ein."
-„Macht Sinn. Wonach genau vergleichst du die Angebote?"
-
-„Ich versuche das erstmal selbst."
-„Verstehe ich gut, das würden viele so machen. Nur eine Sache dazu: Deine Zeit als Geschäftsführer ist das Wertvollste, was du hast, die fehlt dann an anderer Stelle im Unternehmen. Und selbst mit vollem Einsatz kommt ein Eigenbau selten auf das Niveau, das eurer Qualität eigentlich entspricht."
 
 ### Abschluss
 

@@ -2,7 +2,7 @@
 
 Referenziert: [brand-basis.md](./brand-basis.md), [leadquellen.md](./leadquellen.md)
 
-Fertig ausformulierte Skripte zum direkten Gebrauch am Telefon stehen in [skripte.md](./skripte.md). Dieses Dokument bleibt die Referenz für Struktur, Rationale und Preistabellen.
+Fertig ausformulierte Skripte zum direkten Gebrauch am Telefon stehen in [skripte.md](./skripte.md), das ist ausschließlich der normale Gesprächsablauf, ohne Einwände. Dieses Dokument bleibt die Referenz für Struktur, Rationale und Preistabellen. Antworten auf mögliche Einwände stehen separat in [einwaende.md](./einwaende.md).
 
 ## Übersicht
 
@@ -40,7 +40,7 @@ BEZUG AUFGREIFEN: konkreter Anlass, zum Beispiel Empfehlung durch NAME, Beitrag 
 
 ### Neugier wecken, ohne zu pitchen
 
-„Mir ist aufgefallen, HOOK BEOBACHTUNG. Ehrlich gesagt sehe ich das andauernd bei Leuten, die richtig gute Arbeit machen, aber online nicht annähernd so gesehen werden, wie sie es verdient hätten."
+„Mir ist aufgefallen, HOOK BEOBACHTUNG. Das sehe ich andauernd bei Leuten, die richtig gute Arbeit machen, aber online nicht annähernd so gesehen werden, wie sie es verdient hätten."
 
 **Neu ergänzt:** Direkt danach kommt die Reaktion des Kunden, genau darauf achten, das ist der erste Moment im ganzen Call, an dem sich die gemeinsame Wellenlänge erkennen lässt, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md). Antwortet er sofort emotional zustimmend, zum Beispiel „ja, das nervt mich schon länger" oder Ähnliches, ist das ein starkes Signal für dieselbe Angst (nicht gesehen werden) oder Leidenschaft (endlich richtig gesehen werden). Bleibt die Reaktion beiläufig oder abwehrend, sitzt der eigentliche Hebel bei diesem Kunden vermutlich woanders, das dann gezielt in Call 2 herausfinden, hier nicht nachbohren.
 
@@ -51,17 +51,6 @@ BEZUG AUFGREIFEN: konkreter Anlass, zum Beispiel Empfehlung durch NAME, Beitrag 
 „Passt es dir eher TAG1 oder TAG2 besser?"
 
 „Gut, dann halte ich uns TAG UHRZEIT fest. Du brauchst dich auf nichts vorzubereiten, das wird ein ganz normales Gespräch."
-
-### Einwände
-
-„Worum geht es denn genau?"
-„Ehrlich gesagt geht es erstmal nur darum herauszufinden, ob es überhaupt Sinn ergibt, dass wir uns näher unterhalten. Deswegen die Fragen im nächsten Gespräch, nicht schon jetzt am Telefon."
-
-„Ich habe gerade keine Zeit."
-„Verstehe ich, genau deswegen rede ich jetzt auch nicht weiter, sondern wir machen einen festen Termin, für den du dir die Zeit bewusst freihalten kannst."
-
-„Schick mir das lieber per Mail."
-„Mache ich gerne zusätzlich, aber eine allgemeine Mail bringt dir ehrlich gesagt wenig, weil jedes Unternehmen andere Herausforderungen hat. Deswegen lieber kurz am Telefon, das dauert nur fünfzehn Minuten."
 
 ### Verabschiedung
 
@@ -105,7 +94,7 @@ KONKRETER MANGEL AUF DER PRÄSENZ muss vor dem Call mit einer echten, spezifisch
 
 „Wer kümmert sich bei euch aktuell eigentlich ums Marketing, machst du das noch mit nebenbei, oder ist da schon fest jemand dafür da?"
 
-„Und ganz ehrlich, wie viel von deiner eigenen Zeit geht dafür drauf, Dinge selbst zu lösen, für die eigentlich schon jemand da sein müsste?"
+„Und wie viel von deiner eigenen Zeit geht dafür drauf, Dinge selbst zu lösen, für die eigentlich schon jemand da sein müsste?"
 
 Diese beiden Fragen legen zwei der recherchierten Ängste offen: Fachkräftemangel im eigenen Marketing und Zeitarmut auf Kosten von Familie und Freizeit, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md). Die Antwort zeigt außerdem, ob der Kunde selbst betroffen ist, also dieselbe Angst teilt wie die recherchierte Zielgruppe.
 
@@ -142,14 +131,6 @@ Diese Frage fehlte in der ersten Version. Sie sorgt dafür, dass der Kunde die L
 „Hast du vor, die Firma später an deine Kinder weiterzugeben?"
 
 Die letzte Frage legt gezielt eine der drei universellen Ängste offen, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md): die Angst, die eigene Lebensarbeit nicht übergeben zu können. Die Reaktion darauf zeigt viel darüber, wie stark diese Angst bei diesem konkreten Kunden wirkt.
-
-### Einwand: kein Budget wegen Umsatzproblemen (neu ergänzt)
-
-Aus einem echten Call: Sobald das Thema Geld anklingt, blockt ein Teil der Kunden von sich aus ab, zum Beispiel mit „Ich muss jetzt erstmal woanders Geld reinstecken, ich hab gerade Umsatzprobleme". Das wird vermutlich der häufigste Einwand überhaupt, deshalb eine feste Antwort dafür:
-
-„Das verstehe ich gut, und ehrlich gesagt ist das genau der Grund, warum sich das Gespräch trotzdem lohnt. Wir reden heute noch über gar kein Geld, sondern nur darüber, was bei dir gerade wirklich los ist. Und wenn die Umsatzprobleme daher kommen, dass du online zu wenig gesehen wirst, dann verschwindet das Problem ja nicht von selbst, nur weil man gerade nicht investiert."
-
-Erst einsetzen, wenn der Kunde das Thema von sich aus anspricht, nicht aktiv vorwegnehmen. Ziel ist, die Blockade zu lösen und zurück in die Fragerunde zu kommen, nicht Call 2 zum Preisgespräch zu machen, das bleibt Call 3 vorbehalten.
 
 ### Abfrage Zukunft
 
@@ -224,22 +205,6 @@ Je nach gewähltem Paket eine der drei Varianten:
 
 „Die eigentliche Frage ist nicht, ob dir der Preis das wert ist, sondern ob dir ERGEBNIS X und ERGEBNIS Y das wert sind."
 
-### Einwände
-
-„Das ist mir zu teuer."
-„Verstehe ich. Darf ich fragen, im Vergleich wozu genau zu teuer? Was kostet es dich denn aktuell, wenn sich an AKTUELLE SITUATION AUS CALL 2 nichts ändert?"
-
-„Ich muss das noch mit meiner Frau/meinem Partner besprechen."
-„Vollkommen verständlich. Was genau würde für die Entscheidung noch fehlen, damit wir das gemeinsam klären können?"
-
-„Ich hole mir noch andere Angebote ein."
-„Macht Sinn. Wonach genau vergleichst du die Angebote?"
-
-„Ich versuche das erstmal selbst." (neu ergänzt)
-„Verstehe ich gut, das würden viele so machen. Nur eine Sache dazu: Deine Zeit als Geschäftsführer ist das Wertvollste, was du hast, die fehlt dann an anderer Stelle im Unternehmen. Und selbst mit vollem Einsatz kommt ein Eigenbau selten auf das Niveau, das eurer Qualität eigentlich entspricht."
-
-Aus einer echten Kundenreaktion: Kunde antwortet nach dem Gespräch schriftlich, dass er die Website oder den Shop lieber selbst umbauen und sich erst melden will, falls er doch Hilfe braucht. Dahinter steckt oft ein Verständnisproblem, nicht Desinteresse: dem Kunden ist nicht klar, dass er sich als Geschäftsführer auf seinen eigentlichen Aufgabenbereich fokussieren sollte, und dass die Eigenumsetzung Zeit kostet und selten das Niveau erreicht, das der Qualität des Unternehmens entspricht. Fällt der Einwand erst nach dem Call schriftlich, siehe die E-Mail-Vorlage in [email-diy-einwand.md](./email-diy-einwand.md).
-
 ### Abschluss
 
 „Wenn das für dich soweit passt, schicke ich dir den Vertrag direkt über DocuSign, den kannst du bequem online unterschreiben. Danach vereinbaren wir gleich den Kickoff-Termin. Passt das für dich?"
@@ -252,7 +217,6 @@ Aus einer echten Kundenreaktion: Kunde antwortet nach dem Gespräch schriftlich,
 
 - Die Zusammenfassung am Anfang ist der wichtigste Teil des ganzen Calls. Der Kunde muss aktiv "ja, richtig" sagen, bevor der Ansatz überhaupt gezeigt wird. Das schafft die Zustimmung, auf die sich der Rest des Gesprächs stützt.
 - Der Preis wird bewusst erst nach dem Ansatz genannt, nie davor. Vorher hat der Kunde keinen Bezugsrahmen, wofür er zahlt.
-- Bei den Einwänden nie sofort rechtfertigen oder Rabatt anbieten, sondern zuerst durch eine Rückfrage den eigentlichen Grund hinter dem Einwand freilegen.
 
 ## Platzhalter-Legende
 
@@ -273,4 +237,3 @@ Aus einer echten Kundenreaktion: Kunde antwortet nach dem Gespräch schriftlich,
 | ANSATZ IN 2 BIS 3 SÄTZEN | Individueller Umsetzungsvorschlag, abgeleitet aus Call 2 |
 | LEISTUNGEN AUS DEM GEWÄHLTEN PAKET | Konkrete Leistungen aus der Pakettabelle in Call 3, passend zum gewählten Paket |
 | BRANCHE 1 / BRANCHE 2 | Zwei echte Branchen, in denen bereits ein vergleichbares Projekt umgesetzt wurde, als Beleg für bewährte, branchenübergreifende Erfahrung |
-| AKTUELLE SITUATION AUS CALL 2 | Schwachpunkt, den der Kunde in Call 2 selbst genannt hat |
