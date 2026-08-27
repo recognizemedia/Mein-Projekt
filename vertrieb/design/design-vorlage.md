@@ -53,7 +53,7 @@ Allgemeiner Aufbau bleibt sonst wie zuvor:
 
 1. Haupttitel ganz oben, kurz und knapp, keine Versionsnummern oder Vorspann im Titel selbst.
 2. Direkt darunter der einleitende Hinweistext, falls vorhanden: kursiv, aber **flush-links wie der restliche Text, nicht eingerückt** (`para(text, { italics: true })`, nicht `note()`). Die eingerückte `note()`-Formatierung bleibt reserviert für kleinere Zwischenanmerkungen weiter unten im Dokument, nicht für den einleitenden Rahmensatz direkt unter dem Titel.
-3. Abschnittsüberschrift, nummeriert oder unnummeriert, fett.
+3. Abschnittsüberschrift, nummeriert oder unnummeriert, fett. Bei reinen Text-Referenzdokumenten (Zwischenüberschrift direkt gefolgt von Fließtext, ohne Tabelle) muss die Überschrift deutlich größer als der Fließtext sein, mindestens 14pt gegen 11pt Fließtext, nicht nur 11,5pt wie der bisherige `subHeading()`-Standard, sonst fällt der Größenunterschied kaum auf. Fettschnitt bleibt normal, nicht dünner machen. Per `subHeading(text, { size: 28 })` umsetzen.
 4. Fließtext, Aufzählungspunkte, Anmerkungen darunter, jeweils durch Leerzeile getrennt.
 5. Vor jeder neuen Abschnittsüberschrift ebenfalls eine Leerzeile.
 
