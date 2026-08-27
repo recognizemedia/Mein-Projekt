@@ -18,7 +18,7 @@ Referenzdokument für alle Vertriebs- und Content-Generierung. Quelle: Onboardin
 
 **Blue Ocean (eigene Position):** Vollumfänglicher, langfristiger Unternehmenspartner. Individuelle Leistungen basierend auf dem Ergebnis, das der Unternehmer wirklich will, statt Einzelmaßnahmen ohne Gesamtblick.
 
-**Kernversprechen an den Markt:** Gesehen werden.
+**Kernversprechen an den Markt:** Gesehen werden. Dazu gehört zwingend, dass Recognize You für die Zielgruppe erkennbar das geringste Risiko darstellt, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md), Abschnitt „Wie Recognize You das geringste Risiko sichtbar macht".
 
 **Ursprungsgeschichte:** 6 Jahre Branchenerfahrung, mit Agenturen zusammengearbeitet, erkannt, dass Kunden dort nicht ausreichend unterstützt werden. Daraus die Positionierung als Unternehmenspartner, der seinen Kunden allseits bereitsteht.
 

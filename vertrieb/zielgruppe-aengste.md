@@ -42,6 +42,16 @@ Zusammengefasst: Die Angst ist hier nicht „ich habe kein Marketing", sondern �
 
 Für unsere Zielgruppe kommt verschärfend hinzu, dass die Entscheidung meist von einer einzelnen Person getroffen wird, deren Identität eng mit dem Unternehmen verknüpft ist, siehe die drei universellen Ängste oben. Eine falsche Entscheidung bedroht damit nicht nur das Budget, sondern das eigene Selbstbild als kompetenter Unternehmer. Praktisch heißt das: Der Einstieg in eine Copy oder ein Pitch sollte zuerst das Risiko einer falschen oder ausbleibenden Entscheidung greifbar machen, Leidenschaft (Stolz, endlich richtig gesehen werden) wirkt danach als Belohnung obendrauf, nicht als erster Auslöser.
 
+**Bestätigt durch Kevins eigene, ältere Zielgruppentabelle:** „Wenn sich meine ZG für mich entscheidet, muss sie das geringste Risiko damit haben." Deckt sich exakt mit der externen Forschung oben, unabhängig voneinander zum gleichen Schluss gekommen.
+
+## Wie Recognize You das geringste Risiko sichtbar macht
+
+Es reicht nicht, das geringste Risiko tatsächlich zu bieten, es muss für die Zielgruppe auf den ersten Blick erkennbar sein, sonst wirkt es für die Kaufentscheidung nicht. Zwei konkrete Bausteine dafür:
+
+**1. Bewährte, branchenübergreifende Erfahrung.** Sichtbar machen, dass bereits verschiedenste Marketing-Szenarien in verschiedensten Branchen erfolgreich durchgeführt wurden, das signalisiert: das Vorgehen ist erprobt, nicht experimentell, das Risiko eines Fehlschlags ist bereits durch andere abgetragen worden.
+
+**2. Individuelle Marken-Arbeit statt Schema.** Jedes Projekt geht speziell auf die jeweilige Marke ein und arbeitet heraus, was diese Marke wirklich besonders macht, statt eine Standardlösung überzustülpen. Genau das steckt hinter dem Kernversprechen „Gesehen werden" aus brand-basis.md: nicht nur Sichtbarkeit irgendeiner Art, sondern die eigene, echte Besonderheit sichtbar gemacht. Das senkt das Risiko zusätzlich, weil die Lösung erkennbar zum eigenen Unternehmen passt, statt eine austauschbare Agentur-Vorlage zu sein.
+
 ## Offene, noch zu beantwortende Frage
 
 Kevins abschließende Frage für die eigene Dienstleistung: für welche Leidenschaften und gegen welche Ängste kann Recognize You konkret etwas tun. Auf Basis der bisherigen Recherche lässt sich das vorläufig so beantworten: gegen die Angst vor einem unsichtbaren oder veralteten Marketing-Auftritt, gegen die Angst, mangels eigenem Fachpersonal die Kontrolle über das eigene Marketing zu verlieren, und gegen die Angst, Geld in Einzelmaßnahmen ohne Gesamtbild zu verlieren. Für die Leidenschaft, mit dem eigenen Lebenswerk endlich richtig gesehen zu werden. Endgültig zu beantworten, sobald auch die Leidenschaften-Seite der Zielgruppe recherchiert ist.
