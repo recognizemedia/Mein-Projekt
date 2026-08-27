@@ -1,6 +1,8 @@
 # Recognize You – Ängste der Zielgruppe (Großkunden-Branchen)
 
-Referenziert: [grosskunden-zielgruppe.md](./grosskunden-zielgruppe.md), [leadquellen.md](./leadquellen.md), [brand-basis.md](./brand-basis.md)
+Referenziert: [grosskunden-zielgruppe.md](./grosskunden-zielgruppe.md), [leadquellen.md](./leadquellen.md), [brand-basis.md](./brand-basis.md), [copywriting-strategie.md](./copywriting-strategie.md)
+
+Diese Ängste sind die „weg von"-Seite der Kaufmotivation, siehe copywriting-strategie.md. Die passende „hin zu"-Seite (Leidenschaften derselben Zielgruppe) ist noch offen.
 
 ## Warum diese Recherche
 

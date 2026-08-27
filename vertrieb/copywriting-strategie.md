@@ -10,6 +10,12 @@ Vertriebstexte an Leads, mit denen bereits Kontakt bestand, zum Beispiel nach Ca
 
 Das gilt nicht für die „Kredibilität aufbauen"-Stufe im Aufbau für Werbeanzeigen weiter unten. Diese Stufe ist für kalte Anzeigen an Fremde gedacht, die Kevin noch nicht kennen. Bei warmen Texten mit bestehendem Kontakt entfällt dieser Schritt.
 
+## Grundprinzip: erst Menschen, dann Produkt, Kaufmotivation ist Angst oder Leidenschaft
+
+Marketing kommt zuerst, alles ist Service, erst wird geserved, dadurch wächst das Geschäft. Reihenfolge: erst People, Fears and Passions verstehen, dann erst, welches Produkt dazu passt, dann erst die Frage, wie man diese Menschen erreicht (Who? Why? What? How?). Erst Nachfrage erzeugen, dann das Angebot bauen und auf den Markt bringen, nicht umgekehrt. Ziel: Menschen finden, die ohnehin alles kaufen würden, unabhängig vom konkreten Produkt, weil sie Kevin und Recognize You vertrauen.
+
+Was Menschen tatsächlich zum Kaufen bewegt, sind ausschließlich zwei Kräfte: Leidenschaften, die hin zu etwas ziehen, oder Ängste, vor denen man weg will. Jede Copy sollte erkennbar an einer der beiden Kräfte ansetzen. Die drei universellen Ängste der Zielgruppe (weg von) sind bereits recherchiert, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md). Die passende Leidenschaften-Seite (hin zu) ist noch offen, folgt in einem nächsten Schritt.
+
 ## Generelle Prinzipien für jede Copy
 
 - Nur über ein Thema schreiben, das der Leser bereits kennt, damit er das neu Gelernte damit verknüpfen kann.
