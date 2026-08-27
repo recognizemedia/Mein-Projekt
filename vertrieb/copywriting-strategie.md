@@ -14,7 +14,9 @@ Das gilt nicht für die „Kredibilität aufbauen"-Stufe im Aufbau für Werbeanz
 
 Marketing kommt zuerst, alles ist Service, erst wird geserved, dadurch wächst das Geschäft. Reihenfolge: erst People, Fears and Passions verstehen, dann erst, welches Produkt dazu passt, dann erst die Frage, wie man diese Menschen erreicht (Who? Why? What? How?). Erst Nachfrage erzeugen, dann das Angebot bauen und auf den Markt bringen, nicht umgekehrt. Ziel: Menschen finden, die ohnehin alles kaufen würden, unabhängig vom konkreten Produkt, weil sie Kevin und Recognize You vertrauen.
 
-Was Menschen tatsächlich zum Kaufen bewegt, sind ausschließlich zwei Kräfte: Leidenschaften, die hin zu etwas ziehen, oder Ängste, vor denen man weg will. Jede Copy sollte erkennbar an einer der beiden Kräfte ansetzen. Die drei universellen Ängste der Zielgruppe (weg von) sind bereits recherchiert, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md). Die passende Leidenschaften-Seite (hin zu) ist noch offen, folgt in einem nächsten Schritt.
+Was Menschen tatsächlich zum Kaufen bewegt, sind ausschließlich zwei Kräfte: Leidenschaften, die hin zu etwas ziehen, oder Ängste, vor denen man weg will. Jede Copy sollte erkennbar an einer der beiden Kräfte ansetzen. Die drei universellen Ängste der Zielgruppe (weg von) sind bereits recherchiert, siehe [zielgruppe-aengste.md](./zielgruppe-aengste.md), das dort ebenfalls beantwortet, ob unsere Zielgruppe eher aus Leidenschaft oder aus Angst kauft. Die passende Leidenschaften-Seite (hin zu) ist noch offen, folgt in einem nächsten Schritt.
+
+Menschen kaufen in der Regel ihre Leidenschaft, die auf einer der sieben Todsünden aufbaut (Stolz, Habgier, Wollust, Neid, Völlerei, Zorn, Faulheit). Menschen mögen außerdem Menschen mit den gleichen Leidenschaften oder Ängsten, das ist der eigentliche Grund, warum Menschen von Menschen kaufen, die ihnen ähnlich sind.
 
 ## Generelle Prinzipien für jede Copy
 
@@ -37,6 +39,8 @@ Was Menschen tatsächlich zum Kaufen bewegt, sind ausschließlich zwei Kräfte: 
 - Bei guten Salestexten werden immer hindernde Glaubenssätze aufgelöst.
 - Menschen wollen immer die Wunderpille.
 - Keine Standardfloskeln verwenden, zum Beispiel „das sage ich nicht einfach so", „ehrlich gesagt" oder „um es klar zu sagen". Die Aussage direkt und konkret machen, ohne einleitende Floskel davor.
+- Bei Website-Texten aktiviert jeder Absatz ein Gefühl über die eigenen Leidenschaften oder die eigenen Ängste des Lesers.
+- Jeder Pitch erzeugt im Kopf des Lesers oder Zuhörers ein konkretes Szenario, in dem es um seine Leidenschaft geht und die damit verbundene Angst.
 
 ## Der perfekte Aufbau einer Copy für Werbeanzeigen
 

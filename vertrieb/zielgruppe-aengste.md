@@ -20,6 +20,32 @@ Drei Ängste tauchen branchenübergreifend bei fast allen zehn Zielgruppen auf, 
 
 **3. Die Angst, die Lebensarbeit nicht übergeben zu können.** Über alle zehn Branchen hinweg taucht das Nachfolge-Thema als eine der größten Ängste auf, in unterschiedlicher Ausprägung: von „niemand will meinen Betrieb übernehmen" bis „meine Lebensleistung endet, wenn ich aufhöre". Für rund 186.000 Unternehmen in Deutschland steht laut IfM Bonn allein zwischen 2026 und 2030 die Nachfolge an, mit sinkender statt steigender Übernahmequote trotz alternder Inhaberschaft.
 
+## Was der Zielgruppe generell als Unternehmer den Schlaf raubt
+
+Laut dem Hiscox Global Protection Gap Report 2025 geben 92 Prozent der befragten Selbstständigen und kleinen Unternehmen an, dass mögliche Geschäftsrisiken ihnen schlaflose Nächte bereiten. Die größten Sorgen: steigende Kosten und Inflation, wirtschaftliche Abschwünge, Diebstahl, Sachschäden oder Cyberangriffe.
+
+Laut KfW-Mittelstandspanel 2025 und DIHK belasten Bürokratie, Fachkräftemangel, Kostensteigerungen, schwache Auftragslage und hohe politische Unsicherheit den Mittelstand aktuell am stärksten, die Investitionsbereitschaft ist entsprechend niedrig. 83 Prozent der Unternehmen sind laut DIHK-Fachkräftereport wegen des demografischen Rückgangs der Erwerbsbevölkerung besorgt.
+
+Nachfolge ist laut DIHK-Nachfolgereport 2025 zu einer der größten Belastungen geworden: rund 9.600 übergabereife Unternehmen bundesweit stehen nur etwa 4.000 Übernahmeinteressierten gegenüber, bis zu 250.000 Betriebe könnten deswegen innerhalb von zehn Jahren schließen.
+
+## Was ihnen speziell rund um Online-Marketing und die heutige Zeit den Schlaf raubt
+
+Laut Bitkom-Studie „Digitalisierung der Wirtschaft 2025" berichten 53 Prozent der deutschen Unternehmen von Problemen, die Digitalisierung zu bewältigen, erstmals eine Mehrheit. Laut Bitkom-Studie „Digitales Marketing in Deutschland 2025" nutzen kleine und mittlere Unternehmen professionelles Online-Marketing nur sehr eingeschränkt, ihre Aktivitäten sind oft nicht auf dem aktuellen Stand und erfüllen nicht die Erwartungen potenzieller Kunden, datengetriebenes Marketing ist für viele KMU praktisch Neuland.
+
+Dazu kommt Fachkräftemangel im eigenen Marketing: 41 Prozent der mittelständischen Unternehmen haben laut einer Befragung im Auftrag von Baulig Consulting Schwierigkeiten, Marketing-Fachkräfte zu finden, 48 Prozent der Marketing- und Kommunikationsfachkräfte berichten laut einer Civey-Umfrage im Auftrag der DMEXCO von unbesetzten Stellen in ihrer eigenen Organisation. Marketing ist im Mittelstand dadurch häufig instabil besetzt, oft nur in Teilzeit oder in ländlichen Standorten kaum zu besetzen.
+
+Zusammengefasst: Die Angst ist hier nicht „ich habe kein Marketing", sondern „ich verstehe nicht mehr, was heute richtig ist, ich finde niemanden, der es für mich richtig macht, und ich weiß nicht, ob das, was ich gerade mache, überhaupt wirkt". Das spricht dafür, das eigene Angebot nicht nur als „Marketing" oder „Website", sondern übergeordnet als **digitale Transformation** zu positionieren, das trifft die tatsächliche Angst genauer als eine Einzelleistung.
+
+## Kauft diese Zielgruppe eher aus Leidenschaft oder aus Angst?
+
+Überwiegend aus Angst, mit Leidenschaft als verstärkendem Bonus, nicht als Hauptmotor. Begründung: Nach Kahneman und Tversky wiegen Verluste in der Entscheidungsfindung ungefähr doppelt so schwer wie gleich große Gewinne (Verlustaversion). Bei B2B-Kaufentscheidungen bestätigt sich das noch stärker: Käufer wählen laut Gartner/CEB-Forschung tendenziell nicht die objektiv beste, sondern die Option, die sie mit dem geringsten persönlichen Risiko vor sich selbst und anderen rechtfertigen können, der Schmerz einer aktiv falschen Entscheidung wiegt schwerer als das stille Bedauern, gar nichts geändert zu haben.
+
+Für unsere Zielgruppe kommt verschärfend hinzu, dass die Entscheidung meist von einer einzelnen Person getroffen wird, deren Identität eng mit dem Unternehmen verknüpft ist, siehe die drei universellen Ängste oben. Eine falsche Entscheidung bedroht damit nicht nur das Budget, sondern das eigene Selbstbild als kompetenter Unternehmer. Praktisch heißt das: Der Einstieg in eine Copy oder ein Pitch sollte zuerst das Risiko einer falschen oder ausbleibenden Entscheidung greifbar machen, Leidenschaft (Stolz, endlich richtig gesehen werden) wirkt danach als Belohnung obendrauf, nicht als erster Auslöser.
+
+## Offene, noch zu beantwortende Frage
+
+Kevins abschließende Frage für die eigene Dienstleistung: für welche Leidenschaften und gegen welche Ängste kann Recognize You konkret etwas tun. Auf Basis der bisherigen Recherche lässt sich das vorläufig so beantworten: gegen die Angst vor einem unsichtbaren oder veralteten Marketing-Auftritt, gegen die Angst, mangels eigenem Fachpersonal die Kontrolle über das eigene Marketing zu verlieren, und gegen die Angst, Geld in Einzelmaßnahmen ohne Gesamtbild zu verlieren. Für die Leidenschaft, mit dem eigenen Lebenswerk endlich richtig gesehen zu werden. Endgültig zu beantworten, sobald auch die Leidenschaften-Seite der Zielgruppe recherchiert ist.
+
 ## Branchen im Detail
 
 ### Größere Bauunternehmen und Bauträger
@@ -88,3 +114,11 @@ Drei Ängste tauchen branchenübergreifend bei fast allen zehn Zielgruppen auf, 
 - [eurotransport: Destatis Regelinsolvenzen 2024, besonders viele Insolvenzen in der Logistik](https://www.eurotransport.de/logistik/spedition-und-logistik/statistisches-bundesamt-destatis-regelinsolvenzen-2024-besonders-viele-insolvenzen-in-der-logistik/)
 - [Immobilienmanager: Immobilien-Insolvenzen 2024, Plus von 70 Prozent](https://www.immobilienmanager.de/immobilien-insolvenzen-plus-von-70-prozent-07102024)
 - [Möbelmarkt: Deutscher Möbelhandel 2024, schwierige Rahmenbedingungen](https://www.moebelmarkt.de/beitrag/deutscher-m%C3%B6belhandel-2024-schwierige-rahmenbedingungen)
+- [Presseportal: Hiscox Global Protection Gap Report 2025, 92 Prozent schlaflose Nächte](https://www.presseportal.de/pm/15936/6330618)
+- [DIHK: Unternehmensnachfolge 2025, Mittelstand schlägt Alarm](https://www.dihk.de/de/newsroom/unternehmensnachfolge-2025-mittelstand-schlaegt-alarm--155824)
+- [Bitkom: Digitalisierung der Wirtschaft 2025](https://www.bitkom.org/Studienberichte/2025/Digitalisierung-Wirtschaft)
+- [Bitkom: Digitales Marketing in Deutschland 2025](https://www.bitkom.org/Bitkom/Publikationen/Digitales-Marketing-in-Deutschland-2025)
+- [der-onliner.org: Studie Digitales Marketing 2025, Trends und Challenges im Mittelstand](https://der-onliner.org/digitales-marketing-im-mittelstand/)
+- [mittelstand-nachrichten.de: Fachkräftemangel im Mittelstand beflügelt externe Beratung](https://www.mittelstand-nachrichten.de/unternehmen/studie-fachkraeftemangel-im-mittelstand-befluegelt-externe-beratung/)
+- [hathawk.com: B2B Buyer Psychology und Verlustaversion](https://hathawk.com/b2b-buyer-psychology-revenue-growth/)
+- [inflexion-point.com: die zwei B2B-Kaufreisen, geringstes Risiko statt beste Option](https://www.inflexion-point.com/blog/the-two-buying-journeys-every-b2b-sales-leader-must-understand)
