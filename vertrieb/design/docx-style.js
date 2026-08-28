@@ -66,12 +66,12 @@ function sectionHeading(number, text) {
 
 // Wie sectionHeading, aber ohne Nummerierung. Für Dokumente, deren Abschnitte
 // keine Schrittfolge sind (z. B. Themenblöcke statt Checkliste).
-// opts erlaubt eine dokumentspezifische Abweichung (size/bold), Standardwerte
+// opts erlaubt eine dokumentspezifische Abweichung (size/bold/font), Standardwerte
 // gelten unverändert für alle anderen Dokumente.
 function heading(text, opts = {}) {
-  const { size = 25, bold = true } = opts; // Standard: 12.5pt fett
+  const { size = 25, bold = true, font = FONT_BODY } = opts; // Standard: 12.5pt fett, Calibri
   return new Paragraph({
-    children: [new TextRun({ text, font: FONT_BODY, size, bold })],
+    children: [new TextRun({ text, font, size, bold })],
     spacing: { before: 0, after: 0 },
   });
 }

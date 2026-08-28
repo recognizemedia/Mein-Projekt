@@ -64,3 +64,7 @@ Wiederverwendbares Skript unter [docx-style.js](./docx-style.js), das genau dies
 `buildDoc(children)` fügt automatisch zwischen allen aufeinanderfolgenden Elementen eine Leerzeile ein. Für eine Tight Group ein Array aus mehreren Elementen als ein Element der `children`-Liste übergeben, zum Beispiel `[para("Kevin Kowsky"), para("Geschäftsführer")]` — innerhalb dieses Arrays wird keine Leerzeile eingefügt, davor und danach schon.
 
 Dieses Design gilt als permanenter Standard für alle künftigen Dokumente, auch projektübergreifend, nicht nur für die Vertriebsunterlagen. Bei jedem neuen Word-Dokument dieses Skript als Grundlage verwenden, nicht die bisherige Ad-hoc-Formatierung (Arial, blaue Überschriften) aus früheren Dokumenten in diesem Projekt.
+
+## Vorgemerkt für den nächsten Umbau der Vertriebsskripte, noch nicht umgesetzt
+
+Sobald das Word-Dokument der Vertriebsskripte (Recognize-You-Vertriebsskripte.docx) im Zuge des Pitch-Umbaus neu gebaut wird: Die Call-Überschriften („Call 1 – ...", „Call 2 – ...", „Call 3 – ...") laufen dort über `heading()`, das jetzt einen `font`-Parameter unterstützt. Diese Überschriften sollen dieselbe Schriftart wie der Haupttitel oben im Dokument bekommen (`FONT_TITLE`, aktuell Georgia), die Schriftgröße bleibt unverändert wie bisher in diesem Dokument. Umsetzung: `heading(text, { size: 32, bold: false, font: FONT_TITLE })`.
