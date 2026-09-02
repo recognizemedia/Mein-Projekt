@@ -69,7 +69,7 @@ export default function Home() {
       <header className={`site-nav ${isScrolled ? "site-nav--scrolled" : ""}`}>
         <a href="#oben" className="brand-lockup" aria-label="Recognize You — zur Startseite" onClick={closeMenu}>
           <BrandMark onDark={!isScrolled} />
-          <span>recognize<br />you</span>
+          <span>Recognize<br />You</span>
         </a>
 
         <nav className={`nav-links ${menuOpen ? "nav-links--open" : ""}`} aria-label="Hauptnavigation">
