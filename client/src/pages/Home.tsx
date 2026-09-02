@@ -281,7 +281,7 @@ export default function Home() {
       </section>
 
       <footer className="site-footer">
-        <div className="footer-brand"><BrandMark onDark /><span>recognize<br />you</span></div>
+        <div className="footer-brand"><BrandMark onDark /><span>Recognize<br />You</span></div>
         <p>Strategic visibility for ambitious business.</p>
         <div className="footer-links">
           <a href="mailto:business@recognize-media.com">business@recognize-media.com</a>
