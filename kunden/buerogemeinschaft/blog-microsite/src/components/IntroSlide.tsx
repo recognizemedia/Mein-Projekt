@@ -30,11 +30,11 @@ export default function IntroSlide() {
           <span className="text-xs font-normal text-white/80">kostenlos &amp; unverbindlich</span>
         </a>
       </div>
-      <div className="min-h-[320px] sm:min-h-full">
+      <div className="flex min-h-[320px] items-center p-6 sm:min-h-full sm:p-12 lg:p-16">
         <img
           src="/images/mann-sofa-laptop-homeoffice.jpg"
           alt="Entspannt arbeiten mit einem personalisierten Büro im Hintergrund"
-          className="h-full w-full object-cover"
+          className="h-full w-full rounded-3xl object-cover shadow-xl"
         />
       </div>
     </section>

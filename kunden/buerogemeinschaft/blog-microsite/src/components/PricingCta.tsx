@@ -6,10 +6,10 @@ export default function PricingCta() {
         alt="Konferenzraum der Bürogemeinschaft mit Blick ins Grüne"
         className="absolute inset-0 h-full w-full object-cover"
       />
-      <div className="absolute inset-0 bg-gradient-to-r from-brand-dark/85 via-brand-dark/60 to-brand-dark/30" />
+      <div className="absolute inset-0 bg-gradient-to-br from-brand-dark/90 via-brand-dark/70 to-brand/60" />
 
       <div className="relative z-10 mx-auto flex max-w-3xl flex-col items-start gap-5 text-white">
-        <span className="font-body text-sm font-semibold tracking-[0.15em] text-brand-accent uppercase">
+        <span className="font-body text-sm font-semibold text-brand-accent">
           Ihr nächster Schritt
         </span>
         <h2 className="font-headline text-3xl font-bold sm:text-4xl">

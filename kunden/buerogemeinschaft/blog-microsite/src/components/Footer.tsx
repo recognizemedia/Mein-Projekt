@@ -9,7 +9,7 @@ export default function Footer() {
         aria-hidden="true"
         className="absolute inset-0 h-full w-full object-cover"
       />
-      <div className="absolute inset-0 bg-brand-dark/90" />
+      <div className="absolute inset-0 bg-gradient-to-br from-brand-dark/92 via-brand-dark/85 to-brand/75" />
 
       <div className="relative z-10 mx-auto max-w-6xl px-6 py-16 text-white">
         <h2 className="sr-only">Kontakt und rechtliche Informationen</h2>
