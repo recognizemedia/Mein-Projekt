@@ -4,6 +4,8 @@ Wissensdatenbank für den Kunden Michael Hermanns / Bürogemeinschaft. Diese Dat
 
 Wichtig: Der Name enthält offiziell den Zusatz "1A" (1A Bürogemeinschaft). In allen Texten wird dieser Zusatz ignoriert, es heißt immer nur "Bürogemeinschaft".
 
+Wichtig (Terminologie): Das frühere "virtuelle Büro" heißt aus Sicherheitsgründen jetzt "personalisiertes Büro". Die Leistung dahinter bleibt unverändert, in neuen Texten (z. B. der Blog-Microsite) wird ausschließlich "personalisiertes Büro" verwendet. Ältere Bestandsanzeigen (ImmoScout24) nutzen noch den alten Begriff und dienen weiterhin nur als Tonalitäts-Vorbild, nicht als Terminologie-Vorbild.
+
 ## Kontakt
 
 - Ansprechpartner: Michael Hermanns
@@ -86,6 +88,12 @@ Wiederkehrende Bausteine der bisherigen Objektbeschreibungen:
 - Abschluss mit Telefonnummer, WhatsApp/SMS, Homepage-Link
 
 Zusätzlich gelten für alle Anzeigen der Bürogemeinschaft die allgemeinen Textregeln aus der [CLAUDE.md](../../CLAUDE.md) im Projekt-Root (u. a. keine Bindestriche, keine Ausrufezeichen, keine Floskeln, kurze Sätze als Faustregel, kurzer knackiger erster Satz im ersten Absatz).
+
+## Projekte
+
+### Blog-Microsite (1a-buerogemeinschaft.info)
+
+Eigenständiger Onepager ausschließlich mit Blog-Inhalten, technisch und redaktionell getrennt von den Recognize-Media-Projekten in diesem Repository, siehe [`blog-microsite/`](blog-microsite/README.md). Enthält die ersten 10 Artikel, alle Bilder und die Copywriting-Strategie-Vorgaben für diese Seite.
 
 ## Bisher erstellte Anzeigen
 

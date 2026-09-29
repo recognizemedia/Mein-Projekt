@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  --font-headline: "PT Sans", sans-serif;
+  --font-body: "Source Sans 3", sans-serif;
+
+  --color-brand: #2b9ad1;
+  --color-brand-dark: #055d9b;
+  --color-brand-accent: #ffc33e;
+  --color-ink: #333333;
+  --color-paper: #ffffff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-ink);
+  background: var(--color-paper);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-headline);
+}
