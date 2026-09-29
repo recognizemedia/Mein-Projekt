@@ -14,7 +14,7 @@ Laufende Liste, welches Bild wo auf der Seite eingesetzt wird. Dateien liegen in
 | 08 | `mann-laptop-laecheln-buero.jpg` | Titelbild Blogartikel 4: "Wie ein personalisiertes Büro Ihren Start deutlich erleichtert" |
 | 09 | `frau-laptop-fokussiert.jpg` | Titelbild Blogartikel 5: "Warum Ihr Unternehmen von der Gewerbesteuer in Monheim am Rhein profitiert" |
 | 10 | `frau-lachend-whiteboard.jpg` | Titelbild Blogartikel 6: "So bekommt Ihr Unternehmen eine starke Adresse" |
-| 11 | *(folgt)* | Titelbild Blogartikel 7 |
-| 12 | *(folgt)* | Titelbild Blogartikel 8 |
-| 13 | *(folgt)* | Titelbild Blogartikel 9 |
-| 14 | *(folgt)* | Titelbild Blogartikel 10 |
+| 11 | `maenner-dachterrasse-laptop.jpg` | Titelbild Blogartikel 7: "Ihre Geschäftsadresse in Leverkusen oder Monheim am Rhein" |
+| 12 | `mann-homeoffice-kaffee.jpg` | Titelbild Blogartikel 8: "Wann sich Ihr eigener Raum für konzentriertes Arbeiten lohnt" |
+| 13 | `team-laptop-lachend.jpg` | Titelbild Blogartikel 9: "So bleiben Sie flexibel, wenn Ihr Geschäft wächst" |
+| 14 | `aelterer-mann-laptop-laechelnd.jpg` | Titelbild Blogartikel 10: "Eigenes Büro oder Coworking: Was passt besser zu Ihrer Arbeitsweise?" |
