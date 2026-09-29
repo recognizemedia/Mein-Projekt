@@ -9,11 +9,11 @@ Laufende Liste, welches Bild wo auf der Seite eingesetzt wird. Dateien liegen in
 | 03 | `konferenzraum-dachgeschoss.png` | Bereich vor dem Footer, mit Button zur Seite `einsabuerogemeinschaft.de/preise` (Button-Text noch offen) |
 | 04 | `meetingraum-skyline.jpg` | Footer-Hintergrund |
 | 05 | `kollegen-flur-gespraech.jpg` | Titelbild Blogartikel 1: "Warum Ihr Unternehmen von der Gewerbesteuer in Leverkusen profitiert" |
-| 06 | *(folgt)* | Titelbild Blogartikel 2 |
-| 07 | *(folgt)* | Titelbild Blogartikel 3 |
-| 08 | *(folgt)* | Titelbild Blogartikel 4 |
-| 09 | *(folgt)* | Titelbild Blogartikel 5 |
-| 10 | *(folgt)* | Titelbild Blogartikel 6 |
+| 06 | `frau-cafe-notizbuch.jpg` | Titelbild Blogartikel 2: "Ihr passendes Büro zwischen Düsseldorf und Köln" |
+| 07 | `team-begruessung-buero.jpg` | Titelbild Blogartikel 3: "Wachstum eines Unternehmens mit repräsentativem Firmensitz" |
+| 08 | `mann-laptop-laecheln-buero.jpg` | Titelbild Blogartikel 4: "Wie ein personalisiertes Büro Ihren Start deutlich erleichtert" |
+| 09 | `frau-laptop-fokussiert.jpg` | Titelbild Blogartikel 5: "Warum Ihr Unternehmen von der Gewerbesteuer in Monheim am Rhein profitiert" |
+| 10 | `frau-lachend-whiteboard.jpg` | Titelbild Blogartikel 6: "So bekommt Ihr Unternehmen eine starke Adresse" |
 | 11 | *(folgt)* | Titelbild Blogartikel 7 |
 | 12 | *(folgt)* | Titelbild Blogartikel 8 |
 | 13 | *(folgt)* | Titelbild Blogartikel 9 |
