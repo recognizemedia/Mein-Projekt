@@ -13,29 +13,24 @@ export default function ArticleCard({ article }: ArticleCardProps) {
     <article
       ref={ref}
       id={article.slug}
-      className="scroll-mt-24 overflow-hidden rounded-3xl bg-white shadow-md ring-1 ring-ink/5 transition-shadow duration-300 hover:shadow-lg"
+      className={`scroll-mt-24 ${isOpen ? "col-span-full" : ""}`}
     >
       <button
         type="button"
         onClick={toggle}
         aria-expanded={isOpen}
         aria-controls={`${article.slug}-content`}
-        className="flex w-full flex-col gap-4 p-6 text-left sm:flex-row sm:items-center sm:gap-6 sm:p-8"
+        className="group relative block aspect-[4/3] w-full overflow-hidden rounded-2xl shadow-lg"
       >
         <img
           src={`/images/${article.image}`}
           alt=""
-          className="h-40 w-full flex-shrink-0 rounded-2xl object-cover sm:h-28 sm:w-40"
+          className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
         />
-        <div className="flex-1">
-          <h3 className="font-headline text-xl font-bold text-brand-dark sm:text-2xl">
-            {article.headline}
-          </h3>
-          <p className="mt-2 text-body font-body text-ink/70">{article.teaser}</p>
-        </div>
+        <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/10 to-transparent" />
         <span
           aria-hidden="true"
-          className={`flex h-9 w-9 flex-shrink-0 items-center justify-center rounded-full bg-brand/10 text-brand transition-transform duration-300 ${
+          className={`absolute right-4 top-4 flex h-9 w-9 items-center justify-center rounded-full bg-white/90 text-brand-dark transition-transform duration-300 ${
             isOpen ? "rotate-45" : ""
           }`}
         >
@@ -43,6 +38,9 @@ export default function ArticleCard({ article }: ArticleCardProps) {
             <path d="M12 5v14M5 12h14" strokeLinecap="round" />
           </svg>
         </span>
+        <h3 className="absolute inset-x-0 bottom-0 p-5 text-left font-headline text-lg font-bold text-white sm:text-xl">
+          {article.headline}
+        </h3>
       </button>
 
       <div
@@ -51,7 +49,9 @@ export default function ArticleCard({ article }: ArticleCardProps) {
         style={{ gridTemplateRows: isOpen ? "1fr" : "0fr" }}
       >
         <div className="overflow-hidden">
-          <div className="space-y-5 border-t border-ink/10 px-6 pb-8 pt-6 font-body text-ink/85 sm:px-8">
+          <div className="mt-6 space-y-5 rounded-3xl bg-white p-6 text-ink/85 shadow-xl sm:p-10">
+            <p className="text-body font-body text-ink/70">{article.teaser}</p>
+
             {article.sections.map((section, index) => (
               <div key={index}>
                 {section.heading && (
@@ -60,7 +60,7 @@ export default function ArticleCard({ article }: ArticleCardProps) {
                   </h4>
                 )}
                 {section.paragraphs.map((paragraph, pIndex) => (
-                  <p key={pIndex} className="text-body">
+                  <p key={pIndex} className="text-body font-body">
                     {paragraph}
                   </p>
                 ))}
