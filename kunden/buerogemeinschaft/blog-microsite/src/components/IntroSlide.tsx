@@ -1,21 +1,36 @@
 export default function IntroSlide() {
   return (
-    <section id="slide-2" className="mx-auto grid max-w-6xl items-center gap-12 px-6 py-24 sm:grid-cols-2">
-      <div className="order-2 sm:order-1">
-        <span className="font-body text-sm font-semibold tracking-[0.15em] text-brand uppercase">
-          Ihr Vorteil
-        </span>
-        <h2 className="mt-3 font-headline text-3xl font-bold text-ink sm:text-4xl">
-          So einfach fühlt sich Sparen an
+    <section id="slide-2" className="grid bg-brand-dark sm:grid-cols-2">
+      <div className="flex flex-col justify-center gap-5 px-6 py-20 sm:px-12 sm:py-28 lg:px-20">
+        <h2 className="font-headline text-3xl font-bold text-white sm:text-4xl">
+          Ihre Herausforderung
         </h2>
-        <p className="mt-5 font-body text-lg leading-relaxed text-ink/80">
-          Sie müssen weder Möbel kaufen noch lange Verträge unterschreiben. Ein
-          personalisiertes oder möbliertes Büro bringt Ihnen eine
-          professionelle Adresse, ohne Ihr Budget zu belasten. Sie
-          entscheiden, wie viel Raum Sie brauchen, und zahlen nur dafür.
-        </p>
+        <div className="space-y-5 text-body text-white/85">
+          <p>
+            Viele Unternehmen zahlen jeden Monat für ein Büro, das sie kaum
+            nutzen.
+          </p>
+          <p>
+            Möbel, Kaution und ein langer Vertrag binden Kapital, das Sie
+            besser in Ihr Geschäft stecken. Gleichzeitig soll Ihre Adresse
+            professionell wirken, ohne dass Sie dafür Ihr Budget sprengen.
+          </p>
+          <p>
+            Ein personalisiertes oder möbliertes Büro der Bürogemeinschaft
+            löst genau dieses Problem.
+          </p>
+        </div>
+        <a
+          href="https://einsabuerogemeinschaft.de/preise"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-3 inline-flex w-fit flex-col items-center rounded-2xl bg-brand-accent px-8 py-3 text-center font-body font-semibold text-brand-dark transition hover:brightness-105"
+        >
+          <span>Ihre Anfrage</span>
+          <span className="text-xs font-normal">kostenlos &amp; unverbindlich</span>
+        </a>
       </div>
-      <div className="order-1 overflow-hidden rounded-3xl shadow-xl sm:order-2">
+      <div className="min-h-[320px] sm:min-h-full">
         <img
           src="/images/mann-sofa-laptop-homeoffice.jpg"
           alt="Entspannt arbeiten mit einem personalisierten Büro im Hintergrund"

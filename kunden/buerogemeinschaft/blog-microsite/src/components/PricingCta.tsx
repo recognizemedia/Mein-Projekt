@@ -15,7 +15,7 @@ export default function PricingCta() {
         <h2 className="font-headline text-3xl font-bold sm:text-4xl">
           Bereit für Ihr eigenes Büro?
         </h2>
-        <p className="max-w-xl font-body text-lg text-white/90">
+        <p className="max-w-xl text-body font-body text-white/90">
           Vergleichen Sie die Pakete für Ihr personalisiertes oder
           möbliertes Büro in Monheim am Rhein und Leverkusen und finden Sie
           die passende Lösung für Ihr Unternehmen.

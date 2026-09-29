@@ -12,7 +12,7 @@ export default function ArticlesSection() {
           <h2 className="mt-3 font-headline text-3xl font-bold text-ink sm:text-4xl">
             Beiträge aus unserer Bürogemeinschaft
           </h2>
-          <p className="mx-auto mt-4 max-w-2xl font-body text-ink/70">
+          <p className="mx-auto mt-4 max-w-2xl text-body font-body text-ink/70">
             Klicken Sie auf einen Beitrag oder scrollen Sie langsam durch die
             Liste, jeder Beitrag öffnet sich an seiner Stelle und schließt
             sich wieder, sobald Sie weiterscrollen.

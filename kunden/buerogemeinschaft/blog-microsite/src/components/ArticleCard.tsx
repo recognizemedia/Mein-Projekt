@@ -31,7 +31,7 @@ export default function ArticleCard({ article }: ArticleCardProps) {
           <h3 className="font-headline text-xl font-bold text-brand-dark sm:text-2xl">
             {article.headline}
           </h3>
-          <p className="mt-2 font-body text-ink/70">{article.teaser}</p>
+          <p className="mt-2 text-body font-body text-ink/70">{article.teaser}</p>
         </div>
         <span
           aria-hidden="true"
@@ -60,7 +60,7 @@ export default function ArticleCard({ article }: ArticleCardProps) {
                   </h4>
                 )}
                 {section.paragraphs.map((paragraph, pIndex) => (
-                  <p key={pIndex} className="leading-relaxed">
+                  <p key={pIndex} className="text-body">
                     {paragraph}
                   </p>
                 ))}
