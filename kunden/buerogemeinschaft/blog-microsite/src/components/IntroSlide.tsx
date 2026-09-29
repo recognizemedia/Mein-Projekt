@@ -1,11 +1,11 @@
 export default function IntroSlide() {
   return (
-    <section id="slide-2" className="grid bg-brand-dark sm:grid-cols-2">
+    <section id="slide-2" className="grid bg-white sm:grid-cols-2">
       <div className="flex flex-col justify-center gap-5 px-6 py-20 sm:px-12 sm:py-28 lg:px-20">
-        <h2 className="font-headline text-3xl font-bold text-white sm:text-4xl">
+        <h2 className="font-headline text-3xl font-bold text-ink sm:text-4xl">
           Ihre Herausforderung
         </h2>
-        <div className="space-y-5 text-body text-white/85">
+        <div className="space-y-5 text-body text-ink/80">
           <p>
             Viele Unternehmen zahlen jeden Monat für ein Büro, das sie kaum
             nutzen.
@@ -24,10 +24,10 @@ export default function IntroSlide() {
           href="https://einsabuerogemeinschaft.de/preise"
           target="_blank"
           rel="noopener noreferrer"
-          className="mt-3 inline-flex w-fit flex-col items-center rounded-2xl bg-brand-accent px-8 py-3 text-center font-body font-semibold text-brand-dark transition hover:brightness-105"
+          className="mt-3 inline-flex w-fit flex-col items-center rounded-2xl bg-brand-dark px-8 py-3 text-center font-body font-semibold text-white transition hover:brightness-110"
         >
           <span>Ihre Anfrage</span>
-          <span className="text-xs font-normal">kostenlos &amp; unverbindlich</span>
+          <span className="text-xs font-normal text-white/80">kostenlos &amp; unverbindlich</span>
         </a>
       </div>
       <div className="min-h-[320px] sm:min-h-full">
