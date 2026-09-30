@@ -1,12 +1,31 @@
 export default function Header() {
   return (
-    <header className="relative flex min-h-screen items-center justify-center overflow-hidden">
+    <header id="top" className="relative flex min-h-screen items-center justify-center overflow-hidden">
       <img
         src="/images/team-umzug-buerokartons.jpg"
         alt="Team bezieht sein neues Büro bei der Bürogemeinschaft"
         className="absolute inset-0 h-full w-full object-cover"
       />
       <div className="absolute inset-0 bg-gradient-to-br from-brand-dark/96 via-brand-dark/78 to-brand/85" />
+
+      <nav className="absolute inset-x-0 top-0 z-20 mx-auto flex max-w-6xl items-center justify-between px-6 py-6 text-white sm:px-10">
+        <a href="#top" className="font-headline text-lg font-bold">
+          Bürogemeinschaft
+        </a>
+        <div className="flex items-center gap-6 sm:gap-8">
+          <a href="#beitraege" className="font-body text-sm font-semibold transition hover:text-brand-accent">
+            Beiträge
+          </a>
+          <a
+            href="https://firstconsultingservice.com/preise/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="rounded-button bg-brand-accent px-5 py-2 font-body text-sm font-semibold text-brand-dark transition hover:brightness-105"
+          >
+            Preise
+          </a>
+        </div>
+      </nav>
 
       <div className="relative z-10 mx-auto flex max-w-3xl flex-col items-center gap-6 px-6 py-32 text-center text-white">
         <img src="/logo-weiss.webp" alt="Bürogemeinschaft" className="h-16 w-auto drop-shadow-lg" />
