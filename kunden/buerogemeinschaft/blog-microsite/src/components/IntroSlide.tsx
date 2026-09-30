@@ -28,7 +28,7 @@ export default function IntroSlide() {
           className="mt-3 inline-flex w-fit flex-col items-center rounded-button bg-brand-dark px-8 py-3 text-center font-body font-semibold text-white transition hover:brightness-110"
         >
           <span>Ihre Anfrage</span>
-          <span className="text-[13px] font-normal text-white/80">kostenlos &amp; unverbindlich</span>
+          <span className="-mt-1 text-[13px] font-normal text-white/80">kostenlos &amp; unverbindlich</span>
         </a>
       </div>
       <div className="flex min-h-[320px] items-center p-6 sm:min-h-full sm:p-12 lg:p-16">
