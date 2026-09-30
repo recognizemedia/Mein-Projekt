@@ -6,7 +6,7 @@ export default function Header() {
         alt="Team bezieht sein neues Büro bei der Bürogemeinschaft"
         className="absolute inset-0 h-full w-full object-cover"
       />
-      <div className="absolute inset-0 bg-gradient-to-br from-brand-dark/92 via-brand-dark/60 to-brand/70" />
+      <div className="absolute inset-0 bg-gradient-to-br from-brand-dark/96 via-brand-dark/78 to-brand/85" />
 
       <div className="relative z-10 mx-auto flex max-w-3xl flex-col items-center gap-6 px-6 py-32 text-center text-white">
         <img src="/logo.webp" alt="Bürogemeinschaft" className="h-16 w-auto drop-shadow-lg" />

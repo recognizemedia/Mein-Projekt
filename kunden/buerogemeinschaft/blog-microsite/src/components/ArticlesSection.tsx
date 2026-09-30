@@ -16,7 +16,7 @@ export default function ArticlesSection() {
           aria-hidden="true"
           className="absolute inset-0 h-full w-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-br from-brand-dark/93 via-brand-dark/88 to-brand/80" />
+        <div className="absolute inset-0 bg-gradient-to-br from-brand-dark/96 via-brand-dark/93 to-brand/90" />
 
         <div className="relative z-10 mx-auto max-w-6xl">
           <div className="mb-12 text-center">
