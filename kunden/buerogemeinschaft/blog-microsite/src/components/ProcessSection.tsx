@@ -37,7 +37,7 @@ export default function ProcessSection() {
               key={step.title}
               className="flex flex-col gap-4 rounded-process bg-gradient-to-br from-brand to-brand-dark p-5 text-white shadow-lg"
             >
-              <h3 className="text-center font-headline text-xl font-bold">
+              <h3 className="text-center font-headline text-[23px] font-bold">
                 {step.title}
               </h3>
               <img
@@ -45,7 +45,7 @@ export default function ProcessSection() {
                 alt=""
                 className="aspect-[4/3] w-full rounded-process object-cover"
               />
-              <p className="text-body text-center font-body text-white/90">
+              <p className="text-body text-center font-body leading-[1.3em] text-white/90">
                 {step.text}
               </p>
             </div>
