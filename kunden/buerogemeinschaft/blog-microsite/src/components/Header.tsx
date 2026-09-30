@@ -9,7 +9,7 @@ export default function Header() {
       <div className="absolute inset-0 bg-gradient-to-br from-brand-dark/96 via-brand-dark/78 to-brand/85" />
 
       <nav className="absolute inset-x-0 top-0 z-20 mx-auto flex max-w-6xl items-center justify-between px-6 py-6 text-white sm:px-10">
-        <a href="#top" className="font-headline text-base font-semibold">
+        <a href="#top" className="font-headline text-[15px] font-semibold">
           Bürogemeinschaft
         </a>
         <div className="flex items-center gap-6 sm:gap-8">
@@ -29,7 +29,7 @@ export default function Header() {
 
       <div className="relative z-10 mx-auto flex max-w-3xl flex-col items-center gap-6 px-6 py-32 text-center text-white">
         <img src="/logo-weiss.webp" alt="Bürogemeinschaft" className="h-16 w-auto drop-shadow-lg" />
-        <span className="mt-4 font-body text-sm text-brand-accent">
+        <span className="mt-4 font-body text-base text-brand-accent">
           Bürogemeinschaft Monheim am Rhein &amp; Leverkusen
         </span>
         <h1 className="max-w-xl font-headline text-4xl leading-tight font-bold text-balance sm:text-5xl">

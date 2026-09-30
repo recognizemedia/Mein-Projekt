@@ -20,7 +20,7 @@ export default function ArticlesSection() {
 
         <div className="relative z-10 mx-auto max-w-6xl">
           <div className="mb-12 text-center">
-            <span className="font-body text-sm font-semibold text-brand-accent">
+            <span className="font-body text-base font-semibold text-brand-accent">
               Wissenswertes
             </span>
             <h2 className="mt-3 font-headline text-3xl font-bold text-white sm:text-4xl">

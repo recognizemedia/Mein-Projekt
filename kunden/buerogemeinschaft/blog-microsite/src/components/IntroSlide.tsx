@@ -5,7 +5,7 @@ export default function IntroSlide() {
         <h2 className="font-headline text-3xl font-bold text-ink sm:text-4xl">
           Ihre Herausforderung
         </h2>
-        <div className="space-y-5 text-body text-ink/80">
+        <div className="max-w-md space-y-5 text-body text-ink/80">
           <p>
             Viele Unternehmen zahlen jeden Monat für ein Büro, das sie kaum
             nutzen.
@@ -27,7 +27,7 @@ export default function IntroSlide() {
           className="mt-3 inline-flex w-fit flex-col items-center rounded-button bg-brand-dark px-8 py-3 text-center font-body font-semibold text-white transition hover:brightness-110"
         >
           <span>Ihre Anfrage</span>
-          <span className="text-xs font-normal text-white/80">kostenlos &amp; unverbindlich</span>
+          <span className="text-[13px] font-normal text-white/80">kostenlos &amp; unverbindlich</span>
         </a>
       </div>
       <div className="flex min-h-[320px] items-center p-6 sm:min-h-full sm:p-12 lg:p-16">
