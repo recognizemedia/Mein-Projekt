@@ -25,7 +25,7 @@ export default function ArticleModal({ article, onClose }: ArticleModalProps) {
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-start justify-center overflow-y-auto bg-ink/70 p-4 py-10 backdrop-blur-sm animate-[fade-in_0.25s_ease-out] sm:items-center"
+      className="fixed inset-0 z-50 flex items-start justify-center overflow-y-auto bg-gradient-to-br from-brand-dark/90 via-brand-dark/80 to-brand/75 p-4 py-10 backdrop-blur-sm animate-[fade-in_0.25s_ease-out] sm:items-center"
       onClick={onClose}
     >
       <div
