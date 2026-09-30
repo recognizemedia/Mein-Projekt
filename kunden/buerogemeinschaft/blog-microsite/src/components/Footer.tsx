@@ -132,7 +132,7 @@ export default function Footer() {
           </nav>
         </div>
 
-        <p className="mt-16 border-t border-white/15 pt-6 text-center text-body font-body text-sm text-white">
+        <p className="mt-16 border-t border-white/15 pt-6 text-center text-body font-body text-[13px] text-white">
           *Die angegebenen Preise gelten zum Zeitpunkt Ihrer Anfrage und
           basieren auf einer Laufzeit von 24 Monaten. Je nach ausgewählten
           Services können sie variieren. Die Büropreise verstehen sich pro
