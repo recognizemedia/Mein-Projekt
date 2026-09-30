@@ -40,7 +40,7 @@ export default function Footer() {
 
         <div className="flex flex-col items-center gap-3 text-center">
           <img src="/logo-weiss.webp" alt="Bürogemeinschaft" className="h-11 w-auto" />
-          <p className="max-w-md text-body font-body text-white/70">
+          <p className="max-w-md text-body font-body text-white">
             Personalisierte und möblierte Büros in Monheim am Rhein und
             Leverkusen.
           </p>
@@ -132,7 +132,7 @@ export default function Footer() {
           </nav>
         </div>
 
-        <p className="mt-16 border-t border-white/15 pt-6 text-center text-body font-body text-xs text-white/60">
+        <p className="mt-16 border-t border-white/15 pt-6 text-center text-body font-body text-sm text-white">
           *Die angegebenen Preise gelten zum Zeitpunkt Ihrer Anfrage und
           basieren auf einer Laufzeit von 24 Monaten. Je nach ausgewählten
           Services können sie variieren. Die Büropreise verstehen sich pro
