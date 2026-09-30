@@ -32,7 +32,7 @@ export default function Header() {
         <span className="mt-4 font-body text-base text-brand-accent">
           Bürogemeinschaft Monheim am Rhein &amp; Leverkusen
         </span>
-        <h1 className="max-w-xl font-headline text-4xl leading-tight font-bold text-balance sm:text-5xl">
+        <h1 className="-mt-[5px] -mb-[5px] max-w-xl font-headline text-4xl leading-tight font-bold text-balance sm:text-5xl">
           Mieten Sie Ihr personalisiertes oder möbliertes Büro und sparen Sie Geld
         </h1>
         <a
