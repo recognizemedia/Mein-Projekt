@@ -91,7 +91,7 @@ Zusätzlich gelten für alle Anzeigen der Bürogemeinschaft die allgemeinen Text
 
 ## Projekte
 
-### Blog-Microsite (1a-buerogemeinschaft.info)
+### Blog-Microsite (first-consulting-services.com)
 
 Eigenständiger Onepager ausschließlich mit Blog-Inhalten, technisch und redaktionell getrennt von den Recognize-Media-Projekten in diesem Repository, siehe [`blog-microsite/`](blog-microsite/README.md). Enthält die ersten 10 Artikel, alle Bilder und die Copywriting-Strategie-Vorgaben für diese Seite.
 

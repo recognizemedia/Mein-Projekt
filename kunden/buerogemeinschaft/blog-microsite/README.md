@@ -1,6 +1,6 @@
 # Bürogemeinschaft Blog (Microsite)
 
-Eigenständiger Onepager für die Domain `1a-buerogemeinschaft.info`. Ausschließlich Blog-Inhalte der Bürogemeinschaft, technisch und redaktionell komplett getrennt vom Recognize-Media-Projekt in diesem Repository.
+Eigenständiger Onepager für die Domain `first-consulting-services.com`. Ausschließlich Blog-Inhalte der Bürogemeinschaft, technisch und redaktionell komplett getrennt vom Recognize-Media-Projekt in diesem Repository.
 
 ## Aufbau der Seite
 
@@ -39,7 +39,7 @@ Dieses Verzeichnis ist bewusst eigenständig, damit es als eigene Netlify-Site d
 1. Neue Netlify-Site anlegen, verbunden mit diesem Repository
 2. Base directory: `kunden/buerogemeinschaft/blog-microsite`
 3. Build command und Publish directory werden aus der lokalen `netlify.toml` übernommen (`npm run build` / `dist`)
-4. Nach dem ersten Deploy die Domain `1a-buerogemeinschaft.info` bei STRATO auf die Netlify-Site zeigen lassen
+4. Nach dem ersten Deploy die Domain `first-consulting-services.com` bei United Domains auf die Netlify-Site zeigen lassen
 
 ## Wichtige Redaktionsregeln
 

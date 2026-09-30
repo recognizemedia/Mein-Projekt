@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://1a-buerogemeinschaft.info/sitemap.xml
+Sitemap: https://first-consulting-services.com/sitemap.xml
