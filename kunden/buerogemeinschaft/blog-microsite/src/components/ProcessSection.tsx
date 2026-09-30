@@ -21,8 +21,8 @@ export default function ProcessSection() {
     <section className="bg-white px-6 py-24">
       <div className="mx-auto max-w-6xl">
         <div className="text-center">
-          <h2 className="font-headline text-3xl font-bold text-brand sm:text-4xl">
-            Bereit für Ihr eigenes Büro?
+          <h2 className="font-headline text-3xl font-bold text-brand-dark sm:text-4xl">
+            Bereit für Ihren repräsentativen Firmensitz?
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-body font-body text-ink/70">
             Vergleichen Sie die Pakete für Ihr personalisiertes oder

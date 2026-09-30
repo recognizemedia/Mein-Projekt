@@ -57,7 +57,7 @@ export default function ArticleModal({ article, onClose }: ArticleModalProps) {
           <img
             src={`/images/${article.image}`}
             alt=""
-            className="mt-6 aspect-[16/9] w-full rounded-box object-cover"
+            className="mt-6 aspect-[16/9] w-full rounded-article object-cover"
           />
 
           <div className="mt-6 space-y-5 text-ink/85">
