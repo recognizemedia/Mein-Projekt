@@ -2,7 +2,7 @@ import ArticlesSection from "@/components/ArticlesSection";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import IntroSlide from "@/components/IntroSlide";
-import PricingCta from "@/components/PricingCta";
+import ProcessSection from "@/components/ProcessSection";
 
 export default function App() {
   return (
@@ -10,7 +10,7 @@ export default function App() {
       <Header />
       <IntroSlide />
       <ArticlesSection />
-      <PricingCta />
+      <ProcessSection />
       <Footer />
     </main>
   );
