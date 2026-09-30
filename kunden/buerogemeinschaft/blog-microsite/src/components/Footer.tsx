@@ -47,9 +47,7 @@ export default function Footer() {
           </p>
         </div>
 
-        <div className="my-12 h-px w-full bg-gradient-to-r from-transparent via-white/25 to-transparent" />
-
-        <div className="grid gap-12 sm:grid-cols-3">
+        <div className="mt-12 grid gap-12 sm:grid-cols-3">
           <div>
             <h3 className="font-headline text-lg font-bold text-brand-accent">
               Standort Monheim
@@ -133,7 +131,7 @@ export default function Footer() {
           </nav>
         </div>
 
-        <p className="mt-16 border-t border-white/15 pt-6 text-center text-body font-body text-[13px] text-white">
+        <p className="mt-16 text-center text-body font-body text-[13px] text-white">
           *Die angegebenen Preise gelten zum Zeitpunkt Ihrer Anfrage und
           basieren auf einer Laufzeit von 24 Monaten. Je nach ausgewählten
           Services können sie variieren. Die Büropreise verstehen sich pro
