@@ -23,10 +23,10 @@ export default function ArticlesSection() {
             <span className="font-body text-base font-semibold text-brand-accent">
               Wissenswertes
             </span>
-            <h2 className="mt-3 font-headline text-3xl font-bold text-white sm:text-4xl">
+            <h2 className="mt-1 font-headline text-3xl font-bold text-white sm:text-4xl">
               Beiträge aus Ihrer Bürogemeinschaft
             </h2>
-            <p className="mx-auto mt-4 max-w-2xl text-body font-body text-white/80">
+            <p className="mx-auto mt-2 max-w-2xl text-body font-body text-white/80">
               Klicken Sie auf einen Beitrag, er öffnet sich direkt auf der
               Seite.
             </p>
