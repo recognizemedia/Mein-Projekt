@@ -66,10 +66,10 @@ export default function Footer() {
               <li className="flex items-center gap-3">
                 <MailIcon />
                 <a
-                  href="mailto:einsabuerogemeinschaftgmbh@t-online.de"
+                  href="mailto:consultingfcf@gmail.com"
                   className="hover:text-brand-accent"
                 >
-                  einsabuerogemeinschaftgmbh@t-online.de
+                  consultingfcf@gmail.com
                 </a>
               </li>
             </ul>
@@ -93,10 +93,10 @@ export default function Footer() {
               <li className="flex items-center gap-3">
                 <MailIcon />
                 <a
-                  href="mailto:einsabuerogemeinschaftgmbh@t-online.de"
+                  href="mailto:consultingfcf@gmail.com"
                   className="hover:text-brand-accent"
                 >
-                  einsabuerogemeinschaftgmbh@t-online.de
+                  consultingfcf@gmail.com
                 </a>
               </li>
             </ul>
@@ -109,7 +109,7 @@ export default function Footer() {
             <ul className="mt-5 space-y-3 text-body font-body text-white/85">
               <li>
                 <a
-                  href="https://einsabuerogemeinschaft.de/impressum/"
+                  href="https://firstconsultingservice.com/impressum/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-brand-accent"
@@ -119,7 +119,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://einsabuerogemeinschaft.de/datenschutzerklaerung/"
+                  href="https://firstconsultingservice.com/datenschutzerklaerung/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-brand-accent"
@@ -130,16 +130,6 @@ export default function Footer() {
             </ul>
           </nav>
         </div>
-
-        <p className="mt-16 text-center text-body font-body text-[13px] text-white">
-          *Die angegebenen Preise gelten zum Zeitpunkt Ihrer Anfrage und
-          basieren auf einer Laufzeit von 24 Monaten. Je nach ausgewählten
-          Services können sie variieren. Die Büropreise verstehen sich pro
-          Raum und Monat, abhängig davon, ob der Raum für ein bis zwei, zwei
-          bis drei oder mehrere Personen geeignet ist. Beim Co-Working gilt
-          der Preis pro Person und Monat. © Bürogemeinschaft &amp;
-          Dienstleistungs GmbH. Alle Rechte vorbehalten.
-        </p>
       </div>
     </footer>
   );
