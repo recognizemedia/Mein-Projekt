@@ -9,7 +9,7 @@ export default function Header() {
       <div className="absolute inset-0 bg-gradient-to-br from-brand-dark/96 via-brand-dark/78 to-brand/85" />
 
       <nav className="absolute inset-x-0 top-0 z-20 mx-auto flex max-w-6xl items-center justify-between px-6 py-6 text-white sm:px-10">
-        <a href="#top" className="font-headline text-[15px] font-semibold">
+        <a href="#top" className="font-headline text-sm font-semibold">
           Bürogemeinschaft
         </a>
         <div className="flex items-center gap-6 sm:gap-8">
