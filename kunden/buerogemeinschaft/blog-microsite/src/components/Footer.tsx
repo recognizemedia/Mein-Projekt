@@ -41,8 +41,9 @@ export default function Footer() {
         <div className="flex flex-col items-center gap-3 text-center">
           <img src="/logo-weiss.webp" alt="Bürogemeinschaft" className="h-11 w-auto" />
           <p className="max-w-md text-body font-body text-white">
-            Personalisierte und möblierte Büros in Monheim am Rhein und
-            Leverkusen.
+            Personalisierte und möblierte Büros in Monheim
+            <br />
+            am Rhein und Leverkusen
           </p>
         </div>
 
