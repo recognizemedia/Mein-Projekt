@@ -5,7 +5,7 @@ export default function IntroSlide() {
         <h2 className="font-headline text-3xl font-bold text-ink sm:text-4xl">
           Ihre Herausforderung
         </h2>
-        <div className="max-w-md space-y-5 text-body text-ink/80">
+        <div className="max-w-md space-y-5 text-body leading-[1.3em] text-ink/80">
           <p>
             Viele Unternehmen zahlen jeden Monat für ein Büro,
             <br />
