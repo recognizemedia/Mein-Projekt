@@ -8,6 +8,7 @@ Laufende Liste, welches Bild wo auf der Seite eingesetzt wird. Dateien liegen in
 | 02 | `mann-sofa-laptop-homeoffice.jpg` | Zweites sichtbares Bild (Slide 2 nach dem Header), Text "So einfach fühlt sich Sparen an" umgesetzt in `src/components/IntroSlide.tsx` |
 | 03 | `konferenzraum-dachgeschoss.png` | Ursprünglich für den Bereich vor dem Footer vorgesehen. Dieser Bereich wurde später durch den 3-Schritte-Prozessbereich ersetzt (siehe unten), das Bild liegt weiterhin im Projekt, wird aber aktuell nirgends verwendet |
 | 04 | `meetingraum-skyline.jpg` | Footer-Hintergrund |
+| — | `logo-weiss.webp` | Weiße Logo-Variante (transparenter Hintergrund), ausschließlich im Footer verwendet, liegt in `public/` |
 | 06 (zweite Verwendung) | `frau-cafe-notizbuch.jpg` | Zusätzlich als Bild für Schritt 1 "Ihre Anfrage stellen" im 3-Schritte-Prozessbereich vor dem Footer, `src/components/ProcessSection.tsx` |
 | 07 (zweite Verwendung) | `team-begruessung-buero.jpg` | Zusätzlich als Bild für Schritt 2 "Wunschbüro aussuchen" im 3-Schritte-Prozessbereich |
 | 12 (zweite Verwendung) | `mann-homeoffice-kaffee.jpg` | Zusätzlich als Bild für Schritt 3 "Langfristig profitieren" im 3-Schritte-Prozessbereich |
