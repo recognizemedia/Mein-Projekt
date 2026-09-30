@@ -10,7 +10,7 @@ export default function Header() {
 
       <div className="relative z-10 mx-auto flex max-w-3xl flex-col items-center gap-6 px-6 py-32 text-center text-white">
         <img src="/logo-weiss.webp" alt="Bürogemeinschaft" className="h-16 w-auto drop-shadow-lg" />
-        <span className="font-body text-sm text-brand-accent">
+        <span className="mt-4 font-body text-sm text-brand-accent">
           Bürogemeinschaft Monheim am Rhein &amp; Leverkusen
         </span>
         <h1 className="max-w-xl font-headline text-4xl leading-tight font-bold text-balance sm:text-5xl">

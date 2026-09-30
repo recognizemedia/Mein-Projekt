@@ -24,7 +24,7 @@ export default function ArticlesSection() {
               Wissenswertes
             </span>
             <h2 className="mt-3 font-headline text-3xl font-bold text-white sm:text-4xl">
-              Beiträge aus unserer Bürogemeinschaft
+              Beiträge aus Ihrer Bürogemeinschaft
             </h2>
             <p className="mx-auto mt-4 max-w-2xl text-body font-body text-white/80">
               Klicken Sie auf einen Beitrag, er öffnet sich direkt auf der

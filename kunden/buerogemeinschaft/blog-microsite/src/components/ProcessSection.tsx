@@ -35,7 +35,7 @@ export default function ProcessSection() {
           {steps.map(step => (
             <div
               key={step.title}
-              className="flex flex-col gap-4 rounded-box bg-gradient-to-br from-brand to-brand-dark p-5 text-white shadow-lg"
+              className="flex flex-col gap-4 rounded-process bg-gradient-to-br from-brand to-brand-dark p-5 text-white shadow-lg"
             >
               <h3 className="text-center font-headline text-xl font-bold">
                 {step.title}
@@ -43,7 +43,7 @@ export default function ProcessSection() {
               <img
                 src={`/images/${step.image}`}
                 alt=""
-                className="aspect-[4/3] w-full rounded-box object-cover"
+                className="aspect-[4/3] w-full rounded-process object-cover"
               />
               <p className="text-body text-center font-body text-white/90">
                 {step.text}

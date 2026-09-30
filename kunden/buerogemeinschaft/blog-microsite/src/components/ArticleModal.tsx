@@ -33,7 +33,7 @@ export default function ArticleModal({ article, onClose }: ArticleModalProps) {
         aria-modal="true"
         aria-labelledby={`${article.slug}-modal-title`}
         onClick={event => event.stopPropagation()}
-        className="relative w-full max-w-3xl animate-[modal-in_0.3s_ease-out] rounded-box bg-white shadow-2xl"
+        className="relative w-full max-w-3xl animate-[modal-in_0.3s_ease-out] rounded-article bg-white shadow-2xl"
       >
         <button
           type="button"
@@ -46,7 +46,7 @@ export default function ArticleModal({ article, onClose }: ArticleModalProps) {
           </svg>
         </button>
 
-        <div className="max-h-[85vh] overflow-y-auto rounded-box p-6 sm:p-10">
+        <div className="max-h-[85vh] overflow-y-auto rounded-article p-6 sm:p-10">
           <h3
             id={`${article.slug}-modal-title`}
             className="pr-10 font-headline text-3xl font-bold text-brand-dark sm:text-4xl"
