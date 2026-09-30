@@ -7,8 +7,9 @@ export default function IntroSlide() {
         </h2>
         <div className="max-w-md space-y-5 text-body text-ink/80">
           <p>
-            Viele Unternehmen zahlen jeden Monat für ein Büro, das sie kaum
-            nutzen.
+            Viele Unternehmen zahlen jeden Monat für ein Büro,
+            <br />
+            das sie kaum nutzen.
           </p>
           <p>
             Möbel, Kaution und ein langer Vertrag binden Kapital, das Sie
