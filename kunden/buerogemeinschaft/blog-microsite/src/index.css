@@ -12,6 +12,9 @@
 
   --text-body: 19px;
   --text-body--line-height: 1.4;
+
+  --radius-button: 20px;
+  --radius-box: 25px;
 }
 
 html {

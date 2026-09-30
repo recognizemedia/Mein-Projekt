@@ -35,7 +35,7 @@ export default function ProcessSection() {
           {steps.map(step => (
             <div
               key={step.title}
-              className="flex flex-col gap-4 rounded-3xl bg-gradient-to-br from-brand to-brand-dark p-5 text-white shadow-lg"
+              className="flex flex-col gap-4 rounded-box bg-gradient-to-br from-brand to-brand-dark p-5 text-white shadow-lg"
             >
               <h3 className="text-center font-headline text-xl font-bold">
                 {step.title}
@@ -43,7 +43,7 @@ export default function ProcessSection() {
               <img
                 src={`/images/${step.image}`}
                 alt=""
-                className="aspect-[4/3] w-full rounded-2xl object-cover"
+                className="aspect-[4/3] w-full rounded-box object-cover"
               />
               <p className="text-body text-center font-body text-white/90">
                 {step.text}
@@ -57,7 +57,7 @@ export default function ProcessSection() {
             href="https://einsabuerogemeinschaft.de/preise"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 rounded-full bg-brand-dark px-8 py-3 font-body font-semibold text-white transition hover:brightness-110"
+            className="inline-flex items-center gap-2 rounded-button bg-brand-dark px-8 py-3 font-body font-semibold text-white transition hover:brightness-110"
           >
             Anfrage Stellen
           </a>

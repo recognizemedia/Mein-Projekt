@@ -24,7 +24,7 @@ export default function IntroSlide() {
           href="https://einsabuerogemeinschaft.de/preise"
           target="_blank"
           rel="noopener noreferrer"
-          className="mt-3 inline-flex w-fit flex-col items-center rounded-2xl bg-brand-dark px-8 py-3 text-center font-body font-semibold text-white transition hover:brightness-110"
+          className="mt-3 inline-flex w-fit flex-col items-center rounded-button bg-brand-dark px-8 py-3 text-center font-body font-semibold text-white transition hover:brightness-110"
         >
           <span>Ihre Anfrage</span>
           <span className="text-xs font-normal text-white/80">kostenlos &amp; unverbindlich</span>
@@ -34,7 +34,7 @@ export default function IntroSlide() {
         <img
           src="/images/mann-sofa-laptop-homeoffice.jpg"
           alt="Entspannt arbeiten mit einem personalisierten Büro im Hintergrund"
-          className="h-full w-full rounded-3xl object-cover shadow-xl"
+          className="h-full w-full rounded-box object-cover shadow-xl"
         />
       </div>
     </section>

@@ -18,7 +18,7 @@ export default function Header() {
         </h1>
         <a
           href="#beitraege"
-          className="mt-4 inline-flex items-center gap-2 rounded-full bg-brand-accent px-6 py-3 font-body font-semibold text-brand-dark transition hover:brightness-105"
+          className="mt-4 inline-flex items-center gap-2 rounded-button bg-brand-accent px-6 py-3 font-body font-semibold text-brand-dark transition hover:brightness-105"
         >
           Beiträge entdecken
         </a>

@@ -33,20 +33,20 @@ export default function ArticleModal({ article, onClose }: ArticleModalProps) {
         aria-modal="true"
         aria-labelledby={`${article.slug}-modal-title`}
         onClick={event => event.stopPropagation()}
-        className="relative w-full max-w-3xl animate-[modal-in_0.3s_ease-out] rounded-3xl bg-white shadow-2xl"
+        className="relative w-full max-w-3xl animate-[modal-in_0.3s_ease-out] rounded-box bg-white shadow-2xl"
       >
         <button
           type="button"
           onClick={onClose}
           aria-label="Artikel schließen"
-          className="absolute right-4 top-4 z-10 flex h-10 w-10 items-center justify-center rounded-full bg-ink/5 text-ink transition hover:bg-ink/10"
+          className="absolute right-4 top-4 z-10 flex h-10 w-10 items-center justify-center rounded-button bg-ink/5 text-ink transition hover:bg-ink/10"
         >
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
             <path d="M6 6l12 12M18 6L6 18" strokeLinecap="round" />
           </svg>
         </button>
 
-        <div className="max-h-[85vh] overflow-y-auto rounded-3xl p-6 sm:p-10">
+        <div className="max-h-[85vh] overflow-y-auto rounded-box p-6 sm:p-10">
           <h3
             id={`${article.slug}-modal-title`}
             className="pr-10 font-headline text-3xl font-bold text-brand-dark sm:text-4xl"
@@ -57,7 +57,7 @@ export default function ArticleModal({ article, onClose }: ArticleModalProps) {
           <img
             src={`/images/${article.image}`}
             alt=""
-            className="mt-6 aspect-[16/9] w-full rounded-2xl object-cover"
+            className="mt-6 aspect-[16/9] w-full rounded-box object-cover"
           />
 
           <div className="mt-6 space-y-5 text-ink/85">
@@ -89,7 +89,7 @@ export default function ArticleModal({ article, onClose }: ArticleModalProps) {
                     href={rundgangLinks[key]}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 rounded-full border border-brand px-4 py-2 text-sm font-semibold text-brand transition hover:bg-brand hover:text-white"
+                    className="inline-flex items-center gap-2 rounded-button border border-brand px-4 py-2 text-sm font-semibold text-brand transition hover:bg-brand hover:text-white"
                   >
                     Virtueller Rundgang {key === "monheim" ? "Monheim am Rhein" : "Leverkusen"}
                   </a>

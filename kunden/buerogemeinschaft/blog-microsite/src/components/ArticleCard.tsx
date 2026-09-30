@@ -11,7 +11,7 @@ export default function ArticleCard({ article, onOpen }: ArticleCardProps) {
       type="button"
       id={article.slug}
       onClick={onOpen}
-      className="group relative block aspect-[4/3] w-full scroll-mt-24 overflow-hidden rounded-2xl shadow-lg"
+      className="group relative block aspect-[4/3] w-full scroll-mt-24 overflow-hidden rounded-box shadow-lg"
     >
       <img
         src={`/images/${article.image}`}
