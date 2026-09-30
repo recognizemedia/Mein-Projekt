@@ -21,7 +21,7 @@ export default function ProcessSection() {
     <section className="bg-white px-6 py-24">
       <div className="mx-auto max-w-6xl">
         <div className="text-center">
-          <h2 className="font-headline text-3xl font-bold text-ink sm:text-4xl">
+          <h2 className="font-headline text-3xl font-bold text-brand sm:text-4xl">
             Bereit für Ihr eigenes Büro?
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-body font-body text-ink/70">
@@ -29,9 +29,6 @@ export default function ProcessSection() {
             möbliertes Büro in Monheim am Rhein und Leverkusen und finden Sie
             die passende Lösung für Ihr Unternehmen.
           </p>
-          <h3 className="mt-10 font-headline text-2xl font-bold text-brand sm:text-3xl">
-            Sie müssen nicht mehr tun als:
-          </h3>
         </div>
 
         <div className="mt-12 grid grid-cols-1 gap-6 sm:grid-cols-3">
@@ -40,9 +37,9 @@ export default function ProcessSection() {
               key={step.title}
               className="flex flex-col gap-4 rounded-3xl bg-gradient-to-br from-brand to-brand-dark p-5 text-white shadow-lg"
             >
-              <h4 className="text-center font-headline text-xl font-bold">
+              <h3 className="text-center font-headline text-xl font-bold">
                 {step.title}
-              </h4>
+              </h3>
               <img
                 src={`/images/${step.image}`}
                 alt=""
