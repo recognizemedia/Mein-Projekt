@@ -49,7 +49,7 @@ export default function Footer() {
 
         <div className="mt-12 grid gap-12 sm:grid-cols-3">
           <div>
-            <h3 className="font-headline text-lg font-bold text-brand-accent">
+            <h3 className="font-headline text-[21px] font-bold text-brand-accent">
               Standort Monheim
             </h3>
             <ul className="mt-[15px] space-y-3 text-body font-body text-white/85">
@@ -76,7 +76,7 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="font-headline text-lg font-bold text-brand-accent">
+            <h3 className="font-headline text-[21px] font-bold text-brand-accent">
               Standort Leverkusen
             </h3>
             <ul className="mt-[15px] space-y-3 text-body font-body text-white/85">
@@ -103,7 +103,7 @@ export default function Footer() {
           </div>
 
           <nav aria-label="Informationen">
-            <h3 className="font-headline text-lg font-bold text-brand-accent">
+            <h3 className="font-headline text-[21px] font-bold text-brand-accent">
               Informationen
             </h3>
             <ul className="mt-[15px] space-y-3 text-body font-body text-white/85">
