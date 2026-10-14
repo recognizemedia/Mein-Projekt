@@ -39,7 +39,7 @@ export default function Footer() {
         <h2 className="sr-only">Standorte, Kontakt und rechtliche Informationen</h2>
 
         <div className="flex flex-col items-center gap-3 text-center">
-          <img src="/logo-weiss.webp" alt="Bürogemeinschaft" className="h-11 w-auto" />
+          <img src="/logo-weiss.webp" alt="Bürogemeinschaft" className="h-16 w-auto" />
           <p className="max-w-md text-body font-body text-white">
             Personalisierte und möblierte Büros in Monheim
             <br />
