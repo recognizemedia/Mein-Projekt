@@ -33,7 +33,7 @@ export default function Header() {
           Bürogemeinschaft Monheim am Rhein
           <br className="sm:hidden" /> &amp; Leverkusen
         </span>
-        <h1 className="-mt-[5px] -mb-[5px] max-w-xl font-headline text-4xl leading-tight font-bold text-balance sm:text-5xl">
+        <h1 className="-mt-[11px] -mb-[5px] max-w-xl font-headline text-4xl leading-tight font-bold text-balance sm:text-5xl">
           Mieten Sie Ihr personalisiertes oder möbliertes Büro und sparen Sie Geld
         </h1>
         <a
