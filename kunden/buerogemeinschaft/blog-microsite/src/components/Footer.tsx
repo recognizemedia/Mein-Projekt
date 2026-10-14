@@ -52,7 +52,7 @@ export default function Footer() {
             <h3 className="font-headline text-lg font-bold text-brand-accent">
               Standort Monheim
             </h3>
-            <ul className="mt-5 space-y-3 text-body font-body text-white/85">
+            <ul className="mt-[15px] space-y-3 text-body font-body text-white/85">
               <li className="flex items-start gap-3">
                 <PinIcon />
                 <span>Sandstraße 104, 40789 Monheim am Rhein</span>
@@ -79,7 +79,7 @@ export default function Footer() {
             <h3 className="font-headline text-lg font-bold text-brand-accent">
               Standort Leverkusen
             </h3>
-            <ul className="mt-5 space-y-3 text-body font-body text-white/85">
+            <ul className="mt-[15px] space-y-3 text-body font-body text-white/85">
               <li className="flex items-start gap-3">
                 <PinIcon />
                 <span>Moosweg 3, 51377 Leverkusen</span>
@@ -106,7 +106,7 @@ export default function Footer() {
             <h3 className="font-headline text-lg font-bold text-brand-accent">
               Informationen
             </h3>
-            <ul className="mt-5 space-y-3 text-body font-body text-white/85">
+            <ul className="mt-[15px] space-y-3 text-body font-body text-white/85">
               <li>
                 <a
                   href="https://firstconsultingservice.com/impressum/"
