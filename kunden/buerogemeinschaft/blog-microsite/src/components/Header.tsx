@@ -28,7 +28,7 @@ export default function Header() {
       </nav>
 
       <div className="relative z-10 mx-auto flex max-w-3xl flex-col items-center gap-6 px-6 py-32 text-center text-white">
-        <img src="/logo-weiss.webp" alt="Bürogemeinschaft" className="h-16 w-auto drop-shadow-lg" />
+        <img src="/logo-weiss.webp" alt="Bürogemeinschaft" className="mb-[10px] h-16 w-auto drop-shadow-lg" />
         <span className="-mt-[5px] font-body text-base text-brand-accent">
           Bürogemeinschaft Monheim am Rhein
           <br className="sm:hidden" /> &amp; Leverkusen
