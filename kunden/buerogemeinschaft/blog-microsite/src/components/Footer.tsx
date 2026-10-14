@@ -55,7 +55,11 @@ export default function Footer() {
             <ul className="mt-[15px] space-y-3 text-body font-body text-white/85">
               <li className="flex items-start gap-3">
                 <PinIcon />
-                <span>Sandstraße 104, 40789 Monheim am Rhein</span>
+                <span>
+                  Sandstraße 104, 40789 Monheim
+                  <br />
+                  am Rhein
+                </span>
               </li>
               <li className="flex items-center gap-3">
                 <PhoneIcon />
