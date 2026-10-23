@@ -993,14 +993,6 @@ p {
   color: var(--gedaempft);
 }
 
-.platzhalter {
-  padding: 2px 6px;
-  border-radius: 4px;
-  background: #ffe7a3;
-  color: var(--tinte);
-  font-weight: 600;
-}
-
 .kopf__zurueck {
   grid-column: 3;
 }
