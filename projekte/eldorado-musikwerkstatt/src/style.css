@@ -254,7 +254,11 @@ p {
 .abschnitt + .abschnitt,
 .fuss {
   margin-top: calc(var(--welle) * -1);
-  padding-top: calc(var(--pad) + var(--welle));
+  padding-top: calc(var(--pad) * 0.55 + var(--welle));
+}
+
+.fuss {
+  padding-top: calc(var(--pad) * 0.35 + var(--welle));
 }
 
 .welle {
