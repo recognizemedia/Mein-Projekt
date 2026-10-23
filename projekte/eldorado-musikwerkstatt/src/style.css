@@ -614,7 +614,7 @@ p {
 /* Angebot */
 
 .angebot {
-  background: var(--creme);
+  background: var(--papier);
 }
 
 .angebot__raster {
@@ -753,7 +753,7 @@ p {
 }
 
 .grosskarte .knopf {
-  margin-top: auto;
+  margin-top: 0;
 }
 
 .grosskarte .haken {
@@ -765,7 +765,8 @@ p {
   align-items: center;
   gap: 16px;
   width: 100%;
-  margin-bottom: 26px;
+  margin-top: auto;
+  margin-bottom: 6px;
   padding-top: 24px;
   border-top: 1px solid rgba(255, 255, 255, 0.25);
 }
@@ -839,7 +840,7 @@ p {
 
 .fuss {
   padding-bottom: 36px;
-  background: var(--creme);
+  background: var(--papier);
   color: var(--tinte);
   font-size: 1rem;
 }
