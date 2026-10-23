@@ -476,6 +476,7 @@ p {
 .unterstrichen {
   position: relative;
   display: inline-block;
+  isolation: isolate;
   color: var(--papier);
   white-space: nowrap;
 }
@@ -487,6 +488,8 @@ p {
   width: 104%;
   height: 0.28em;
   overflow: visible;
+  /* Strich liegt hinter der Schrift */
+  z-index: -1;
 }
 
 .unterstrichen path {
