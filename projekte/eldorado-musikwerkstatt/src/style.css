@@ -108,7 +108,7 @@ p {
 .oberzeile {
   display: inline-flex;
   align-items: center;
-  margin-bottom: 13px;
+  margin-bottom: 4px;
   color: var(--rot);
   font-size: 0.85rem;
   font-weight: 700;
@@ -713,7 +713,7 @@ p {
 }
 
 .grosskarte .oberzeile {
-  margin-bottom: -5px;
+  margin-bottom: -14px;
 }
 
 .grosskarte h3 {
