@@ -9,7 +9,7 @@
   --creme: #f7f0e6;
   --creme-rand: #eadfce;
   --gedaempft: #5a5048;
-  --nacht: 20, 14, 12;
+  --nacht: 14, 10, 9;
 
   --serif: "EB Garamond Variable", "EB Garamond", Garamond, Georgia, serif;
   --sans: "Source Sans 3 Variable", "Source Sans 3", "Segoe UI", system-ui, sans-serif;
@@ -331,7 +331,7 @@ p {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, rgba(var(--nacht), 0.82), rgba(var(--nacht), 0.9));
+  background: linear-gradient(180deg, rgba(var(--nacht), 0.87), rgba(var(--nacht), 0.93));
 }
 
 .abschnitt__bild--oben img {
@@ -464,8 +464,8 @@ p {
 
 .hero .abschnitt__bild::after {
   background:
-    linear-gradient(90deg, rgba(var(--nacht), 0.94) 0%, rgba(var(--nacht), 0.78) 48%, rgba(var(--nacht), 0.5) 100%),
-    linear-gradient(0deg, rgba(var(--nacht), 0.6), transparent 40%);
+    linear-gradient(90deg, rgba(var(--nacht), 0.95) 0%, rgba(var(--nacht), 0.84) 48%, rgba(var(--nacht), 0.6) 100%),
+    linear-gradient(0deg, rgba(var(--nacht), 0.7), transparent 40%);
 }
 
 .hero__raster {
