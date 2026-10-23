@@ -395,7 +395,7 @@ p {
 }
 
 .kopf__logo img {
-  width: 166px;
+  width: 150px;
   transition: width 300ms var(--ease);
 }
 
@@ -405,7 +405,7 @@ p {
 }
 
 .kopf--kompakt .kopf__logo img {
-  width: 136px;
+  width: 126px;
 }
 
 .navi {
@@ -1171,11 +1171,11 @@ p {
   }
 
   .kopf__logo img {
-    width: 138px;
+    width: 128px;
   }
 
   .kopf--kompakt .kopf__logo img {
-    width: 124px;
+    width: 116px;
   }
 
   .hero {
