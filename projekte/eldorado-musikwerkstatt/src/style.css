@@ -936,6 +936,75 @@ p {
   gap: 24px;
 }
 
+/* Impressum und Datenschutz */
+
+.rechtliches {
+  z-index: 2;
+  margin-top: calc(var(--kopf-welle) * -1 - 2px);
+  padding-top: calc(var(--pad) * 0.8 + var(--kopf-welle));
+  background: var(--papier);
+}
+
+.rechtliches__raster {
+  max-width: 820px;
+}
+
+.rechtliches h1 {
+  margin-bottom: 36px;
+  font-size: clamp(2.6rem, 6vw, 4.4rem);
+}
+
+.rechtliches h2 {
+  margin: 40px 0 12px;
+  font-size: clamp(1.5rem, 2.4vw, 1.9rem);
+}
+
+.rechtliches p,
+.rechtliches ul {
+  margin: 0 0 14px;
+  color: #2b2622;
+}
+
+.rechtliches ul {
+  padding-left: 1.2em;
+}
+
+.rechtliches li {
+  margin-bottom: 6px;
+}
+
+.rechtliches li::marker {
+  color: var(--rot);
+}
+
+.rechtliches a {
+  color: var(--rot);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.rechtliches__intro {
+  font-size: 1.2rem;
+}
+
+.rechtliches__stand {
+  margin-top: 40px;
+  font-size: 0.95rem;
+  color: var(--gedaempft);
+}
+
+.platzhalter {
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: #ffe7a3;
+  color: var(--tinte);
+  font-weight: 600;
+}
+
+.kopf__zurueck {
+  grid-column: 3;
+}
+
 /* Anrufleiste für Smartphones */
 
 .anruf-leiste {
@@ -1043,6 +1112,17 @@ p {
 
   .kopf__anruf {
     display: none;
+  }
+
+  .kopf__zurueck {
+    min-height: 50px;
+    padding: 12px 22px;
+    font-size: 1rem;
+  }
+
+  .rechtliches {
+    margin-top: 0;
+    padding-top: calc(var(--pad) + 90px);
   }
 
   .menue-knopf {
