@@ -124,6 +124,10 @@ p {
   background: currentColor;
 }
 
+.hero .oberzeile::before {
+  display: none;
+}
+
 .oberzeile--hell {
   color: rgba(255, 255, 255, 0.86);
 }
@@ -700,17 +704,17 @@ p {
   filter: grayscale(1);
 }
 
-/* Rote Fläche mit Deckkraft 0,93 (Bildanteil 0,07) über dem Hintergrundbild */
+/* Rote Fläche mit Deckkraft 0,95 (Bildanteil 0,05) über dem Hintergrundbild */
 .grosskarte::before {
   content: "";
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: rgba(185, 37, 30, 0.93);
+  background: rgba(185, 37, 30, 0.95);
 }
 
 .abschnitt__bild--rot::after {
-  background: rgba(185, 37, 30, 0.93);
+  background: rgba(185, 37, 30, 0.95);
 }
 
 .abschnitt__bild--rot img {
@@ -1000,7 +1004,8 @@ p {
     flex-direction: column;
     align-items: center;
     gap: 6px;
-    padding: 120px 24px 40px;
+    padding: 110px 24px 36px;
+    border-radius: 22px;
     background: var(--papier);
     box-shadow: 0 30px 60px -30px rgba(0, 0, 0, 0.4);
     translate: 0 -105%;
@@ -1028,14 +1033,24 @@ p {
   }
 
   .kopf {
+    position: fixed;
+    top: 12px;
+    left: 12px;
+    right: 12px;
     -webkit-mask: none;
     mask: none;
     padding-bottom: 0;
-    border-radius: 0 0 22px 22px;
+    border-radius: 22px;
+  }
+
+  .kopf__innen,
+  .kopf--kompakt .kopf__innen {
+    padding: 10px 10px 10px 20px;
   }
 
   .hero {
-    margin-top: -22px;
+    margin-top: 0;
+    padding-top: calc(var(--pad) + 90px);
   }
 
   .kopf__anruf {
@@ -1104,7 +1119,7 @@ p {
 
   .hero {
     min-height: auto;
-    padding-top: calc(var(--pad) * 0.8);
+    padding-top: 136px;
   }
 
   .hero__raster,
